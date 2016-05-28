@@ -10,9 +10,6 @@ Some links for research, and for writing good philosophical prose.
 -  [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
 -  [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
 -  [[http://philpapers.org][PhilPapers]]
--  [[http://kantpapers.org][KantPapers]]
--  [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]]
--  [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
 -  [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
 -  [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
 -  [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
@@ -20,7 +17,7 @@ Some links for research, and for writing good philosophical prose.
 
 * Academic Technology & Tools
 
-Links to tools I use for research and writing
+Links to tools for research and writing
 
 -  [[http://daringfireball.net/projects/markdown/][Markdown]]: Plaintext markup for easy writing
 -  [[http://johnmacfarlane.net/pandoc/index.html][Pandoc]]: File conversion
