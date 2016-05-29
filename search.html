@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Class 1 - Philosophy 101</title>
+    <title>Search - Philosophy 101
+</title>
 
     <script src="http://phil101.colinmclear.net/theme/js/jquery.min.js" ></script>
     <script type="text/javascript" src="http://phil101.colinmclear.net/theme/js/bigfoot.js"></script>
@@ -18,19 +19,15 @@
 
     <link href="http://phil101.colinmclear.net/images/favicon.ico" rel="icon">
 
-<link rel="canonical" href="http://phil101.colinmclear.net/assignments/2016/May/29/class-1">
 
         <meta name="author" content="Colin McLear" />
-        <meta name="description" content="Class overview.1 References Smit, Houston. 2000. “Kant on Marks and the Immediacy of Intuition.” The Philosophical Review 109 (2): 235–66. Hello!↩" />
 
+    <!-- Open Graph tags -->
         <meta property="og:site_name" content="Philosophy 101" />
-        <meta property="og:type" content="article"/>
-        <meta property="og:title" content="Class 1"/>
-        <meta property="og:url" content="http://phil101.colinmclear.net/assignments/2016/May/29/class-1"/>
-        <meta property="og:description" content="Class overview.1 References Smit, Houston. 2000. “Kant on Marks and the Immediacy of Intuition.” The Philosophical Review 109 (2): 235–66. Hello!↩"/>
-        <meta property="article:published_time" content="2016-05-29" />
-            <meta property="article:section" content="assignments" />
-            <meta property="article:author" content="Colin McLear" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Philosophy 101"/>
+        <meta property="og:url" content="http://phil101.colinmclear.net"/>
+        <meta property="og:description" content="Philosophy 101"/>
 
 
         <link rel="stylesheet" href="http://phil101.colinmclear.net/theme/css/bootstrap.simplex.min.css" type="text/css"/>
@@ -47,8 +44,6 @@
 
 
 
-        <link href="http://phil101.colinmclear.net/feeds/assignments.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Philosophy 101 assignments ATOM Feed"/>
 
 </head>
 <body>
@@ -68,11 +63,11 @@ Philosophy 101            </a>
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                    <li><a href="/resources">Resources</a></li>
                     <li><a href="/schedule">Schedule</a></li>
+                    <li><a href="/assignments">Assignments</a></li>
+                    <li><a href="/resources">Resources</a></li>
                     <li><a href="/contact">Contact</a></li>
                         
-                <li><a href="http://phil101.colinmclear.net/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Assignments</span></a></li>
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
@@ -81,6 +76,8 @@ Philosophy 101            </a>
                   <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
                 </form></span>
               </li>
+              <li><a href="http://phil101.colinmclear.net/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -91,54 +88,7 @@ Philosophy 101            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="http://phil101.colinmclear.net/assignments/2016/May/29/class-1"
-                       rel="bookmark"
-                       title="Permalink to Class 1">
-                        Class&nbsp;1
-                    </a>
-                </h1>
-            </header>
-            <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2016-05-29T00:00:00-04:00"> Sun 29 May 2016</time>
-    </span>
-
-
-
-
-
-    
-</footer><!-- /.post-info -->                    </div>
-                </div>
-                <ul>
-<li>Class overview.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></li>
-</ul>
-<h2 id="references" class="unnumbered">References</h2>
-<div id="refs" class="references">
-<div id="ref-smit2000">
-<p>Smit, Houston. 2000. “Kant on Marks and the Immediacy of Intuition.” <em>The Philosophical Review</em> 109 (2):&nbsp;235–66.</p>
-</div>
-</div>
-<section class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Hello!<a href="#fnref1">↩</a></p></li>
-</ol>
-</section>
-
-            </div>
-            <!-- /.entry-content -->
-        </article>
-    </section>
-
+<div id="tipue_search_content"></div>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
@@ -219,5 +169,16 @@ Philosophy 101            </a>
     </script>
     <!-- End Google Analytics Code -->
 
+<script type="text/javascript" src="http://phil101.colinmclear.net/theme/tipuesearch/tipuesearch.packed.min.js?1fecf4bd"></script>
+    <script>
+    $(document).ready(function() {
+      $('#tipue_search_input').tipuesearch({
+        'mode' : 'json',
+        'show': 10,
+        'newWindow': false,
+        'contentLocation': 'tipuesearch_content.json'
+      });
+    });
+    </script>
 </body>
 </html>
