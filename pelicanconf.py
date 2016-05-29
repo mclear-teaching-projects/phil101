@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
 SITENAME = u'Philosophy 101'
-SITEURL = 'phil101.colinmclear.net'
+SITEURL = 'http://phil101.colinmclear.net'
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 PATH = 'content'
@@ -26,13 +26,13 @@ RELATIVE_URLS = True
 THEME = 'pelican-bootstrap3'
 BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_NAVBAR_INVERSE = True
-DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    ('Resources', '/resources'),
     ('Schedule', '/schedule'),
+    ('Assignments', '/assignments'),
+    ('Resources', '/resources'),
     ('Contact', '/contact'),
     # ('Syllabus', '/syllabus'),
     # ('Tags', '/tags.html'),
@@ -40,19 +40,19 @@ MENUITEMS = (
     # ('Category1', 'category/category1.html'),
     # ('Category2', 'category/category2.html'),
 )
+THEME_STATIC_DIR = 'theme'
 # Turn on Typogrify
 TYPOGRIFY = True
 CC_LICENSE = "CC-BY-NC-SA"
-GOOGLE_ANALYTICS = 'UA-30497236-1'
-CUSTOM_CSS = 'static/custom.css'
 ARTICLE_PATHS = ['assignments']
-ARTICLE_SAVE_AS = 'assignments/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html' 
-ARTICLE_URL = 'assignments/{date:%Y}/{date:%b}/{date:%d}/{slug}' 
 PAGE_URL = '{slug}'
-PAGE_SAVE_AS = '{slug}/index.html'
-
-STATIC_PATHS = ['images', 'readings', 'themes', 'extra/CNAME', 'extra/custom.css', 'extra/syllabus.html', 'extra/syllabus.pdf']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}, 'extra/style.css': {'path': 'static/style.css'}, 'extra/syllabus.html': {'path': 'static/syllabus.html'}, 'extra/syllabus.pdf': {'path': 'static/syllabus.pdf'}}
+PAGE_SAVE_AS = '{slug}.html'
+INDEX_SAVE_AS = 'assignments/index.html'
+INDEX_URL = 'assignments/'
+CUSTOM_CSS = 'static/custom.css'
+STATIC_PATHS = ['images', 'readings', 'extra/CNAME', 'extra/custom.css', 'extra/syllabus.html', 'extra/syllabus.pdf', 'assignments']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}}
+DIRECT_TEMPLATES = ('index', 'tags', 'authors', 'archives', 'search')
 
 # Plugins ##########
 PLUGIN_PATHS = ['/Users/Roambot/bin/pelican-plugins']
@@ -89,14 +89,5 @@ LINKS = (
         ('Blackboard', 'https://my.unl.edu/webapps/portal/frameset.jsp'),
         ('UNL Philosophy', 'http://www.unl.edu/philosophy/'))
 
-# Social widget
-# SOCIAL = (
-#           ('twitter', 'http://twitter.com/mclearc'),
-#           ('github', 'https://github.com/mclearc'),
-#           ('facebook', 'https://www.facebook.com/?_rdr=p'),
-#           )
-
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
