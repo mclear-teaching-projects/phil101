@@ -82,3 +82,16 @@ color: #000000;/* CHANGE COLOR HERE*/
     color: #000000;/* CHANGE COLOR HERE*/
 }
 
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1)  {
+    #banner h1{
+       font-size: 30px; /* !important;*/
+    }
+    #banner .intro{
+        font-size: 16px;
+    }
+}
+/* STYLES GO HERE */}
