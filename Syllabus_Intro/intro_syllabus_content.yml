@@ -1,0 +1,84 @@
+---
+# Instructor details
+instructor: Colin McLear
+course: PHIL 101
+time: M/W 10:30-11:20 am
+location: HAH-102
+office: "1003 Oldfather Hall"
+hours: M/W 1-2 pm
+phone: "607 216 8718"
+fax: "402 272 0626"
+email: <mclear@unl.edu>
+urls: '[phil101.colinmclear.net](http://phil101.colinmclear.net)'
+
+# Front matter
+title: Introduction to Philosophy
+
+quote:
+- content: 'The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term'
+  title: Philosophy and the Scientific Image of Man
+  author: Wilfrid Sellars
+
+# Sections
+overview: 'The subject matter of philosophy traditionally concerns the articulation of ”big” questions such as, ”Can we know anything?”; ”What is real?”; ”What kinds of things exist?”. Philosophers use rigorous and disciplined methods of thinking, in the hopes of bringing such questions under intellectual control. This course will be an in-depth look at a few specific topics, rather than a comprehensive survey of the field and its history. You will learn what philosophy is all about and how to do it yourself.'
+objectives: 'Upon completion of this course students should be able to (i) find the argument of a text and restate it clearly in their own words; (ii) explain viewpoints clearly that are not their own; (iii) think critically about the philosophical ideas discussed in this course; (iv) write papers using theses, organization, arguments, evidence, and language suitable to analytical writing in general and the discipline of philosophy in particular.'
+materials: |
+  Readings will be posted on the <a href="http://phil101.colinmclear.net">course website</a> under ”Assignment Schedule”.
+
+  We will use iClicker regularly in class. Instruction for registering and using your iClicker may be found on the course website or at http://its.unl.edu/srs.
+  
+requirements:
+- preparation: 'You are expected to attend every class meeting fully prepared to discuss each assigned reading, to submit written work punctually, and to offer thoughtful and constructive responses to the remarks of your instructor and your classmates. Make sure that you bring the relevant readings with you to every lecture class. I further expect you to treat both the texts at hand and your classmates’ ideas with openness and respect.'
+  attendance: 'Attendance is required. You are also expected to attend every section meeting. 1/2 a letter grade will be deducted from your final course grade for every absence from section after your fifth.'
+  website: 'We will use a course website for all materials. The site address is: [phil101.colinmclear.net](http://phil101.colinmclear.net). Upcoming assignments and readings will be posted there. Please let me know if you have any problems. Technical glitches, computer malfunctions and crashing hard drives are not excuses for failing to complete work in this class.'
+  papers: 'Please submit work as a .docx or .rtf file. All work must be typed. I will not accept any handwritten work aside from that we do in class. Your papers should be in 12-point Times New Roman font, double-spaced with margins set to one inch on all sides. Your name, my name, the date and assignment should appear in the top left hand corner of the first page. Your last name and page number must appear in the top right hand corner on each subsequent page. Please staple or paperclip hard copies of papers and drafts. You are responsible for the presentation of your papers.'
+  late-work: 'Late papers and assignments will standardly be marked down by **1/3 of a letter grade for each day the work is late** (for example, from A- to B+, from B+ to B, and so on).'
+evaluation:
+- exam:
+    - title: |
+        Two Exams: 45%
+      description: |
+       The exams will involve a combination of short answer and short
+       essay questions.
+  essay:
+    - title: |
+        One Essay: 25%
+      description: |
+        Explain and critically assess a philosophical argument. Topics
+        will be provided. Approximately 3-4 pages.
+  quiz:
+    - title: |
+        Quizzes: 20%
+      description: |
+        Brief review quizzes. They will be given roughly once a week,
+        in section. Your two lowest grades will be dropped and your
+        highest counted twice.
+  responses:
+  participation:
+    - title: |
+        Participation: 10%
+      description: |
+        The participation grade takes into account your attendance in
+        class and section as well as the quantity and quality of your
+        participation.
+policies:
+- integrity: 'All the work you turn in (including papers, drafts, and discussion board posts) must be written by you specifically for this course. It must originate with you in form and content with all contributory sources fully and specifically acknowledged. Make yourself familiar with UNL’s Student Code of Conduct and Academic Integrity Code, available online. **In this course, the normal penalty for any violation of the code is an “F” for the semester**. Violations may have additional consequences including expulsion from the university. Don’t plagiarize – It just isn’t worth it.'
+  university: 'This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to physically handicapped, visually and/or hearing impaired students; plagiarism; sexual harassment; and racial or ethnic discrimination. All students are advised to become familiar with the respective University regulations and are encouraged to bring any questions or concerns to the attention of the instructor.'
+  ada: 'In compliance with University policy and equal access laws, I am available to discuss appropriate academic accommodations that may be required for students with disabilities. Students are encouraged to register with Student Disability Services to verify their eligibility for appropriate accommodations.'
+  misc: 'Please turn off cell phones, beeping watches, and other gadgets that make noise before entering our classroom. Absolutely no texting is permitted during class. I will subtract up to five points from your participation grade each and every time your phone rings or I see you texting during class.'
+resources:
+- jargon: 'It’s important to be on top of the technical terms used by philoso- phers. Please ask for clarification of terms in class. You can also consult Jim Pryor’s online “Philosophical Terms and Methods.”'
+  help: |
+    Papers should adhere to some consistent prac- tice of footnoting and citation (Chicago, MLA, etc.). I don’t really mind which one you use as long as you are consistent. On writing a philosophy paper, there is no better on-line guide than Jim Pryor’s. Please consult it. Hacker’s A Writer’s Reference is also extremely helpful. Useful online writing help may be found at the Purdue Online Writing Lab at http://owl.english.purdue.edu/owl/.
+
+    The University of Nebraska-Lincoln Writing Center can provide you with meaningful support as you write for this class as well as for every course in which you enroll. Trained peer consultants are available to talk with you as you plan, draft, and revise your writing. Please check the Writing Center website for locations, hours, and information about scheduling appointments.
+  reference: 'The Stanford Encyclopedia of Philosophy at [http://plato.stanford.edu](http://plato.stanford.edu) is an excellent online resource.'
+
+# Settings
+mainfont: Minion Pro
+sansfont: Optima
+fontsize: 11pt
+lang: English
+geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
+# header-color: green  # color of title bar header in html
+---
