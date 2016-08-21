@@ -174,10 +174,8 @@ propositions---i.e. sentences that can be true or false
 2. What's considered morally right or wrong does vary from culture to
    culture
 3. $\therefore$ There are no absolute moral truths
-* The Logic of Argument
-** Class Info
+* Class Info
 *** Course Website: http://phil101.colinmclear.net
-#+ATTR_REVEAL: :frag (appear)
 - syllabus
 - course assignments
 - readings (posted online)
@@ -191,9 +189,9 @@ propositions---i.e. sentences that can be true or false
 - Participation: 10%
 
 *** Clickers
-#+ATTR_REVEAL: :frag (appear)
 - Always bring to class
 - Available at the bookstore
+* The Logic of Argument
 ** Kinds of Argument
 
 #+ATTR_REVEAL: :frag (grow)
@@ -213,8 +211,8 @@ propositions---i.e. sentences that can be true or false
 ** Validity
 
 #+ATTR_REVEAL: :frag (appear)
--  An argument whose form /guarantees/ that, if
-   the premises are true, the conclusion must also be true
+-  An argument whose form /guarantees/ that, if the premises are true, the
+  conclusion must also be true
 
 *** Form vs. Content
 
@@ -417,22 +415,20 @@ Example: It is raining, /therefore/ the streets are wet
 2. ~B
 3. $\therefore$ ~A (by 1, 2, modus tollens)
 
-   
 ** Logical Fallacies
 #+ATTR_REVEAL: :frag (appear)
 -  Logical fallacy: :: A defect in the logical form or content of an
    argument
 
 #+ATTR_REVEAL: :frag (appear)
-- formal fallacy
-- informal fallacy
+- formal fallacy (defect of logical form)
+- informal fallacy (defect of content)
 
 #+BEGIN_NOTES
 -  Bad arguments tend to have patterns or forms
--  Some bad argument forms nevertheless may initially appear to be good
+-  Some bad arguments nevertheless may initially appear to be good
    arguments
 #+END_NOTES
-
 
 ** Formal Fallacies
 #+ATTR_REVEAL: :frag (appear)
@@ -470,6 +466,12 @@ Example: It is raining, /therefore/ the streets are wet
 #+END_QUOTE
 
 ** Informal Fallacies
+#+BEGIN_NOTES
+- an argument containing an informal fallacy might employ a valid logical form while nevertheless remaining rationally unpersuasive.
+- there are common forms of reasoning that are (or should be)
+  unpersuasive, but don't involve defects of logical form
+#+END_NOTES
+
 #+ATTR_REVEAL: :frag (appear)
 -  Straw Man: :: Purposely misrepresenting a view so that it can be more
    easily attacked or criticized
@@ -506,7 +508,7 @@ Example: It is raining, /therefore/ the streets are wet
   President Obama says that the United States health care system is in
   need of serious reform, and should be changed so that more people can
   affordably receive adequate coverage. But Obama is a socialist and we
-  shouldn't believe anyting he says.
+  shouldn't believe anything he says.
 #+END_QUOTE
 
 #+REVEAL: split
