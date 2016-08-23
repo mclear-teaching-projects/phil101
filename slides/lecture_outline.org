@@ -174,6 +174,7 @@ propositions---i.e. sentences that can be true or false
 2. What's considered morally right or wrong does vary from culture to
    culture
 3. $\therefore$ There are no absolute moral truths
+
 * Class Info
 *** Course Website: http://phil101.colinmclear.net
 - syllabus
@@ -187,14 +188,31 @@ propositions---i.e. sentences that can be true or false
 - Two Exams: 45%
 - Quizzes: 20%
 - Participation: 10%
+  
+#+BEGIN_NOTES
+- There will be prompts for the essay
+- We will review material for both exams (non-cumulative)
+- Note that there will be at least 10 quizzes
+  - Quiz sections on Thursday will have different questions from
+    sections on Friday
+  - Drop two lowest quizzes and count highest twice
+- Starting next week there will attendance taken in both lecture and section
+#+END_NOTES
 
 *** Clickers
 - Always bring to class
 - Available at the bookstore
-* The Logic of Argument
-** Kinds of Argument
+- Available on your phone (Reef Polling)
 
-#+ATTR_REVEAL: :frag (grow)
+* The Logic of Argument
+
+** Parts of an Argument
+#+ATTR_REVEAL: :frag (highlight-current-blue)
+- Premise (evidence) 
+- Conclusion (what follows from the evidence) 
+
+** Kinds of Argument
+#+ATTR_REVEAL: :frag (highlight-current-blue)
 -  Deductive Argument: :: the conclusion follows from the premises
    /necessarily/
 -  Inductive Argument: :: the conclusion is made /probable/ by the
@@ -203,8 +221,7 @@ propositions---i.e. sentences that can be true or false
    truth of the premises
 
 ** Characteristics of Deductive Argument
-
-#+ATTR_REVEAL: :frag (grow)
+#+ATTR_REVEAL: :frag (highlight-current-blue)
 -  Validity
 -  Soundness
 
@@ -213,6 +230,11 @@ propositions---i.e. sentences that can be true or false
 #+ATTR_REVEAL: :frag (appear)
 -  An argument whose form /guarantees/ that, if the premises are true, the
   conclusion must also be true
+  
+#+BEGIN_NOTES
+- Can a valid argument have a false conclusion?
+- Can a valid argument have a false premise?
+#+END_NOTES
 
 *** Form vs. Content
 
@@ -235,14 +257,15 @@ Whatever the content of this argument form, it will /always/ be valid
 [[/Users/Roambot/projects/phil101/content/slides/venn.png]]
 
 #+BEGIN_NOTES
-  - This is a Venn diagram, a way to visualize logical relationships
+- This is a Venn diagram, a way to visualize logical relationships
+  - There are discussions of Venn diagrams on the website. Follow the
+    critical thinking link under resources and look under "learning modules"
 #+END_NOTES
 
 ** Soundness
 
 #+ATTR_REVEAL: :frag (appear)
-- An argument which is (i) valid and (ii) has true
-  premises
+- An argument which is (i) valid and (ii) has true premises
 
 \\
           
@@ -363,14 +386,17 @@ Example: It is raining, /therefore/ the streets are wet
    culture
 3. $\therefore$ There are no absolute moral truths
 
-\\  
-
-#+ATTR_REVEAL: :frag (appear)
-1. If P, then Q
-2. ~Q
-3. $\therefore$ ~P
-
-#+REVEAL: split
+#+BEGIN_NOTES
+- What form does this argument look to have (modus tollens)
+- Is the argument really MT? (No)
+- There is an equivocation with respect to (2). So the argument as
+  actually stated is invalid. There is a difference between:
+  1. What is considered morally right/wrong varies with culture
+  2. What *is* morally right/wrong varies with culture
+- For the argument to be valid we need the latter version of (2) 
+#+END_NOTES
+ 
+*** Argument Extraction II
 
 #+BEGIN_QUOTE
   There are, moreover, seemingly unanswerable arguments that, if they
@@ -396,7 +422,7 @@ Example: It is raining, /therefore/ the streets are wet
 6. $\therefore$ There is free will
 #+END_NOTES
 
-*** Sample Extraction
+*** Sample Extraction II
 #+ATTR_REVEAL: :frag (appear)
 1. If there were no such thing as moral responsibility, then no one
    would be at fault for anything
@@ -2154,3 +2180,20 @@ The Chinese room
   of the program, and it is these systems that give rise to such
   features as minds. (Chalmers, 327)
 #+END_QUOTE
+
+* Quizzes
+** Week 1
+1. An argument consists of two parts -- the evidence, and what follows
+   from it. What do we call each of these two parts?
+2. The parts of an argument must be statements. What is a statement?
+3. If the premises of a valid argument are true, is the conclusion true?
+4. Can a valid argument have a false conclusion?
+5. Is a sound argument also valid?
+
+1. An argument consists of two parts -- the evidence, and what follows
+   from it. What do we call each of these two parts?
+2. The parts of an argument must be statements. Is a question a
+   statement?
+3. Can a valid argument have false premises?
+4. Can a sound argument have false premises?
+5. Can a sound argument have a false conclusion?
