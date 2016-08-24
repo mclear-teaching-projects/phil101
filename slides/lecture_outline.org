@@ -25,9 +25,27 @@
 - readings (posted online)
 - announcements
 
+** Evaluation
+#+ATTR_REVEAL: :frag (appear)
+- Essay: 25%
+- Two Exams: 45%
+- Quizzes: 20%
+- Participation: 10%
+  
+#+BEGIN_NOTES
+- There will be prompts for the essay
+- We will review material for both exams (non-cumulative)
+- Note that there will be at least 10 quizzes
+  - Quiz sections on Thursday will have different questions from
+    sections on Friday
+  - Drop two lowest quizzes and count highest twice
+- Starting next week there will attendance taken in both lecture and section
+#+END_NOTES
+
 ** Clickers
 - Always bring to class
 - Available at the bookstore
+- Available on your phone (Reef Polling)
 * What is Philosophy?
 ** The Origins of Western Philosophy
 #+ATTR_REVEAL: :frag (appear)
@@ -175,41 +193,17 @@ propositions---i.e. sentences that can be true or false
    culture
 3. $\therefore$ There are no absolute moral truths
 
-* Class Info
-*** Course Website: http://phil101.colinmclear.net
-- syllabus
-- course assignments
-- readings (posted online)
-- announcements
-
-*** Evaluation
-#+ATTR_REVEAL: :frag (appear)
-- Essay: 25%
-- Two Exams: 45%
-- Quizzes: 20%
-- Participation: 10%
-  
-#+BEGIN_NOTES
-- There will be prompts for the essay
-- We will review material for both exams (non-cumulative)
-- Note that there will be at least 10 quizzes
-  - Quiz sections on Thursday will have different questions from
-    sections on Friday
-  - Drop two lowest quizzes and count highest twice
-- Starting next week there will attendance taken in both lecture and section
-#+END_NOTES
-
-*** Clickers
-- Always bring to class
-- Available at the bookstore
-- Available on your phone (Reef Polling)
-
 * The Logic of Argument
 
 ** Parts of an Argument
 #+ATTR_REVEAL: :frag (highlight-current-blue)
 - Premise (evidence) 
 - Conclusion (what follows from the evidence) 
+  
+#+BEGIN_NOTES
+- An argument consists of *statements*, which can be true or false
+- No *questions* or *commands* as part of an argument
+#+END_NOTES
 
 ** Kinds of Argument
 #+ATTR_REVEAL: :frag (highlight-current-blue)
@@ -219,6 +213,10 @@ propositions---i.e. sentences that can be true or false
    premises
 -  Abductive Argument: :: the conclusion is the best explanation of the
    truth of the premises
+     
+#+BEGIN_NOTES
+- Why do we want to make arguments in the first place? (convince others rationally)
+#+END_NOTES
 
 ** Characteristics of Deductive Argument
 #+ATTR_REVEAL: :frag (highlight-current-blue)
