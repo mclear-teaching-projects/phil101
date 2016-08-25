@@ -581,24 +581,22 @@ Example: It is raining, /therefore/ the streets are wet
    controlling our experience of the world
 2. If our physical theories are highly successful then they correctly
    describe the nature of reality
-3. $\therefore$ Our physical theories correctly describe the nature of
+3. \therefore Our physical theories correctly describe the nature of
    reality (by 1, 2, MP)
 4. If our physical theories correctly describe the nature of reality
    then physicalism is true
-5. $\therefore$ Physicalism is true (by 3, 4, MP)
+5. \therefore Physicalism is true (by 3, 4, MP)
 
-*** Assumptions of the Argument
+*** Questionable Assumptions?
 #+ATTR_REVEAL: :frag (appear)
-(2) If our physical theories are highly successful then they correctly
-   describe the nature of reality
+- Premise (2): If our physical theories are highly successful then they correctly describe the nature of reality
    #+ATTR_REVEAL: :frag (appear)
    -  Assumes that the correctness of our theories is required for/best
       explains their success
       #+ATTR_REVEAL: :frag (appear)
       -  What if the success of physics is a mere coincidence?
 #+ATTR_REVEAL: :frag (appear)
-(4) If our physical theories correctly describe the nature of reality
-then physicalism is true
+- Premise (4): If our physical theories correctly describe the nature of reality then physicalism is true
    #+ATTR_REVEAL: :frag (appear)
    -  Assumes that our physical theories are /exhaustive/
 
@@ -628,7 +626,7 @@ then physicalism is true
 
 -  The "Hard Problem" of Consciousness: :: Why do the physical processes
    that characterize life result in conscious experience?
-** Nagel on the Problem of Consciousness
+* Nagel on the Problem of Consciousness
 #+BEGIN_QUOTE
   Consciousness is what makes the mind-body problem really intractable
   (435)
@@ -706,8 +704,7 @@ then physicalism is true
    point of view
 4. There are phenomenal facts (i.e. facts about phenomenal
    consciousness)
-5. $\therefore$ Physicalism is false (or we can't understand how it
-   could be true)
+5. \therefore Physicalism is false (or we can't understand how it could be true)
 
 #+BEGIN_NOTES
 -  Is the argument valid?
@@ -715,13 +712,13 @@ then physicalism is true
 
 ** Examining the Argument -- Validity
 #+ATTR_REVEAL: :frag (appear)
-1. P $\rightarrow$ A
-2. A $\rightarrow$ M
-3. C $\rightarrow$ ~M
+1. P \rightarrow A
+2. A \rightarrow M
+3. C \rightarrow ~M
 4. C
-5. $\therefore$ ~M (3, 4, MP)
-6. $\therefore$ ~A (2, 5, MT)
-7. $\therefore$ ~P (1, 6, MT)
+5. \therefore ~M (3, 4, MP)
+6. \therefore ~A (2, 5, MT)
+7. \therefore ~P (1, 6, MT)
    
 #+BEGIN_NOTES
 1. If Physicalism is true then all aspects of reality are amenable to
@@ -760,8 +757,8 @@ point of view
 2. Physical facts are objective facts
 3. Objective facts are independent of any particular point of view
 4. Facts about consciousness depend on particular points of view
-5. $\therefore$ Facts about consciousness are not objective
-6. $\therefore$ Facts about consciousness are not physical
+5. \therefore Facts about consciousness are not objective
+6. \therefore Facts about consciousness are not physical
 
 ** Nagel's  “General Difficulty”
 #+ATTR_REVEAL: :frag (appear)
@@ -801,13 +798,13 @@ point of view
    souls, God)
 -  Idealism: :: Everything that is or could exist is ultimately /mental/
    in nature
-
+* The Knowledge Argument
 ** Qualia
 
 -  Qualia: :: properties of at least some experiences (e.g. bodily
    sensations like pains and tickles) which determines what it is like
    to subjectively undergo the experience
-
+   
 ** Three Arguments Against Physicalism
 #+ATTR_REVEAL: :frag (appear)
 1. The “What it's like” Argument
@@ -833,7 +830,7 @@ point of view
 2. But no amount of physical information about a person logically
    entails that a person is phenomenally conscious---i.e. phenomenal
    zombies are logically possible
-3. $\therefore$ Physicalism is false
+3. \therefore Physicalism is false
 
 ** Objecting to the Modal Argument
 #+ATTR_REVEAL: :frag (appear)
@@ -883,9 +880,9 @@ point of view
 1. Before her release from the B&W room Mary has all the physical
    information concerning human color vision
 2. Mary learns something new about color when she leaves the room
-3. $\therefore$ There is some information about human color vision which
+3. \therefore There is some information about human color vision which
    Mary doesn't know
-4. $\therefore$ Not all information is physical information
+4. \therefore Not all information is physical information
    (i.e. physicalism is false)
 
 ** Qualia & Color
@@ -910,7 +907,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
       constitute reality
 
 #+BEGIN_QUOTE
-(4) $\therefore$ Not all information is physical information (i.e. physicalism is false)
+(4) \therefore Not all information is physical information (i.e. physicalism is false)
 #+END_QUOTE
 
 ** Two Versions of the Knowledge Argument
@@ -928,7 +925,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 1. Mary knows all the physical facts regarding color/color vision
 2. But there are some facts about color/color vision which Mary doesn't
    know prior to her release
-3. $\therefore$ There are non-physical facts concerning color/color
+3. \therefore There are non-physical facts concerning color/color
    vision
 
 *** Which Argument?
@@ -1035,6 +1032,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
   scheme of things is one such. (Jackson, 135)
 #+END_QUOTE
 
+* Lewis's Defense of Physicalism
 ** What the Physicalist Needs
 #+ATTR_REVEAL: :frag (appear)
 -  Tell us why doesn't Mary know what it is like to see color if she
@@ -1126,7 +1124,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 2. But no amount of physical information about a person logically
    entails that a person is phenomenally conscious---i.e. phenomenal
    zombies are logically possible
-3. $\therefore$ Physicalism is false
+3. \therefore Physicalism is false
 #+ATTR_REVEAL: :frag (appear)
 -  Minimal Materialism denies premise (2)
 -  What about the Knowledge Argument?
@@ -1280,9 +1278,9 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 -  AH says that "knowing what it is like" consists in having a set of
    practical abilities
 
-   -  KWL $\rightarrow$ {Rem, Imag, Rec} (abilities are /necessary/ for
+   -  KWL \rightarrow {Rem, Imag, Rec} (abilities are /necessary/ for
       KWL)
-   -  {Rem, Imag, Rec} $\rightarrow$ KWL (abilities are /sufficient/ for
+   -  {Rem, Imag, Rec} \rightarrow KWL (abilities are /sufficient/ for
       KWL)
 
 *** Objecting to a Definition
