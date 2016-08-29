@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Philosophy 101</title>
+<meta name="author" content="(Colin McLear)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/css/theme/solarized.css" id="theme"/>
+
+<link rel="stylesheet" href="/Users/Roambot/projects/phil101/content/slides/local.css"/>
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/lib/css/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///Users/Roambot/bin/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="PHIL 101 Slides">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section>
+<section id="slide-orgheadline6">
+<h2 id="orgheadline6">Clicker Questions</h2>
+<div class="outline-text-2" id="text-orgheadline6">
+</div></section>
+</section>
+<section>
+<section id="slide-orgheadline5">
+<h3 id="orgheadline5">Logic &amp; Argument</h3>
+<div class="outline-text-3" id="text-orgheadline5">
+</div></section>
+<section id="slide-orgheadline1">
+<h4 id="orgheadline1">Every argument must have a premise and a conclusion</h4>
+<p>
+A. True  <br  />
+B. False  
+</p>
+</section>
+<section id="slide-orgheadline2">
+<h4 id="orgheadline2">Can a valid argument have a false conclusion?</h4>
+<p>
+A. Yes  <br  />
+B. No  
+</p>
+</section>
+<section id="slide-orgheadline3">
+<h4 id="orgheadline3">Can a sound argument have a false conclusion?</h4>
+<p>
+A. Yes  <br  />
+B. No  
+</p>
+</section>
+<section id="slide-orgheadline4">
+<h4 id="orgheadline4">In a deductive argument the truth of the conclusion is made probable by the truth of the premises</h4>
+<p>
+A. True  <br  />
+B. False  
+</p>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Colin McLear. </p>
+<script src="file:///Users/Roambot/bin/reveal.js/lib/js/head.min.js"></script>
+<script src="file:///Users/Roambot/bin/reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c/t',
+rollingLinks: true,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }]
+});
+</script>
+</body>
+</html>

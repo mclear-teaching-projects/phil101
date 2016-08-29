@@ -546,15 +546,42 @@ Example: It is raining, /therefore/ the streets are wet
   bible says is true because God wrote it.
 #+END_QUOTE
 * Physicalism & Consciousness
-** Metaphysics
+** What is Metaphysics?
+#+REVEAL_HTML: <iframe src="http://giphy.com/embed/l396LZ8Q75V1lEDvO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+#+BEGIN_NOTES
+  - Not concerned with mysticism or crystals 
+  - Means "after physics"
+    - More than a hundred years after Aristotle's death, an editor of
+      his works (in all probability, Andronicus of Rhodes) titled those
+      fourteen books "/Ta meta ta phusika/"—"the after the physicals" or
+      "the ones after the physical ones"
+#+END_NOTES
+
+** Metaphysical Questions
+
 #+ATTR_REVEAL: :frag (appear)
 -  What kinds of things exist?
 -  What is fundamental?
+  
+#+BEGIN_NOTES
+  - Kinds
+    - abstract vs. concrete
+    - complex vs. simple
+  - Fundamental
+    - simples?
+    - physical or mental?
+#+END_NOTES
 
 ** Physics as Metaphysics
-
+#+ATTR_REVEAL: :frag (appear)
 -  Physicalism: :: Everything that is or could exist is ultimately
    physical in nature
+     
+#+BEGIN_NOTES
+  Ask clicker question concerning the truth of physicalism. "A" for its
+  truth, "B" for its falsity
+#+END_NOTES
 
 ** Alternatives to Physicalism
 
@@ -564,6 +591,10 @@ Example: It is raining, /therefore/ the streets are wet
    souls, God)
 -  Idealism: :: Everything that is or could exist is ultimately /mental/
    in nature
+     
+#+BEGIN_NOTES
+  So (reductive) physicalism is a kind of *monism*---only one kind of thing really exists
+#+END_NOTES
 
 ** Why be a Physicalist?
 #+ATTR_REVEAL: :frag (appear)
@@ -574,6 +605,13 @@ Example: It is raining, /therefore/ the streets are wet
 
 -  Supernatural explanations are lazy explanations -- they don't really
    tell us anything
+  
+#+BEGIN_NOTES
+ - We appeal to things we don't understand (like God) to "explain"
+   things we don't understand
+ - All things considered, the better explanation is one which doesn't
+   appeal to supernatural entities or forces
+#+END_NOTES
 
 *** The Argument from Explanation
 #+ATTR_REVEAL: :frag (appear)
@@ -587,18 +625,15 @@ Example: It is raining, /therefore/ the streets are wet
    then physicalism is true
 5. \therefore Physicalism is true (by 3, 4, MP)
 
-*** Questionable Assumptions?
-#+ATTR_REVEAL: :frag (appear)
-- Premise (2): If our physical theories are highly successful then they correctly describe the nature of reality
-   #+ATTR_REVEAL: :frag (appear)
-   -  Assumes that the correctness of our theories is required for/best
+#+BEGIN_NOTES
+- Questionable Assumptions? 
+  - Premise (2) 
+     -  Assumes that the correctness of our theories is required for/best
       explains their success
-      #+ATTR_REVEAL: :frag (appear)
-      -  What if the success of physics is a mere coincidence?
-#+ATTR_REVEAL: :frag (appear)
-- Premise (4): If our physical theories correctly describe the nature of reality then physicalism is true
-   #+ATTR_REVEAL: :frag (appear)
-   -  Assumes that our physical theories are /exhaustive/
+        -  What if the success of physics is a mere coincidence?
+  - Premise (4)
+     -  Assumes that our physical theories are /exhaustive/
+#+END_NOTES
 
 ** Proving the Truth of Physicalism
 #+ATTR_REVEAL: :frag (appear)
@@ -622,10 +657,20 @@ Example: It is raining, /therefore/ the streets are wet
    -  If the answer is “yes” then we have “reduced” or “given a
       reduction” of conscious experience in terms of physics
      
+#+BEGIN_NOTES
+  - Reduction of heat to molecular motion (quantity of kinetic energy transferred between systems of molecules)
+#+END_NOTES
 #+REVEAL: split
 
 -  The "Hard Problem" of Consciousness: :: Why do the physical processes
    that characterize life result in conscious experience?
+     
+#+BEGIN_NOTES
++ "easy" vs. "hard" problems
+  - how does the brain process information from its environment?
+  - How does it integrate information? 
+  - How do we produce reports on internal states?
+#+END_NOTES
 * Nagel on the Problem of Consciousness
 #+BEGIN_QUOTE
   Consciousness is what makes the mind-body problem really intractable
@@ -2193,3 +2238,18 @@ The Chinese room
 3. Can a valid argument have false premises?
 4. Can a sound argument have false premises?
 5. Can a sound argument have a false conclusion?
+   
+* Clicker Questions
+** Logic & Argument
+*** Every argument must have a premise and a conclusion 
+A. True  \\
+B. False  
+*** Can a valid argument have a false conclusion?
+A. Yes  \\
+B. No  
+*** Can a sound argument have a false conclusion?
+A. Yes  \\
+B. No  
+*** In a deductive argument the truth of the conclusion is made probable by the truth of the premises
+A. True  \\
+B. False  
