@@ -828,7 +828,7 @@ point of view
 -  Are there alternative conceptions of objectivity?
 
 #+BEGIN_NOTES
-- Varieties of objectivity
+- Varieties of objectivity?
   - not from any particular point of view
   - independent, “there anyway”
   - absolute, not relative to any perciever
