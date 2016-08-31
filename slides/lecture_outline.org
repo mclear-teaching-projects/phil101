@@ -672,10 +672,34 @@ Example: It is raining, /therefore/ the streets are wet
   - How do we produce reports on internal states?
 #+END_NOTES
 * Nagel on the Problem of Consciousness
+** Physicalism
+Everything that is or could exist is ultimately physical in nature
+     
+#+BEGIN_NOTES
+  Ask clicker question surveying confidence in truth of physicalism. "A" for its
+  truth, "B" for its falsity, "C" for agnosticism
+#+END_NOTES
+
+** The Mind-Body Problem
+
+#+BEGIN_NOTES
+ - Say something concerning the history of the mind-body problem
+ - Difference between minds as things (substances) and mental properties
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
   Consciousness is what makes the mind-body problem really intractable
   (435)
 #+END_QUOTE
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+-  The "Hard Problem" of Consciousness: :: Why do the physical processes
+   that characterize life result in conscious experience?
+
+** What is Consciousness?
 #+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
   fundamentally an organism has conscious mental states if and only if
@@ -694,9 +718,15 @@ Example: It is raining, /therefore/ the streets are wet
 6. *Phenomenal consciousness*: the first-person experience --- what it
    is like to be something
 
+\\
+
 #+ATTR_REVEAL: :frag (appear)
 -  Nagel means to indicate consciousness in the sense of (6) ---
    phenomenal experience
+  
+#+BEGIN_NOTES
+  - What does the consciousness of a bat have to do with physicalism?
+#+END_NOTES
 
 ** Can We Reduce Consciousness?
 
@@ -711,6 +741,12 @@ Example: It is raining, /therefore/ the streets are wet
   if it exists, lies in the distant intellectual future (436).
 #+END_QUOTE
 
+#+BEGIN_NOTES
+  - What is it for a fact to be available from many points of view?
+    - color facts in human vision vs color facts as mathematical
+      representations of energy reflectance patterns
+#+END_NOTES
+
 #+REVEAL: split
 
 #+BEGIN_QUOTE
@@ -721,6 +757,11 @@ Example: It is raining, /therefore/ the streets are wet
   with a single point of view, and it seems inevitable that an
   objective, physical theory will abandon that point of view (437).
 #+END_QUOTE
+
+#+BEGIN_NOTES
+  - Nagel is articulating a tension between scientific inquiry and
+    certain kinds of facts. What is the tension?
+#+END_NOTES
 
 #+REVEAL: split
 
@@ -737,6 +778,8 @@ Example: It is raining, /therefore/ the streets are wet
 #+BEGIN_NOTES
 -  What is it about consciousness that presents a problem for
    physicalism?
+    - why can't facts about conscious states be observed from many
+      points of view?
 #+END_NOTES
 
 ** The Argument from Consciousness
@@ -749,7 +792,7 @@ Example: It is raining, /therefore/ the streets are wet
    point of view
 4. There are phenomenal facts (i.e. facts about phenomenal
    consciousness)
-5. \therefore Physicalism is false (or we can't understand how it could be true)
+5. \therefore Physicalism is false (or we can't conceive of how it could be true)
 
 #+BEGIN_NOTES
 -  Is the argument valid?
@@ -780,8 +823,22 @@ Example: It is raining, /therefore/ the streets are wet
 
 ** Examining the Argument -- Soundness
 
+1. P \rightarrow A
+2. A \rightarrow M
+3. C \rightarrow ~M
+4. C
+5. \therefore ~M (3, 4, MP)
+6. \therefore ~A (2, 5, MT)
+7. \therefore ~P (1, 6, MT)
+   
 #+BEGIN_NOTES
--  What premises might we reject?
+- What do we need to do in evaluating the argument's soundness?
+  - look at the truth of the premises
+- Given (1)-(7), what can we ignore in investigating soundness of the
+  argument?
+  - (5)-(7)
+  - (1) as definition of physicalism
+- What premises might we reject?
 #+END_NOTES
 
 #+ATTR_REVEAL: :frag (appear)
@@ -796,15 +853,6 @@ point of view
   truth of physicalism?
 #+END_NOTES
 
-** Facts & Points of View
-#+ATTR_REVEAL: :frag (appear)
-1. Physicalism entails that all facts are physical facts
-2. Physical facts are objective facts
-3. Objective facts are independent of any particular point of view
-4. Facts about consciousness depend on particular points of view
-5. \therefore Facts about consciousness are not objective
-6. \therefore Facts about consciousness are not physical
-
 ** Nagel's  “General Difficulty”
 #+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
@@ -818,6 +866,27 @@ point of view
   initial subjective viewpoint toward them in favor of another that is
   more objective but concerns the same thing? (444)
 #+END_QUOTE
+
+** Facts & Points of View
+#+ATTR_REVEAL: :frag (appear)
+1. All (possible) facts are physical facts (assume for /reductio/)
+2. Physical facts are objective facts
+3. Objective facts are independent of any particular point of view
+4. Facts about consciousness depend on particular points of view
+5. \therefore Facts about consciousness are not objective
+6. \therefore Facts about consciousness are not physical
+7. \therefore There are non-physical facts (i.e. (1) is false)
+   
+#+BEGIN_NOTES
+1. P \rightarrow F_p
+2. F_P \rightarrow F_O
+3. F_O \rightarrow I
+4. F_C \rightarrow ~I
+5. F_C \neq F_O (since F_C → ~I & ~I → ~F_O)
+6. F_C \neq F_P (since ~F_O → ~F_P)
+   
+- See if people understand why (5) and (6) hold
+#+END_NOTES
 
 ** Physicalism & Objectivity
 #+ATTR_REVEAL: :frag (appear)
@@ -834,6 +903,7 @@ point of view
   - absolute, not relative to any perciever
   - necessary for conceivability
 #+END_NOTES
+
 ** Physicalism & Alternatives
 #+ATTR_REVEAL: :frag (appear)
 -  Physicalism: :: Everything that is or could exist is ultimately
