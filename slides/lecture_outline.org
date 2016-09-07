@@ -1193,6 +1193,9 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 -  Thinking is of ways the world might possibly be
 -  When we gain information about the world we eliminate some (maybe all
    but one) of these possibilities
+
+\\
+  
 #+ATTR_REVEAL: :frag (appear)
 -  Physical information: :: Information about the world which helps us
    to eliminate physical possibilities
@@ -1240,6 +1243,9 @@ Mark Rothko: 'Orange, Red & Red' (1962)
    entails that a person is phenomenally conscious---i.e. phenomenal
    zombies are logically possible
 3. \therefore Physicalism is false
+   
+\\
+
 #+ATTR_REVEAL: :frag (appear)
 -  Minimal Materialism denies premise (2)
 -  What about the Knowledge Argument?
@@ -1328,8 +1334,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
   just is the possession of these abilities to remember, imagine, and
   recognize. It isn't the possession of any kind of information,
   ordinary or peculiar. It isn't knowing that certain possibilities
-  aren't actualized. It isn't knowing-that. It's knowing-how. (Lewis,
-  288)
+  aren't actualized. It isn't knowing-that. It's knowing-how. (Lewis, 288)
 #+END_QUOTE
 
 #+REVEAL: split
@@ -1392,7 +1397,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 *** The Definition
 -  AH says that "knowing what it is like" consists in having a set of
    practical abilities
-
+#+ATTR_REVEAL: :frag (appear)
    -  KWL \rightarrow {Rem, Imag, Rec} (abilities are /necessary/ for
       KWL)
    -  {Rem, Imag, Rec} \rightarrow KWL (abilities are /sufficient/ for
@@ -2308,7 +2313,65 @@ The Chinese room
 3. Can a valid argument have false premises?
 4. Can a sound argument have false premises?
 5. Can a sound argument have a false conclusion?
-   
+** Week 2
+1. Which form of consciousness does Nagel think is a threat to physicalism?
+
+A. autonomy
+B. sentience
+C. introspection
+D. phenomenal consciousness
+
+2. True or false?: Nagel thinks that facts about phenomenal consciousness are available from multiple points of view.
+
+A. True
+B. False
+
+3. Nagel conceives of objectivity in what way?
+
+A. available only from one point of view
+B. existing independently of any living being
+C. available in principle from multiple points of view
+D. not relative to any perceiver
+
+4. Why does Nagel think that consideration of the bat’s experience is important?
+
+A. we don’t know whether bats have experience
+B. the perceptual experience of a bat is radically different from our own
+C. bats are cool
+D. bats lack intelligence
+
+D, B, C, B
+
+----
+
+1. Which form of consciousness does Nagel think is a threat to physicalism?
+
+A. phenomenal consciousness
+B. sentience
+C. introspection
+D. wakefulness
+
+2. True or false?: Nagel thinks that physical facts are available from multiple points of view.
+
+A. True
+B. False
+
+3. Nagel conceives of subjectivity in what way?
+
+A. available only from one point of view
+B. existing independently of any living being
+C. available in principle from multiple points of view
+D. not relative to any perceiver
+
+4. Why does Nagel think that consideration of the bat’s experience is important?
+
+A. we don’t know whether bats have experience
+B. the perceptual experience of a bat is radically different from our own
+C. bats are cool
+D. bats lack intelligence
+
+A, A, A, B
+
 * Clicker Questions
 ** Logic & Argument
 *** Every argument must have a premise and a conclusion 
@@ -2323,3 +2386,5 @@ B. No
 *** In a deductive argument the truth of the conclusion is made probable by the truth of the premises
 A. True  \\
 B. False  
+** Physicalism & Consciousness
+

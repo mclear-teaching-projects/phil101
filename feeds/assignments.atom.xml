@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 101</title><link href="http://phil101.colinmclear.net/" rel="alternate"></link><link href="http://phil101.colinmclear.net/feeds/assignments.atom.xml" rel="self"></link><id>http://phil101.colinmclear.net/</id><updated>2016-09-07T00:00:00-04:00</updated><entry><title>Class 5 - The Knowledge Argument</title><link href="http://phil101.colinmclear.net/class5-knowledge.html" rel="alternate"></link><published>2016-09-07T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-09-07:class5-knowledge.html</id><summary type="html">&lt;hr /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 101</title><link href="http://phil101.colinmclear.net/" rel="alternate"></link><link href="http://phil101.colinmclear.net/feeds/assignments.atom.xml" rel="self"></link><id>http://phil101.colinmclear.net/</id><updated>2016-09-12T00:00:00-04:00</updated><entry><title>Class 6 - Lewis on What it is Like</title><link href="http://phil101.colinmclear.net/lewis-consciousness.html" rel="alternate"></link><published>2016-09-12T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-09-12:lewis-consciousness.html</id><summary type="html">&lt;hr /&gt;
+&lt;p&gt;Last week we looked at one prominant argument against physicalism&amp;#8212;-the &amp;#8220;Mary&amp;#8221; or &amp;#8220;knowledge&amp;#8221; argument. Today we discuss one prominant physicalist&amp;#8217;s response to the knowledge argument, that of David&amp;nbsp;Lewis.&lt;/p&gt;
+&lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lewis, &lt;a href="http://phil101.colinmclear.net/readings/LewisQualia.pdf"&gt;What Experience&amp;nbsp;Teaches&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="reading-questions"&gt;Reading&amp;nbsp;Questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the &amp;#8220;hypothesis of phenomenal&amp;nbsp;information&amp;#8221;?&lt;/li&gt;
+&lt;li&gt;What is &amp;#8220;minimal&amp;nbsp;materialism&amp;#8221;?&lt;/li&gt;
+&lt;li&gt;What kind of argument (i.e. deductive, inductive, or abductive) does Lewis give against the truth of the knowledge&amp;nbsp;argument?&lt;/li&gt;
+&lt;li&gt;What is Lewis&amp;#8217;s alternative explanation of what changes about Mary when she leaves the black and white&amp;nbsp;room?&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="physicalism"></category><category term="consciousness"></category><category term="knowledge"></category></entry><entry><title>Class 5 - The Knowledge Argument</title><link href="http://phil101.colinmclear.net/class5-knowledge.html" rel="alternate"></link><published>2016-09-07T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-09-07:class5-knowledge.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;Today we&amp;#8217;ll discuss an alternative argument against the truth of physicalism. This argument centers on a famous &amp;#8220;thought experiment&amp;#8221; (we&amp;#8217;ll discuss what this means) of Frank&amp;nbsp;Jackson&amp;#8217;s.&lt;/p&gt;
+&lt;p&gt;You can find the slides for today&amp;#8217;s lecture &lt;a href="http://phil101.colinmclear.net/slides/slides5.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Jackson, &lt;a href="http://phil101.colinmclear.net/readings/JacksonQualia.pdf"&gt;Epiphenomenal&amp;nbsp;Qualia&lt;/a&gt;&lt;/li&gt;
@@ -16,10 +30,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.wi-phi.com/video/science-can-it-teach-us-everything"&gt;Can science teach us&amp;nbsp;everything?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div id="refs" class="references"&gt;
-
-&lt;/div&gt;
-</summary><category term="physicalism"></category><category term="consciousness"></category></entry><entry><title>Class 4 - Nagel’s Argument</title><link href="http://phil101.colinmclear.net/class4-nagel.html" rel="alternate"></link><published>2016-08-31T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-08-31:class4-nagel.html</id><summary type="html">&lt;hr /&gt;
+</summary><category term="physicalism"></category><category term="consciousness"></category><category term="knowledge"></category></entry><entry><title>Class 4 - Nagel’s Argument</title><link href="http://phil101.colinmclear.net/class4-nagel.html" rel="alternate"></link><published>2016-08-31T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-08-31:class4-nagel.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;On Monday I introduced the &amp;#8220;hard problem&amp;#8221; of consciousness. Today we&amp;#8217;ll look at the specifics of Nagel&amp;#8217;s argument as to why the problem of consciousness is such a challenge for&amp;nbsp;physicalism.&lt;/p&gt;
 &lt;p&gt;You can find the slides for today &lt;a href="http://phil101.colinmclear.net/slides/slides4.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
@@ -37,9 +48,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.wi-phi.com/contributor/alex-byrne"&gt;Are we minds or&amp;nbsp;bodies?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div id="refs" class="references"&gt;
-
-&lt;/div&gt;
 </summary><category term="physicalism"></category><category term="consciousness"></category></entry><entry><title>Class 3 - Physicalism &amp; Consciousness</title><link href="http://phil101.colinmclear.net/class3-physicalism.html" rel="alternate"></link><published>2016-08-29T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-08-29:class3-physicalism.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;Today we start discussion of physicalism &amp;#8212; the claim that everything that does or could exist is physical. We&amp;#8217;ll look at some reasons for thinking that physicalism is true. We&amp;#8217;ll also discuss one area where physicalism might seem to run into trouble &amp;#8212; namely, conscious thought and&amp;nbsp;experience.&lt;/p&gt;
 &lt;p&gt;You can find the slides for today&amp;#8217;s lecture &lt;a href="http://phil101.colinmclear.net/slides/slides3.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -59,9 +67,6 @@
 &lt;ul&gt;
 &lt;li&gt;Chalmers, &lt;a href="http://serious-science.org/the-hard-problem-of-consciousness-6131"&gt;The hard problem of&amp;nbsp;consciousness&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div id="refs" class="references"&gt;
-
-&lt;/div&gt;
 </summary><category term="physicalism"></category><category term="consciousness"></category></entry><entry><title>Class 2 - Logic &amp; Argument</title><link href="http://phil101.colinmclear.net/class2-logic.html" rel="alternate"></link><published>2016-08-24T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-08-24:class2-logic.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;Today in class we&amp;#8217;ll continue discussing the basic features of an argument, including their basic logical structure. We&amp;#8217;ll look at some examples of the different forms an argument can take, and we will practice extracting an argument from a&amp;nbsp;text.&lt;/p&gt;
 &lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
@@ -79,14 +84,8 @@
 &lt;li&gt;&lt;a href="http://www.wi-phi.com/video/soundness"&gt;Soundness&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can find today&amp;#8217;s slides &lt;a href="http://phil101.colinmclear.net/slides/slides2.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;div id="refs" class="references"&gt;
-
-&lt;/div&gt;
 </summary><category term="logic"></category><category term="argument"></category></entry><entry><title>Class 1 - What is Philosophy?</title><link href="http://phil101.colinmclear.net/class1-philosophy.html" rel="alternate"></link><published>2016-08-22T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-08-22:class1-philosophy.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;Today we&amp;#8217;ll discuss some of the basic mechanics of the course. I&amp;#8217;ll provide an overview of the subject matter of philosophy and what we&amp;#8217;ll be talking about in the course. We&amp;#8217;ll also look at the basic features of philosophical method and argument. Here is a link to a video on &lt;a href="http://www.wi-phi.com/video/intro-critical-thinking"&gt;critical thinking&lt;/a&gt; that will help give you some idea of the way in which philosophy constructs and evaluates&amp;nbsp;arguments.&lt;/p&gt;
 &lt;p&gt;For some helpful review of concepts and exercises concerning critical thinking and logic you can go &lt;a href="http://philosophy.hku.hk/think/logic/"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can find today&amp;#8217;s slides &lt;a href="http://phil101.colinmclear.net/slides/slides1.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;div id="refs" class="references"&gt;
-
-&lt;/div&gt;
 </summary><category term="philosophy"></category><category term="critical thinking"></category></entry></feed>
