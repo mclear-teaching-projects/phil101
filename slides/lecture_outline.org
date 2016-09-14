@@ -1432,7 +1432,11 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 
 * Confusion about the Function of Consciousness
 ** Consciousness --- What, Why, & How
-
+#+BEGIN_NOTES
+- We've focused mainly on what and how. Now we'll look a bit at why.
+- But note that answering why depends on knowing what we're talking
+  about -- which brings us back to asking what is consciousness anyway!
+#+END_NOTES 
 -  Distinguish three questions:
    #+ATTR_REVEAL: :frag (appear)
    1. What is consciousness (what is its nature)?
@@ -1500,9 +1504,9 @@ The Blindsighted Patient
    seizures, may indicate the function of consciousness
 2. When consciousness is missing under such conditions, subjects
    cannot\\
-   A. report or reason about the relevant nonconscious representations,
-   nor use them in guiding action\\
-   B. exhibit flexibility and creativity in their thought and action\\
+   #+ATTR_REVEAL: :frag (appear)
+   * report or reason about the relevant nonconscious representations, nor use them in guiding action\\
+   * exhibit flexibility and creativity in their thought and action\\
 3. $\therefore$ Consciousness enables information represented in the
    brain to be used in reasoning, reporting, and rationally guiding
    action
@@ -1510,7 +1514,8 @@ The Blindsighted Patient
    thought and action
 
 #+BEGIN_NOTES
-*Target reasoning*:
+- Note that this is either an inductive or an abductive argument
+*Target reasoning*: Is it correct?
 -  Consciousness has a function
 -  We can find out what the function of consciousness is by studying the
    cognitive psychology of patients with specific cognitive impairments
@@ -1518,7 +1523,7 @@ The Blindsighted Patient
 #+END_NOTES
 ** Confusion about Consciousness
 *** The Concept of Consciousness is a 'Mongrel' Concept
--  The concept <consciousness> is a 'mongrel' in the sense that it is
+-  The concept =<consciousness>= is a 'mongrel' in the sense that it is
    ambiguous between a number of different and independent notions of
    being 'conscious'
 
@@ -1564,6 +1569,7 @@ The Blindsighted Patient
 - Emphasize the notion of information transfer, that sensory information
   becomes available to belief
 - Argue that a robot or computer might be conscious in this manner
+- Animals might be conscious in this manner
 #+END_NOTES
 
 *** Access Consciousness
@@ -1586,6 +1592,11 @@ Young Woman
 #+END_NOTES
 
 *** Block's Worry
+#+BEGIN_NOTES
+- Block argues that we need clarity with respect to the concept of
+  consciousness if we're going to make proper scientific advancements
+#+END_NOTES
+
 #+ATTR_REVEAL: :frag (none appear)
 -  Cognitive scientists and philosophers often begin discussion
    consciousness by pointing to phenomena involving P-consciousness.
@@ -2387,4 +2398,17 @@ B. No
 A. True  \\
 B. False  
 ** Physicalism & Consciousness
+** The knowledge argument
+*** A phenomenal zombie is really good at being a zombie
+A. True  \\
+B. False
+*** According to the Knowledge Argument there is more to knowing what it is like to see a color than just knowing the physical information/facts
+A. True  \\
+B. False
+*** Jackson thinks that qualia are epiphenomenal
+A. True \\
+B. False \\
+*** Lewis defends physicalism by arguing for the hypothesis of phenomenal information
+A. True \\
+B. False \\
 
