@@ -1982,7 +1982,6 @@ Walking Uphill or Sliding Down?
 - Could machines have intentional states?
 
 * Can Machines Think?
-
 ** Two Questions
 #+ATTR_REVEAL: :frag (appear)
 1. Can a physical system capable of performing certain functions think?
@@ -2382,6 +2381,35 @@ C. bats are cool
 D. bats lack intelligence
 
 A, A, A, B
+** Week 4
+1. Before Mary leaves the B&W room she knows:
+
+a. all the phenomenal information concerning color
+b. all the physical information concerning color
+c. that physicalism is false
+d. that qualia exist
+
+2. True or False: According to the Knowledge Argument there is more to knowing what it is like to see a color than just knowing the physical information/facts.
+
+3. True or False: Jackson thinks that qualia are epiphenomenal
+
+4. True or False: The physicalist must deny that Mary learns anything when she leaves the B&W room
+
+Answers: b, T, T, F
+
+1. According to Jackson, after Mary leaves the B&W room she learns
+
+a. all the physical information about color
+b. new physical information about color
+c. new phenomenal information (or new phenomenal facts) about color
+d. no new information
+
+1. True or False: According to the Knowledge Argument there is more to knowing what it is like to see a color than just knowing the physical information/facts.
+
+2. True or False: The physicalist asserts that Mary learns phenomenal
+   information when she leaves the B&W room
+
+3. True or False: Jackson does not think that qualia are epiphenomenal
 
 * Clicker Questions
 ** Logic & Argument
