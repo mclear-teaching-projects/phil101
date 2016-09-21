@@ -1808,43 +1808,52 @@ Young Woman
 
 ** Test Cases
 
+#+ATTR_REVEAL: :frag (appear)
 1. How does a representation represent?
    #+ATTR_REVEAL: :frag (appear)
-   -  resemblance
+   - Resemblance
 2. Are some kinds of representation more fundamental than others?
    #+ATTR_REVEAL: :frag (appear)
-   -  pictorial representation
+   - Pictorial representation
+   - Linguistic representation
 
-** Test Cases -- Resemblance
+** Test Case 1 -- Representation as Resemblance 
 
 #+ATTR_HTML: :style max-width:45%; height:auto; margin:auto; display:block; text-align:center; 
 [[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/SelfPortrait.jpg]]
 #+ATTR_HTML: :style text-align:center
 Vincent Van Gogh, 1889
 
-#+REVEAL: split
-#+ATTR_REVEAL: :frag (none appear)
+#+BEGIN_NOTES
 -  How does Van Gogh's portrait represent him?
-   #+ATTR_REVEAL: :frag (appear)
-   -  represents him in virtue of resembling him
+   -  Represents him in virtue of resembling him
 -  Is the fact of resemblance both necessary and sufficient for the
    portrait to resemble Van Gogh?
+#+END_NOTES
+
+# #+REVEAL: split
+# #+ATTR_REVEAL: :frag (none appear)
+# -  How does Van Gogh's portrait represent him?
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  represents him in virtue of resembling him
+# -  Is the fact of resemblance both necessary and sufficient for the
+#    portrait to resemble Van Gogh?
 
 #+REVEAL: split
-#+ATTR_HTML: :style margin:auto; display:block; text-align:center
+#+ATTR_HTML: :style min-width:50%; margin:auto; display:block; text-align:center
 [[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/Santa.jpg]]
 #+ATTR_HTML: :style text-align:center
 Who do I resemble?
 
-#+ATTR_REVEAL: :frag (appear)
+#+REVEAL: split
 -  Resemblance is neither necessary nor sufficient for representation
    #+ATTR_REVEAL: :frag (appear)
-   -  not necessary: pictures can /represent/ non-existent objects but
+   -  Not necessary: pictures can /represent/ non-existent objects but
       they cannot /resemble/ non-existent objects
-   -  not sufficient: everything resembles something but not everything
+   -  Not sufficient: everything resembles something but not everything
       represents something
 
-** Test Cases -- Pictures
+** Test Case 2 -- Are Pictures Fundamental?
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center
 [[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/OldMan.jpg]]
@@ -1852,22 +1861,29 @@ Who do I resemble?
 Walking Uphill or Sliding Down?
 
 #+REVEAL: split
-#+ATTR_REVEAL: :frag (none appear)
-1. Interpretation
-2. Logical relations
-   #+ATTR_REVEAL: :frag (appear) 
-   -  if...then...
-   -  ...and...
-   -  either...or...
-   -  not...
+- Objections to pictorial fundamentality
+     #+ATTR_REVEAL: :frag (appear)
+     1. Interpretation
+     2. Logical relations
+      #+ATTR_REVEAL: :frag (appear) 
+         - if...then...
+         - ...and...
+         - either...or...
+         - not...
+          
+#+BEGIN_NOTES
+- Crane seems to consider fundamentality as all or nothing
+- Maybe some forms of representation are fundamental for some kinds of
+  tasks and other for others?
+#+END_NOTES
      
-#+REVEAL: split
--  Pictorial representations:
-   #+ATTR_REVEAL: :frag (appear)
-   -  require interpretation
-   -  cannot represent logical relations
+# #+REVEAL: split
+# -  Pictorial representations:
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  require interpretation
+#    -  cannot represent logical relations
 
-** Test Cases -- Language
+** Test Case 3 -- Is Language Fundamental?
 #+BEGIN_QUOTE
   The cat is on the mat
 #+END_QUOTE
@@ -1882,12 +1898,12 @@ Walking Uphill or Sliding Down?
 
 *** Convention
 #+ATTR_REVEAL: :frag (appear)
--  cannot explain the representation relation, only why some things
+-  Convention is not sufficient to explain the representation relation, only why some things
    represent other things
    #+ATTR_REVEAL: :frag (appear)
-   -  'dog' represents dogs by convention
+   -  The word 'dog' represents dogs by convention
      #+ATTR_REVEAL: :frag (appear)
-      -  convention cannot explain /how/ 'dog' represents without
+      -  Convention cannot explain /how/ 'dog' represents without
          appealing to the mental states of subjects /doing the
          representing/
 
@@ -1915,8 +1931,7 @@ Walking Uphill or Sliding Down?
 #+ATTR_REVEAL: :frag (appear)
 1. Conventions rely on the intentions of a subject or subjects
 2. Intentions are a kind of mental representation
-3. $\therefore$ Convention cannot be used to /explain/ mental
-   representation
+3. $\therefore$ Convention cannot be used to /explain/ mental representation
 
 *** Mental representation does not depend on interpretation
 #+ATTR_REVEAL: :frag (appear)
@@ -1927,21 +1942,26 @@ Walking Uphill or Sliding Down?
    further interpretation to make sense of those thoughts
 3. But a further thought would be needed to think /that/ interpretation,
    etc.
-4. $\therefore$ we would have an infinite regress of thoughts and
-   interpretations of them
+4. $\therefore$ We would have an infinite regress of thoughts and interpretations of them
 5. $\therefore$ Mental representations do not require interpretation
 
 ** Thoughts & Propositional Attitudes
 #+ATTR_REVEAL: :frag (appear)
 -  Thought: :: A state of mind that represents a state of the world (a
    'fact' or 'situation')
+     
+#+BEGIN_NOTES
+- On this view of thought, one of the things done by language is it
+  expresses what is thought
+- But language is not (or not entirely) *prior* to thought
+#+END_NOTES
 
 #+ATTR_REVEAL: :frag (appear)
 -  Some thoughts---'Propositional Attitudes'---have a particular
    structure
    #+ATTR_REVEAL: :frag (appear)
-   -  the situation represented
-   -  the 'attitude' taken towards the represented situation
+   -  The situation represented
+   -  The 'attitude' taken towards the represented situation
      
 #+REVEAL: split
 
@@ -2404,12 +2424,54 @@ b. new physical information about color
 c. new phenomenal information (or new phenomenal facts) about color
 d. no new information
 
-1. True or False: According to the Knowledge Argument there is more to knowing what it is like to see a color than just knowing the physical information/facts.
+2. True or False: According to the Knowledge Argument there is more to knowing what it is like to see a color than just knowing the physical information/facts.
 
-2. True or False: The physicalist asserts that Mary learns phenomenal
+3. True or False: The physicalist asserts that Mary learns phenomenal
    information when she leaves the B&W room
 
-3. True or False: Jackson does not think that qualia are epiphenomenal
+4. True or False: Jackson does not think that qualia are epiphenomenal
+
+** Week 5
+1. According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
+A. True \\
+B. False \\
+
+2. Block defines access consciousness in terms of what it is like to have an experience
+A. True \\
+B. False \\
+
+3. Is the following argument valid?
+
+i. If it is raining then the streets are wet
+ii. It is not raining
+iii. Therefore, the streets are not wet
+
+4. According to Block, for a state to be phenomenally conscious, we must be attending to it
+A. True \\
+B. False \\
+
+----
+
+1. Is the following argument valid?
+
+i. If it is raining then the streets are wet
+ii. The streets are not wet
+iii. Therefore, it is not raining
+
+2. Block defines phenomenal consciousness in terms of a property or
+   properties possessed by a mental state such that they constitute what
+   it is like to be in that state
+A. True \\
+B. False \\
+
+3. Block thinks that regular blindsight patients have access consciousness 
+A. True \\
+B. False \\
+
+4. According to Block, for a state to be phenomenally conscious, we must be attending to it
+A. True \\
+B. False \\
+
 
 * Clicker Questions
 ** Logic & Argument
@@ -2439,4 +2501,16 @@ B. False \\
 *** Lewis defends physicalism by arguing for the hypothesis of phenomenal information
 A. True \\
 B. False \\
-
+** Confusion about consciousness
+*** According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
+A. True \\
+B. False \\
+*** Block defines access consciousness in terms of what it is like to have an experience
+A. True \\
+B. False \\
+*** Block thinks that regular blindsight patients have access consciousness only
+A. True \\
+B. False \\
+*** According to Block, for a state to be phenomenally conscious, we must be attending to it
+A. True \\
+B. False \\
