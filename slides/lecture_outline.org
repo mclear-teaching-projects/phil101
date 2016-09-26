@@ -1929,9 +1929,9 @@ Walking Uphill or Sliding Down?
 
 *** Mental representation is not conventional
 #+ATTR_REVEAL: :frag (appear)
-1. Conventions rely on the intentions of a subject or subjects
-2. Intentions are a kind of mental representation
-3. $\therefore$ Convention cannot be used to /explain/ mental representation
+- Conventions rely on the intentions of a subject or subjects
+- Intentions are a kind of mental representation
+- Convention cannot be used to /explain/ mental representation
 
 *** Mental representation does not depend on interpretation
 #+ATTR_REVEAL: :frag (appear)
@@ -1945,7 +1945,16 @@ Walking Uphill or Sliding Down?
 4. $\therefore$ We would have an infinite regress of thoughts and interpretations of them
 5. $\therefore$ Mental representations do not require interpretation
 
-** Thoughts & Propositional Attitudes
+** Mental Representation
+#+ATTR_REVEAL: :frag (appear)
+- According to Crane, only mental representation could plausibly be
+  fundamental because only mental representation is /intrinsically/
+  representational
+- What kinds of things might have representational states?
+  #+ATTR_REVEAL: :frag (appear)
+  - Could machines have representational states?
+
+** Thoughts & Propositional Attitudes :noexport:
 #+ATTR_REVEAL: :frag (appear)
 -  Thought: :: A state of mind that represents a state of the world (a
    'fact' or 'situation')
@@ -1970,7 +1979,7 @@ Walking Uphill or Sliding Down?
 -  Jane hopes *that class will be canceled*
 -  /S/ \phi's that ... /F/ ...
 
-** Intentionality
+** Intentionality                                                 :noexport:
 
 -  Intentionality: :: The 'directedness' of a mental state at some
    (existing or non-existing) thing
@@ -1978,28 +1987,18 @@ Walking Uphill or Sliding Down?
 \\
 
 #+ATTR_REVEAL: :frag (appear)
--  Are all mental representations are 'intentional' or directed at some
-   thing, fact, or situation?
+-  Are all mental states 'intentional' or directed at some thing, fact, or situation?
   
 #+BEGIN_NOTES
 - Consider whether only non-sensory reps are intentional or whether even
   sensory ones are
 #+END_NOTES
 
-** Intentionality & Mentality
+** Intentionality & Mentality                                     :noexport:
 #+ATTR_REVEAL: :frag (appear)
-- Is it true that if something exhibits intentionality, then that thing
-  is (or has) a mind?
+- If something exhibits intentionality, does that thing have a mind?
 - If something exhibits /intrinsic/ intentionality (i.e. not derived
   in like pictorial or linguistic intentionality) is it a mind?
-
-** Mental Representation
-#+ATTR_REVEAL: :frag (appear)
-- According to Crane, only mental representation could plausibly be
-  fundamental because only mental representation is /intrinsically/
-  intentional
-- What kinds of things might have intentional states?
-- Could machines have intentional states?
 
 * Can Machines Think?
 ** Two Questions
