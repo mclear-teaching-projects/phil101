@@ -2002,11 +2002,19 @@ Walking Uphill or Sliding Down?
 
 * Can Machines Think?
 ** Two Questions
+
+#+BEGIN_NOTES
+- Crane construes mental representation as fundamental but doesn't
+  explain what it is about mental representation that allows it to
+  represent 
+- Question 2 is in Crane's terms: Could a machine exhibit states that are intrinsically representational?
+#+END_NOTES
+
 #+ATTR_REVEAL: :frag (appear)
 1. Can a physical system capable of performing certain functions think?
 2. Can a sufficiently sophisticated computer program think?
    #+ATTR_REVEAL: :frag (appear)
-   - Is the mind to the brain like software is to hardware?
+   - Is the mind related to the brain like software is to hardware?
 
 #+REVEAL: split
 Could a sufficiently advanced computer qualify as a thinking being?
@@ -2327,7 +2335,7 @@ The Chinese room
 #+END_QUOTE
 
 * Quizzes
-** Week 1
+** Week 1 - Argument
 1. An argument consists of two parts -- the evidence, and what follows
    from it. What do we call each of these two parts?
 2. The parts of an argument must be statements. What is a statement?
@@ -2342,7 +2350,7 @@ The Chinese room
 3. Can a valid argument have false premises?
 4. Can a sound argument have false premises?
 5. Can a sound argument have a false conclusion?
-** Week 2
+** Week 2 - Nagel on Physicalism
 1. Which form of consciousness does Nagel think is a threat to physicalism?
 
 A. autonomy
@@ -2400,7 +2408,7 @@ C. bats are cool
 D. bats lack intelligence
 
 A, A, A, B
-** Week 4
+** Week 4 - the Knowledge argument
 1. Before Mary leaves the B&W room she knows:
 
 a. all the phenomenal information concerning color
@@ -2430,7 +2438,7 @@ d. no new information
 
 4. True or False: Jackson does not think that qualia are epiphenomenal
 
-** Week 5
+** Week 5 - P vs. A Consciousness
 1. According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
 A. True \\
 B. False \\
@@ -2471,6 +2479,31 @@ B. False \\
 A. True \\
 B. False \\
 
+** Week 6 - Representation
+1. Crane argues that pictorial representation is not fundamental because
+
+     A. it requires imagination
+     B. it requires pictures
+     C. it requires interpretation
+     D. it requires language
+
+2. Pictorial representations cannot, without further interpretation, represent logical relationships. True or False?
+
+3. Crane argues that mental representation is fundamental in part because
+
+     A. it is conventional
+     B. it is not conventional
+     C. it requires interpretation
+     D. it requires neither convention nor interpretation
+
+4. Intentionality is the feature of a mental state such that
+
+    A. it is something a subject does
+    B. it is directed at or about something
+    C. it is a picture
+    D. it is something we have in common with machines
+
+Answers: C, True, D, B
 
 * Clicker Questions
 ** Logic & Argument
@@ -2513,3 +2546,22 @@ B. False \\
 *** According to Block, for a state to be phenomenally conscious, we must be attending to it
 A. True \\
 B. False \\
+** Representation
+*** Crane argues that pictorial representation is not fundamental because
+
+     A. it requires imagination \\  
+     B. it requires pictures \\
+     C. it requires interpretation \\
+     D. it requires language \\
+
+*** Crane argues that pictorial representations cannot, without further interpretation, represent logical relationships 
+
+A. True \\
+B. False \\
+
+*** Crane argues that mental representation is fundamental in part because
+
+     A. it is conventional \\
+     B. it is not conventional \\
+     C. it requires interpretation \\
+     D. it requires neither convention nor interpretation \\
