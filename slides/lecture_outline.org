@@ -2485,25 +2485,26 @@ B. False \\
      A. it requires imagination
      B. it requires pictures
      C. it requires interpretation
-     D. it requires language
+     D. it requires drawing
 
 2. Pictorial representations cannot, without further interpretation, represent logical relationships. True or False?
 
-3. Crane argues that mental representation is fundamental in part because
+3. Crane argues that linguistic representation is not fundamental
+   because
+
+   A. it must be spoken
+   B. it must be written
+   C. the meaning of a word is conventional and must be interpreted
+   D. the meaning of a word depends on its context
+
+4. Crane argues that mental representation is fundamental in part because
 
      A. it is conventional
-     B. it is not conventional
+     B. it is pictorial
      C. it requires interpretation
      D. it requires neither convention nor interpretation
 
-4. Intentionality is the feature of a mental state such that
-
-    A. it is something a subject does
-    B. it is directed at or about something
-    C. it is a picture
-    D. it is something we have in common with machines
-
-Answers: C, True, D, B
+Answers: C, T, C, D
 
 * Clicker Questions
 ** Logic & Argument
