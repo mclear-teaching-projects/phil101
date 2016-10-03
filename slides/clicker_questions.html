@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Philosophy 101</title>
+<meta name="author" content="(Colin McLear)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/css/theme/solarized.css" id="theme"/>
+
+<link rel="stylesheet" href="/Users/Roambot/projects/phil101/content/slides/local.css"/>
+<link rel="stylesheet" href="file:///Users/Roambot/bin/reveal.js/lib/css/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///Users/Roambot/bin/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<meta name="description" content="PHIL 101 Slides">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section>
+<section id="slide-orgheadline4">
+<h2 id="orgheadline4">AI &amp; The Turing Test</h2>
+<div class="outline-text-2" id="text-orgheadline4">
+</div></section>
+</section>
+<section>
+<section id="slide-orgheadline1">
+<h3 id="orgheadline1">Strong AI says that</h3>
+<p>
+A. Robots can lift more than humans <br  />
+B. Robots live are tougher than humans <br  />
+C. A computer program of sufficient complexity can model the function of
+human thought <br  />
+D. A computer program of sufficient complexity can think
+</p>
+
+<aside class="notes">
+<dl>
+<dt>Strong AI:</dt><dd>thinking is constituted by the manipulation of formal
+symbols, such as occurs in a computer program</dd>
+<dt>Weak AI:</dt><dd>thinking may be modeled by formal symbol systems, such as
+computer programs</dd>
+
+</dl>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline2">
+<h3 id="orgheadline2">The imitation game assumes  human linguistic behaviour is&#x2026;</h3>
+<p>
+A. The result of emotion <br  />
+B. The easiest way to see if a computer can think <br  />
+C. The cause of complex linguistic behaviour  <br  />
+D. The most difficult thing for a computer program to emulate 
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline3">
+<h3 id="orgheadline3">According to Turing we know other people's minds via their behaviour</h3>
+<p>
+A. True <br  />
+B. False <br  />
+</p>
+
+<aside class="notes">
+<ol>
+<li>For some arbitrary time period, there may be no discernible
+difference between the linguistic behavior of a person and that of a
+machine</li>
+<li>If there is no discernible difference in linguistic behavior between
+man and machine, then there is no reason to think that there is any
+underlying difference in the causes of that behavior</li>
+<li>\(\therefore\) If we are willing to say that it is intelligent thought
+that is the cause of the linguistic behavior in the person we should
+be willing to say the same thing about the machine</li>
+
+</ol>
+
+</aside>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Colin McLear. </p>
+<script src="file:///Users/Roambot/bin/reveal.js/lib/js/head.min.js"></script>
+<script src="file:///Users/Roambot/bin/reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c/t',
+rollingLinks: true,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'file:///Users/Roambot/bin/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }]
+});
+</script>
+</body>
+</html>

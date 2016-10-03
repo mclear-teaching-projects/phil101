@@ -2566,3 +2566,39 @@ B. False \\
      B. it is not conventional \\
      C. it requires interpretation \\
      D. it requires neither convention nor interpretation \\
+** AI & The Turing Test
+*** Strong AI says that
+A. Robots can lift more than humans \\
+B. Robots live are tougher than humans \\
+C. A computer program of sufficient complexity can model the function of
+human thought \\
+D. A computer program of sufficient complexity can think
+
+#+BEGIN_NOTES
+-  Strong AI: :: thinking is constituted by the manipulation of formal
+   symbols, such as occurs in a computer program
+-  Weak AI: :: thinking may be modeled by formal symbol systems, such as
+   computer programs
+#+END_NOTES
+
+*** The imitation game assumes  human linguistic behaviour is...
+A. The result of emotion \\
+B. The easiest way to see if a computer can think \\
+C. The cause of complex linguistic behaviour  \\
+D. The most difficult thing for a computer program to emulate 
+
+*** According to Turing we know other people's minds via their behaviour
+A. True \\ 
+B. False \\
+
+#+BEGIN_NOTES
+1. For some arbitrary time period, there may be no discernible
+   difference between the linguistic behavior of a person and that of a
+   machine
+2. If there is no discernible difference in linguistic behavior between
+   man and machine, then there is no reason to think that there is any
+   underlying difference in the causes of that behavior
+3. $\therefore$ If we are willing to say that it is intelligent thought
+   that is the cause of the linguistic behavior in the person we should
+   be willing to say the same thing about the machine
+#+END_NOTES

@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 101</title><link href="http://phil101.colinmclear.net/" rel="alternate"></link><link href="http://phil101.colinmclear.net/feeds/assignments.atom.xml" rel="self"></link><id>http://phil101.colinmclear.net/</id><updated>2016-10-03T00:00:00-04:00</updated><entry><title>Class 12 - The Chinese Room Argument</title><link href="http://phil101.colinmclear.net/class12-chineseroom.html" rel="alternate"></link><published>2016-10-03T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-10-03:class12-chineseroom.html</id><summary type="html">&lt;hr /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 101</title><link href="http://phil101.colinmclear.net/" rel="alternate"></link><link href="http://phil101.colinmclear.net/feeds/assignments.atom.xml" rel="self"></link><id>http://phil101.colinmclear.net/</id><updated>2016-10-05T00:00:00-04:00</updated><entry><title>Class 13 - Objections to the Chinese Room Argument</title><link href="http://phil101.colinmclear.net/class12-objections.html" rel="alternate"></link><published>2016-10-05T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-10-05:class12-objections.html</id><summary type="html">&lt;hr /&gt;
+&lt;p&gt;On Monday we talked about Searle&amp;#8217;s argument, or really, thought experiment, concerning the in-principle-impossibility of the strong artificial intelligence research program. Today we look at some objections to Searle&amp;#8217;s argument. Is it perhaps less convincing than it first&amp;nbsp;seemed?&lt;/p&gt;
+&lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pryor, &lt;a href="http://www.jimpryor.net/teaching/courses/mind/notes/searle.html"&gt;Searle&amp;#8217;s Chinese&amp;nbsp;Room&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="reading-questions"&gt;Reading&amp;nbsp;Questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the difference between syntax and&amp;nbsp;semantics?&lt;/li&gt;
+&lt;li&gt;What is the &amp;#8220;systems&amp;nbsp;objection&amp;#8221;?&lt;/li&gt;
+&lt;li&gt;Is there a difference between the simulation of thought and actual thought? If so, what is&amp;nbsp;it?&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="artificial intelligence"></category><category term="representation"></category><category term="syntax"></category><category term="semantics"></category><category term="meaning"></category><category term="computation"></category></entry><entry><title>Class 12 - The Chinese Room Argument</title><link href="http://phil101.colinmclear.net/class12-chineseroom.html" rel="alternate"></link><published>2016-10-03T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil101.colinmclear.net,2016-10-03:class12-chineseroom.html</id><summary type="html">&lt;hr /&gt;
 &lt;p&gt;Today we will continue our discussion of the possibility of artificial intelligence and John Searle&amp;#8217;s argument against it. You might also want to try your hand at a Turing Test &lt;a href="http://botpoet.com/about/"&gt;on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find today&amp;#8217;s slides &lt;a href="http://phil101.colinmclear.net/slides/slides12.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="readings"&gt;Readings&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Searle, &lt;a href="http://phil101.colinmclear.net/readings/SearleBrain.pdf"&gt;Is the brain&amp;#8217;s mind a computer&amp;nbsp;program?&lt;/a&gt;&lt;/li&gt;
