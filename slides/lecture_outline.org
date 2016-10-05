@@ -2202,17 +2202,17 @@ The Chinese room
 
 *** Pryor's Rebuttal (I) Searle's argument is invalid
 #+BEGIN_QUOTE
-  Searle: "[The man in the room] understands nothing of the Chinese, and
-  [therefore] neither does the system, because there isn't anything in
-  the system that isn't in him"
+  Searle: "[The man who has "memorized" the room] understands nothing of
+  the Chinese, and [therefore] neither does the system, because there
+  isn't anything in the system that isn't in him"
 #+END_QUOTE
 
 #+ATTR_REVEAL: :frag (appear)
 -  This is a bad inference---compare:
 #+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
-  Searle doesn't weigh 3 pounds, and therefore neither does his heart,
-  because there is nothing in his heart that isn't in him
+  Searle doesn't weigh 1 pound, and therefore neither does his heart,
+  because there is nothing in Searle's heart that isn't in him
 #+END_QUOTE
 
 #+REVEAL: split
@@ -2230,12 +2230,13 @@ The Chinese room
 #+END_QUOTE
 
 #+ATTR_REVEAL: :frag (appear)
--  Consider a software emulator
-   #+ATTR_REVEAL: :frag (appear)
-   -  allows one operating system to run 'on top of' another using the
-      same hardware
-      #+ATTR_REVEAL: :frag (appear)
-      -  Mac computers can emulate the Windows OS
+- Consider a software emulator
+  #+ATTR_REVEAL: :frag (appear)
+  - allows one operating system to run 'on top of' another using the
+    same hardware
+#+BEGIN_NOTES
+  - Mac computers can emulate the Windows OS
+#+END_NOTES
 
 #+REVEAL: split
 
@@ -2244,13 +2245,14 @@ The Chinese room
    1. The Windows OS is integrated or incorporated into the Mac OS
    2. Nevertheless, the states of the 'incorporated' Windows OS are in
       many ways independent of the Mac OS and its states
-   #+ATTR_REVEAL: :frag (appear)
+#+BEGIN_NOTES
    -  Windows may crash and become unresponsive, while the Mac software
       (including the emulator) keeps running
    -  Windows might be treating Internet Explorer as the frontmost,
       active program; but--if you don't have the emulator software
       active in your Mac--the Mac software could be treating Safari as
       its frontmost, active program
+#+END_NOTES
 
 #+REVEAL: split
 #+BEGIN_QUOTE
@@ -2272,7 +2274,7 @@ The Chinese room
 -  Problem 2: 'Internalizing' the Chinese room program is irrelevant
   #+ATTR_REVEAL: :frag (appear)
    -  two programs running on the same hardware need not share all of
-      the same (or any of the same) states
+      the same (or perhaps any of the same) states
 
 *** Summary of Pryor's Rebuttals:
 #+ATTR_REVEAL: :frag (appear)
@@ -2506,6 +2508,31 @@ B. False \\
 
 Answers: C, T, C, D
 
+** Week 7 - AI
+1. Strong AI says that 
+
+A. Robots can lift more than humans \\
+B. Robots live are tougher than humans \\
+C. A computer program of sufficient complexity can model the function of
+human thought \\
+D. A computer program of sufficient complexity can think
+
+2.  According to Turing we know other people's minds via their behaviour
+A. True \\ 
+B. False \\
+
+3. According to Searle, Strong AI fails because 
+A. Syntax cannot be derived from semantics \\
+B. The room is not a perfect imitation of a Chinese speaker \\
+C. Semantics cannot be derived from syntax \\
+D. Computer programs are more than just semantics \\
+
+4.  According to Strong AI the person in the room understands Chinese
+A. True \\
+B. False 
+
+
+
 * Clicker Questions
 ** Logic & Argument
 *** Every argument must have a premise and a conclusion 
@@ -2602,3 +2629,19 @@ B. False \\
    that is the cause of the linguistic behavior in the person we should
    be willing to say the same thing about the machine
 #+END_NOTES
+** The Chinese Room Argument
+*** According to Searle, the person in the 'Chinese Room' does not understand Chinese, no matter how good they are at manipulating symbols
+A. True \\
+B. False \\ 
+*** According to Searle, Strong AI fails because 
+A. Syntax cannot be derived from semantics \\
+B. The room is not a perfect imitation of a Chinese speaker \\
+C. Semantics cannot be derived from syntax \\
+D. Computer programs are more than just semantics \\
+*** The person in the Chinese Room does not understand Chinese 
+A. True \\
+B. False \\
+*** According to Strong AI the person in the room understands Chinese
+A. True \\
+B. False 
+
