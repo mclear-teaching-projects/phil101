@@ -645,7 +645,7 @@ Example: It is raining, /therefore/ the streets are wet
   Deducing, explaining, or otherwise showing a dependence relation to
   exist between one set of properties, facts, or concepts, and another
   priviliged set of properties, facts, or concepts.
-
+  
 ** Reducing Consciousness
 #+ATTR_REVEAL: :frag (appear)
 -  Reduce features of conscious experience to matter/energy organized
@@ -2336,6 +2336,267 @@ The Chinese room
   features as minds. (Chalmers, 327)
 #+END_QUOTE
 
+* Mid-Term Review
+** Physicalism & Consciousness
+   :PROPERTIES:
+   :CUSTOM_ID: reducing-consciousness
+   :END:
+
+-  Physicalism: :: Everything that is or could exist is ultimately
+   physical in nature
+-  The "Hard Problem" of Consciousness: :: Why do the physical processes
+   that characterize life result in conscious experience?
+
+** Nagel's "What its like" Argument
+   :PROPERTIES:
+   :CUSTOM_ID: nagels-what-its-like-argument
+   :END:
+
+#+BEGIN_QUOTE
+
+  1. If Physicalism is true then all aspects of reality are amenable to
+     being “given a physical account”
+  2. Giving a physical account of something means giving an account that
+     is accessible from many different points of view
+  3. Facts about phenomenal consciousness are accessible from only one
+     point of view
+  4. There are phenomenal facts (i.e. facts about phenomenal
+     consciousness)
+  5. \therefore Physicalism is false (or we can't understand how it
+     could be true)
+#+END_QUOTE
+
+** The Phenomenal Zombie Argument
+   :PROPERTIES:
+   :CUSTOM_ID: the-phenomenal-zombie-argument
+   :END:
+
+#+BEGIN_QUOTE
+
+  1. If physicalism were true, then the complete physical information
+     about a subject would entail an answer as to whether she was
+     phenomenally conscious
+  2. But no amount of physical information about a person /logically
+     entails/ that a person is phenomenally conscious---i.e. phenomenal
+     zombies are logically possible
+  3. $\therefore$ Physicalism is false
+#+END_QUOTE
+
+#+BEGIN_NOTES
+-  Premise (2) is too controversial for the argument to make any headway
+   with defenders of physicalism
+#+END_NOTES
+
+** Jackson's "Knowledge" Argument
+   :PROPERTIES:
+   :CUSTOM_ID: jacksons-knowledge-argument
+   :END:
+
+#+BEGIN_QUOTE
+
+  1. Before her release from the B&W room Mary has all the physical
+     information concerning human color vision
+  2. Mary learns something new about color when she leaves the room
+  3. $\therefore$ There is some information about human color vision
+     which Mary doesn't know
+  4. $\therefore$ Not all information is physical information
+     (i.e. physicalism is false)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+-  Ambiguous use of 'information' (metaphysical v. epistemological)
+-  Assumes we can adequately conceive of having 'all' the relevant
+   information about color
+#+END_NOTES
+
+** Lewis's "Ability Hypothesis"
+   :PROPERTIES:
+   :CUSTOM_ID: lewiss-ability-hypothesis
+   :END:
+
+-  Learning "what it is like" to experience something is not learning a
+   new bit of propositional knowledge, it is learning how to:
+
+   -  remember
+   -  imagine
+   -  recognize
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+
+  1. The only relevant alternative to the Ability Hypothesis (AH) is the
+     Hypothesis of Phenomenal Information (HPI)
+  2. HPI is incompatible with physicalism
+  3. AH is both compatible with physicalism and explains everything that
+     HPI explains
+  4. $\therefore$ We should choose AH over HPI
+#+END_QUOTE
+
+
+#+BEGIN_NOTES
+-  Ability to remember, imagine, and recognize is not obviously
+   equivalent to knowing what it is like to /X/
+-  Is AH the best explanation available to the physicalist?
+#+END_NOTES
+
+** Block on Consciousness
+-  Phenomenal Consciousness: :: A mental state with "experiential
+   properties" that constitute "what it is like" to experience something
+-  Access Consciousness: :: A mental state that is poised for free use
+   in reasoning and for direct ‘‘rational'' control of action and
+   speech.
+   
+#+REVEAL: split
+1. Abnormal psychological conditions, such as blindsight and "absent"
+   seizures, may indicate the function of consciousness
+2. When consciousness is missing under such conditions, subjects
+   cannot\\
+   * report or reason about the relevant nonconscious representations, nor use them in guiding action\\
+   * exhibit flexibility and creativity in their thought and action\\
+3. $\therefore$ Consciousness enables information represented in the
+   brain to be used in reasoning, reporting, and rationally guiding
+   action
+4. $\therefore$ Consciousness promotes flexibility and creativity in
+   thought and action
+
+\\
+   
+- Block argues that the confusion between A & P consciousness foils this
+  kind of reasoning
+
+** Representation 
+- What is a representation?
+- How do representations represent?
+- Is there a fundamental representational kind?
+- How might mental representation be different from other kinds?
+  
+#+BEGIN_NOTES
+- representation: something that represents, stands for, or goes proxy
+- Resemblance: not necessary, not sufficient
+- 3 representation kinds: picture, language, mental rep
+- Thought is not conventional & does not require interpretation 
+#+END_NOTES
+  
+** AI & The Chinese Room Argument
+
+-  Strong AI: :: thinking is constituted by the manipulation of formal
+   symbols, such as occurs in a computer program
+-  Weak AI: :: thinking may be modeled by formal symbol systems, such as
+   computer programs
+
+#+REVEAL: split
+- Turing test
+- Set-up of Chinese Room argument
+
+#+REVEAL: split
+-  Syntax: :: the formal or structural features of a symbol system which
+   determine which expressions are legitimate members of the system and
+   which are not
+-  Semantics: :: The system of meanings assigned to a symbol system,
+   given by determining the referents of the symbols and the truth
+   conditions of symbol strings
+   
+#+REVEAL: split
+- Systems objection
+- Implementation objection
+
+** Mid-Term Format
+  :PROPERTIES:
+  :CUSTOM_ID: mid-term
+  :END:
+
+*** Structure
+   :PROPERTIES:
+   :CUSTOM_ID: format
+   :END:
+
+1. Argument extraction (2, 10 pts)
+2. Definitions (2, 5 pts)
+3. Multiple choice (10, 3 pts)
+4. Short essay (2, 20 pts)
+
+*** Argument Extraction
+   :PROPERTIES:
+   :CUSTOM_ID: argument-extraction
+   :END:
+
+Analyze the text and extract the argument in premise/conclusion form.
+Pick /two/ of three:
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+  There is no reason to think that there are any absolute moral truths.
+  We can see this when we consider different cultural outlooks
+  concerning what is morally required. For example, indigenous Inuit
+  culture considered infanticide to be morally permissible. But modern
+  American culture clearly thinks infanticide is morally wrong. So
+  what's morally right or wrong is just a matter of opinion, which can
+  vary from culture to culture.
+#+END_QUOTE
+
+#+BEGIN_NOTES
+-  What's the conclusion of the argument?
+-  What support does the conclusion have?
+-  What material is essential to the argument and what is extraneous?
+-  Is the argument valid?
+-  Is the argument sound?
+#+END_NOTES
+
+#+REVEAL: split
+1. If moral truths were absolute then they would not vary from culture
+   to culture
+2. What's considered morally right or wrong does vary from culture to
+   culture
+3. \therefore There are no absolute moral truths
+
+#+BEGIN_NOTES
+- What form does this argument look to have (modus tollens)
+- Is the argument really MT? (No)
+- There is an equivocation with respect to (2). So the argument as
+  actually stated is invalid. There is a difference between:
+  1. What is considered morally right/wrong varies with culture
+  2. What *is* morally right/wrong varies with culture
+- For the argument to be valid we need the latter version of (2) 
+#+END_NOTES
+
+*** Definitions
+   :PROPERTIES:
+   :CUSTOM_ID: definitions
+   :END:
+
+Give the definition of the word. Pick *two* of three:
+
+-  Physicalism: :: everything that could exist is either physical or
+   depends on the physical
+
+*** Multiple Choice
+   :PROPERTIES:
+   :CUSTOM_ID: multiple-choice
+   :END:
+
+Nagel's argument concerning consciousness aims to show what?
+
+#+BEGIN_QUOTE
+  A. What it is like to be a bat\\
+  B. That physicalism is false\\
+  C. That we cannot understand how physicalism could be true\\
+  D. That physicalism is true
+#+END_QUOTE
+
+*** Short Essay
+   :PROPERTIES:
+   :CUSTOM_ID: short-essay
+   :END:
+
+Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
+
+-  Explain how the knowledge argument is a challenge to physicalism
+   #+REVEAL: split
+   -  explain what physicalism is
+   -  state the knowledge argument
+   -  state the challenge which the knowledge argument poses to
+      physicalism
+
 * Quizzes
 ** Week 1 - Argument
 1. An argument consists of two parts -- the evidence, and what follows
@@ -2644,4 +2905,5 @@ B. False \\
 *** According to Strong AI the person in the room understands Chinese
 A. True \\
 B. False 
+
 
