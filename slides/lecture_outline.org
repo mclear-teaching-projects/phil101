@@ -2597,6 +2597,306 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
    -  state the challenge which the knowledge argument poses to
       physicalism
 
+* Free Will
+** What is Freedom of the Will?
+
+-  Freedom of Will: :: (1) a capacity of an agent to (2) choose
+   according to her preferences (3) from amongst a set of relevant
+   alternatives such that (4) she is responsible for that choice or
+   action
+
+** Why is Freedom of the Will Important?
+
+-  Desert & Moral responsibility
+   #+ATTR_REVEAL: :frag (appear)
+   -  praise & blame
+   -  distribution of resources
+#+ATTR_REVEAL: :frag (appear)
+-  Punishment
+
+** How to Talk about Freedom
+
+-  Analysis of cases (casuistry)
+   #+ATTR_REVEAL: :frag (appear)
+   -  Testing philosophical 'intuitions'
+      #+ATTR_REVEAL: :frag (appear)
+      -  How do we respond to different cases?
+      -  Why do we respond the way that we do?
+
+** Kinds of Freedom
+#+ATTR_REVEAL: :frag (appear)
+-  Freedom from coercion (mental or physical)
+-  Freedom from manipulation
+
+** Coercion
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+  Jane didn't want to share her chocolate bar with John, but the teacher
+  threatened her with detention (or worse) if she didn't
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Did Jane act freely?
+-  Is she to be (morally) praised for sharing the chocolate?
+   #+ATTR_REVEAL: :frag (appear)
+   -  deserving praise vs. praising to shape her future behavior
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  Jane is attacked by a mugger. Under threat of her life, she gives up
+  her jewelry, including cherished family heirlooms like her
+  grandmother's engagement ring. Her family will be very upset about
+  their loss.
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Did Jane act freely?
+-  Is Jane (morally) blameworthy for giving up the jewelry?
+
+** Manipulation
+
+#+BEGIN_QUOTE
+  John is a nice guy, who would never intentionally hurt someone. But
+  government agents have brainwashed him into attempting to assassinate
+  the President.
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Is John acting freely in his assassination attempt?
+-  Is John morally blameworthy?
+
+** Incompatibilism
+#+ATTR_REVEAL: :frag (appear)
+-  An agent who is coerced or manipulated is (typically) not morally
+   responsible for her actions
+-  Moral responsibility and coercion/manipulation are '/incompatible/'
+
+** What Generates the Incompatibility?
+
+-  Alternate Possibilities: moral responsibility is incompatible with
+   the fact that the agent could not have done otherwise
+
+** Alternate Possibilities
+
+#+BEGIN_QUOTE
+  If you believed that [you couldn't have acted any other way] about
+  yourself and other people, it would probably change the way you felt
+  about things. For instance, could you blame yourself for giving in to
+  temptation and having the cake? Would it make sense to say, “I really
+  should have had a peach instead,” if you /couldn't/ have chosen a
+  peach instead? It certainly wouldn't make sense to say it if there
+  /was no/ fruit. So how can it make sense if there /was/ fruit, but you
+  couldn't have chosen it because it was determined in advance that you
+  would choose cake? (Nagel, 53)
+#+END_QUOTE
+
+#+REVEAL: split
+
+-  The Principle of Alternate Possibilities (PAP): :: a person is
+   morally responsible for what s/he has done only if s/he could have
+   done otherwise (or chosen otherwise)
+
+#+REVEAL: split
+-  What explains why an agent is not morally responsible in cases of
+   coercion/manipulation?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Proposal: PAP is violated -- The agent could not have done
+      otherwise
+
+* Frankfurt on Alternate Possibilities
+** Coercion & PAP
+
+#+BEGIN_QUOTE
+  When we excuse a person who has been coerced, we do not excuse him
+  because he was unable to do otherwise. Even though a person is subject
+  to a coercive force that precludes his performing any action but one,
+  he may nonetheless bear full moral responsibility for performing that
+  action. (Frankfurt, 834)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Frankfurt denies that PAP is the relevant explanation of why in
+   coercion (or manipulation) one is not morally responsible
+
+** The Case of Jones
+
+#+BEGIN_QUOTE
+  Jones decides for reasons of his own to do something, then someone
+  threatens him with a very harsh penalty (so harsh that any reasonable
+  person would submit to the threat) unless he does precisely that, and
+  Jones does it. Will we hold Jones morally responsible for what he has
+  done? I think this will depend on the roles we think were played, in
+  leading him to act, by his original decision and by the threat.
+  (Frankfurt, 831)
+#+END_QUOTE
+
+** Versions of the Case
+
+-  Jones_{1}: Always does what he decides to do; the threat plays no
+   role
+   #+ATTR_REVEAL: :frag (appear)
+   -  responsible for acting
+#+ATTR_REVEAL: :frag (appear)
+-  Jones_{2}: The threat totally overpowers Jones; he does what the
+   threat says, no matter what he decided earlier
+   #+ATTR_REVEAL: :frag (appear)
+   -  not responsible for acting
+#+ATTR_REVEAL: :frag (appear)
+-  Jones_{3}: Weighs decision and threat evenly, but ultimately acts on
+   his original reasons rather than the threat
+   #+ATTR_REVEAL: :frag (appear)
+   -  responsible for acting
+
+** Responsibility & PAP
+
+-  Claim: Jones_{1-3} show that PAP plays no role in evaluation of moral
+   responsibility
+#+ATTR_REVEAL: :frag (appear)
+-  Assignment of moral responsibility depends on evaluating /the reasons
+   for which one acted/, not whether one could have done otherwise
+   #+ATTR_REVEAL: :frag (appear)
+   -  Jones_{1} and Jones_{3} acted on the basis of bad motives, that is
+      why they are responsible
+
+** Coercion with Responsibility?
+
+-  The Jones case counts as coercion only if Jones acts /because of/ the
+   threat
+#+ATTR_REVEAL: :frag (appear)
+-  Coercion requires that the coerced subject act /because of/ the
+   coercive force exerted on her
+   #+ATTR_REVEAL: :frag (appear)
+   -  Only the case of Jones_{2} is a case of genuine coercion
+     
+** Objection
+
+-  Is the case of Jones_{3} a clear counterexample to the claim that
+   coercion/manipulation excuses?
+   #+ATTR_REVEAL: :frag (appear)
+   -  The presence of the threat in the Jones_{3} case does not meant
+      that he /could not/ have done otherwise
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  His knowledge that he stands to suffer an intolerably harsh penalty
+  does not mean that Jones_{3}, strictly speaking, /cannot/ perform any
+  action but the one he does perform. After all it is still open to him,
+  and this is crucial, to defy the threat if he wishes to do so and to
+  accept the penalty his action would bring down upon him. In the sense
+  in which the principle of alternate possibilities employs the concept
+  of "could have done otherwise," Jones_{3}'s inability to resist the
+  threat does not mean that he cannot do otherwise than perform the
+  action he performs. Hence the case of Jones_{3} does not constitute an
+  instance contrary to the principle. (Frankfurt, 834)
+#+END_QUOTE
+
+** Response -- Jones_{4}
+
+#+BEGIN_QUOTE
+  Suppose someone--Black, let us say--wants Jones_{4} to perform a
+  certain action. Black is prepared to go to considerable lengths to get
+  his way, but he prefers to avoid showing his hand unnecessarily. So he
+  waits until Jones_{4} is about to make up his mind what to do, and he
+  does nothing unless it is clear to him (Black is an excellent judge of
+  such things) that Jones_{4} is going to decide to do something /other/
+  than what he wants him to do. If it does become clear that Jones_{4}
+  is going to decide to do something else, Black takes effective steps
+  to ensure that Jones_{4} decides to do, and that he does do, what he
+  wants him to do. Whatever Jones_{4}'s initial preferences and
+  inclinations, then, Black will have his way. (Frankfurt, 835)
+#+END_QUOTE
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  suppose that Black never has to show his hand because Jones_{4}, for
+  reasons of his own, decides to perform and does perform the very
+  action Black wants him to perform. In that case, it seems clear,
+  Jones_{4} will bear precisely the same moral responsibility for what
+  he does as he would have borne if Black had not been ready to take
+  steps to ensure that he do it. (Frankfurt, 836)
+#+END_QUOTE
+
+** Frankfurt's Conclusion
+
+-  The relevant explanation of why someone is responsible concerns the
+   reasons for which they act, not whether they could have done
+   otherwise
+   #+ATTR_REVEAL: :frag (appear)
+   -  In cases of coercion or manipulation, one is not responsible
+      because of the relationship one has to the reasons for which one
+      acts
+
+* Free Will & Determinism
+** Determinism
+
+-  Determinism: :: For any state of the subject, that subject's states
+   are necessitated by the condition of its previous states plus the
+   laws of nature.
+
+#+REVEAL: split
+-  The following are all compatible with determinism
+
+   -  choice
+   -  the causal efficacy of choice & effort
+   -  deliberation
+   -  unpredictability
+
+#+REVEAL: split
+-  Is determinism compatible with free will?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Yes: ‘Compatibilism'
+   -  No: ‘Incompatibilism'
+      #+ATTR_REVEAL: :frag (appear)
+      -  Incompatibilism says /why/ determinism & freedom are
+         incompatible, but not /whether we are in fact/ free or
+         determined
+         
+** Alternative Possibilities & Incompatibilism
+#+ATTR_REVEAL: :frag (appear)
+-  Why might determinism & freedom be incompatible?
+-  Determinism deprives us of the /power or ability to do or choose
+   otherwise/.
+#+ATTR_REVEAL: :frag (appear)
+-  Leeway Incompatibilism: :: The truth of determinism is incompatible
+   with an agent's having the capacity to do otherwise than as she did
+
+** Do We Have Free Will?
+
+-  What about the factual question of whether we have free will?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Yes: Libertarianism
+   -  No: Hard Incompatibilism
+
+** There is Free Will
+
+-  Libertarianism: :: determinism is false and there is free will
+
+** There is No Free Will -- Hard Incompatibilism
+
+-  Hard Incompatibilism: :: There is no free will of the kind necessary
+   for moral responsibility and desert
+
+** Key Concepts
+
+#+ATTR_REVEAL: :frag (appear)
+-  Conception of Free Will
+-  Principle of Alternate Possibilities
+-  Determinism
+-  Compatibilism & Incompatibilism
+   #+ATTR_REVEAL: :frag (appear)
+   -  Libertarianism
+   -  Hard Incompatibilism
+
+** Questions
+#+ATTR_REVEAL: :frag (appear)
+-  Is free will necessary for moral responsibility?
+-  Is free will compatible with determinism?
+-  Is moral responsibility compatible with determinism?
+
+
+
+
 * Quizzes
 ** Week 1 - Argument
 1. An argument consists of two parts -- the evidence, and what follows
