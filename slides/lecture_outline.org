@@ -2894,6 +2894,461 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 -  Is free will compatible with determinism?
 -  Is moral responsibility compatible with determinism?
 
+* Control & Moral Responsibility
+** Alternative Possibilities & Incompatibilism
+
+-  Frankfurt cases suggest that responsibility depends on the source of
+   the agent's decision for acting rather than the ability to do
+   otherwise
+
+** Source of Agency
+
+-  The agent must have control over the production of her decision to
+   act if she is to be morally responsible for it
+-  If an agent does /not/ have control over the production of her
+   decision to act then she is not morally responsible for it
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  Jane is considering what to eat in the student union. She deliberates
+  about her choices and decides that, of the options available, Subway's
+  offerings most closely match what she desires, and so she decides to
+  order a sub.
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Did Jane play an appropriate role in the production of this decision?
+-  Is she responsible for the decision?
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  Jane is considering what to eat in the student union. Unbeknownst to
+  her, Subway is filling the air with a chemical that subliminally
+  generates in subjects an intention to eat a sandwich. Jane forms the
+  intention, and decides on Subway accordingly. She enjoys her sandwich.
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Did Jane play an appropriate role in the production of this decision?
+-  Is she responsible for the decision?
+
+#+REVEAL: split
+-  The Source Requirement: :: If an agent is morally responsible for her
+   deciding to perform an action, then the production of this decision
+   must be something over which the agent has /control/, and an agent is
+   not morally responsible for the decision if it is produced by a
+   source over which she has no control
+
+** Varieties of Incompatibilism
+
+-  Source Incompatibilism: :: The truth of determinism is incompatible
+   with an agent's having a causal history of a sort that allows the
+   agent to be the source of her action, and thus have the action be
+   under her control in the manner required for moral responsibility
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+-  If determinism were false would people be the appropriate sources of
+   their decisions?
+
+** Free Will & Indeterminism
+
+#+BEGIN_QUOTE
+  perhaps [determinism] isn't true. Many scientists now believe that it
+  isn't true for the basic particles of matter-that in a given
+  situation, there's more than one thing that an electron may do.
+  Perhaps if determinism isn't true for human actions, either, this
+  leaves room for free will and responsibility. What if human actions,
+  or at least some of them, are not determined in advance? (Nagel, 55)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  If actions aren't determined 'in advance' then what determines them?
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  is even [indeterminism] enough for free will? Is this all you mean
+  when you say, “I could have chosen fruit instead?”-that the choice
+  wasn't determined in advance? No, you believe something more. You
+  believe that /you/ determined what you would do, by /doing/ it. It
+  wasn't determined in advance, but it didn't /just happen/, either.
+  /You did it/, and you could have done the opposite. (Nagel, 53)
+#+END_QUOTE
+
+#+REVEAL: split
+-  Is indeterminism enough for freedom?
+#+ATTR_REVEAL: :frag (appear)
+-  No: Indeterminism is equally incompatible with the source requirement
+   #+ATTR_REVEAL: :frag (appear)
+   -  source of intention must issue in the 'right way' from the subject
+
+* Strawson's 'Basic Argument'
+** First Statement
+#+ATTR_REVEAL: :frag (appear)
+1. Nothing can be the cause of itself
+2. In order to be truly morally responsible for one's actions one would
+   have to be the cause of oneself in some crucial respects
+3. \therefore No one can be truly morally responsible
+
+** Questions About the Basic Argument
+#+ATTR_REVEAL: :frag (appear)
+-  Why does being morally responsible require being self-caused?
+-  What 'crucial respects' must be caused?
+   #+ATTR_REVEAL: :frag (appear)
+   -  character
+   -  evaluative dispositions & preferences
+
+** Strawson's Revision
+#+ATTR_REVEAL: :frag (appear)
+1. You do what you do because of the way you are.
+2. To be morally responsible for what you do you must be truly morally
+   responsible for the way you are -- at least in certain crucial mental
+   respects.
+3. To be truly responsible for the way you are, you must have
+   intentionally brought it about that you are the way you are, and this
+   is impossible.
+4. \therefore You cannot be truly morally responsible for what you do,
+   because you cannot be truly responsible for the way you are.
+
+-  Is the argument valid? Sound?
+
+** Questions about Strawson's Revision
+#+ATTR_REVEAL: :frag (appear)
+-  /Premise 2/: Why does moral responsibility require that one be
+   responsible for how one is 'in certain crucial mental respects'?
+-  /Premise 3/: Why is it impossible to have intentionally brought about
+   how one is?
+-  /Conclusion/: Why think that if one cannot be morally responsible for
+   the way one is, one cannot be morally responsible for what one does?
+
+* The Basic Argument (Continued)
+** The Argument
+#+ATTR_REVEAL: :frag (appear)
+1. Nothing can be the cause of itself
+2. In order to be truly morally responsible for one's actions one would
+   have to be the cause of oneself in some crucial respects
+3. $\therefore$ No one can be truly morally responsible
+
+** What is 'True moral responsibility'?
+
+#+BEGIN_QUOTE
+  As I understand it, true moral responsibility is responsibility of
+  such a kind that, if we have it, then it makes sense, at least, to
+  suppose that it could be just to punish some of us with (eternal)
+  torment in hell and reward others with (eternal) bliss in heaven...The
+  story of heaven and hell is useful simply because it illustrates, in a
+  particularly vivid way, the kind of absolute or ultimate
+  accountability or responsibility that many have supposed themselves to
+  have, and that many do still suppose themselves to have. (Strawson,
+  9-10)
+#+END_QUOTE
+
+** Questions About the Basic Argument
+#+ATTR_REVEAL: :frag (appear)
+-  Why does being morally responsible require being self-caused?
+-  What 'crucial respects' must be caused?
+   #+ATTR_REVEAL: :frag (appear)
+   -  character
+   -  evaluative dispositions & preferences
+-  Why can't we be self-caused in these respects?
+
+** Strawson's Revised Argument
+#+ATTR_REVEAL: :frag (appear)
+1. You do what you do because of the way you are.
+2. To be morally responsible for what you do you must be truly morally
+   responsible for the way you are -- at least in certain crucial mental
+   respects.
+3. To be truly responsible for the way you are, you must have
+   intentionally brought it about that you are the way you are
+4. It is impossible to have intentionally brought about how one is
+5. \therefore You cannot be truly morally responsible for what you do,
+   because you cannot be truly responsible for the way you are
+
+-  Is the argument valid? Sound?
+
+** Strawson's Argument (Validity)
+
+#+BEGIN_QUOTE
+
+  1. D \rightarrow A
+  2. MD \rightarrow MA
+  3. MA \rightarrow IA
+  4. \neg IA
+  5. \therefore \neg MA (3, 4, Modus Tollens)
+  6. \therefore \neg MD (2, 5, Modus Tollens)
+#+END_QUOTE
+
+** Questions about Strawson's Argument (Soundness)
+#+ATTR_REVEAL: :frag (appear)
+-  Premise 2: :: Why think that if one cannot be morally responsible for
+   the way one is, one cannot be morally responsible for what one does?
+-  Premise 4: :: Why is it impossible to have intentionally brought
+   about how one is?
+
+** Defending Premise 2
+
+#+BEGIN_QUOTE
+  Why think that if one cannot be morally responsible for the way one
+  is, one cannot be morally responsible for what one does?
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  We aren't responsible for those aspects of ourselves over which we
+   have no control
+   #+ATTR_REVEAL: :frag (appear)
+   -  hair color
+   -  skin color
+   -  social-economic class
+
+#+REVEAL: split
+-  Our control over what decisions we make depends in part on our
+   character and evaluative dispositions
+#+ATTR_REVEAL: :frag (appear)
+-  If we have no control over our character and evaluative dispositions
+   then we have no ultimate control over the decisions we make which
+   depend on them
+   
+** Defending Premise 4
+
+#+BEGIN_QUOTE
+  Why is it impossible to have intentionally brought about how one is?
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Intentionally bringing about how one is entails an absurdity
+
+#+REVEAL: split
+1. Suppose that you have somehow intentionally brought it about that you
+   are the way you now are, and that you have brought this about in such
+   a way that you can now be said to be truly responsible for being the
+   way you now are
+#+ATTR_REVEAL: :frag (appear)
+2. Your intentional act, for which you are responsible, is due to some
+   nature N
+3. If you are truly responsible for this act you must be truly
+   responsible for having the nature N in virtue of which you
+   intentionally brought it about that you are the way you now are
+4. $\therefore$ You must have intentionally brought about N, which
+   requires that you have some further nature N1, in virtue of which you
+   brought about your nature N... (absurd infinite regress ensues)
+5. \therefore It is impossible for you to have intentionally brought
+   it about that you are as you are now
+
+* Review
+** Strawson's Revised Argument
+
+1. You do what you do because of the way you are.
+2. To be morally responsible for what you do you must be truly morally
+   responsible for the way you are -- at least in certain crucial mental
+   respects.
+3. To be truly responsible for the way you are, you must have
+   intentionally brought it about that you are the way you are
+4. It is impossible to have intentionally brought about how one is
+5. \therefore You cannot be truly morally responsible for what you do,
+   because you cannot be truly responsible for the way you are
+
+-  Is the argument valid? Sound?
+
+** Strawson's Argument (Validity)
+
+#+BEGIN_QUOTE
+
+  1. D \rightarrow A
+  2. MD \rightarrow MA
+  3. MA \rightarrow IA
+  4. \neg IA
+  5. \therefore \neg MA (3, 4, Modus Tollens)
+  6. \therefore \neg MD (2, 5, Modus Tollens)
+#+END_QUOTE
+
+** Questions about Strawson's Argument (Soundness)
+
+-  Premise 2: :: Why think that if one cannot be morally responsible for
+   the way one is, one cannot be morally responsible for what one does?
+-  Premise 4: :: Why is it impossible to have intentionally brought
+   about how one is?
+
+** Defending Premise 2
+
+#+BEGIN_QUOTE
+  Why think that if one cannot be morally responsible for the way one
+  is, one cannot be morally responsible for what one does?
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  We aren't responsible for those aspects of ourselves over which we
+   have no control
+   #+ATTR_REVEAL: :frag (appear)
+   -  hair color
+   -  skin color
+   -  social-economic class
+
+** Agency & Control
+
+-  The Source Requirement: :: If an agent is morally responsible for her
+   deciding to perform an action, then the production of this decision
+   must be something over which the agent has /control/, and an agent is
+   not morally responsible for the decision if it is produced by a
+   source over which she has no control
+
+** Defending Premise 2
+
+1. We are only truly responsible for that over which we could have
+   appropriate control (source requirement)
+2. The decisions we make depend in part on our character/evaluative
+   dispositions (premise)
+3. \therefore We are only truly responsible for what we do if we have
+   appropriate control over our character/evaluative dispositions
+
+** Counterexamples?
+
+#+ATTR_REVEAL: :frag (appear)
+-  Sometimes attributions of responsibility depend on 'moral luck'
+   #+ATTR_REVEAL: :frag (appear)
+   -  In particular cases we treat people as morally responsible
+      (actions as worthy of praise/blame) even though there were
+      significant aspects of the situation that were beyond their
+      control
+      #+ATTR_REVEAL: :frag (appear)
+      -  murder vs. attempted murder
+      -  circumstances (e.g. unlucky driver, Nazi collaborator)
+
+#+REVEAL: split
+-  We are responsible for things that don't have to do with
+   character/evaluative dispositions
+   #+ATTR_REVEAL: :frag (appear)
+   -  promises
+   -  relationships (e.g. to parents, children, friends)
+
+** Defending Premise 4
+
+#+BEGIN_QUOTE
+  Why is it impossible to have intentionally brought about how one is?
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Intentionally bringing about how one is entails an absurdity
+
+** Defending Premise 4
+#+ATTR_HTML: :height 50%, :width 50%
+1. Suppose that you've intentionally brought it about that you are the
+   way you now are, and that you are truly responsible for being this
+   way
+2. Your intentional act, for which you are responsible, is due to some
+   nature N_1
+3. If you are truly responsible for this act you must be truly
+   responsible for having the nature N_1 in virtue of which you
+   intentionally brought it about that you are the way you now are
+4. $\therefore$ You must have intentionally brought about N_1, which
+   requires that you have some further nature N_2, in virtue of which you
+   brought about your nature N_1... (absurd infinite regress ensues)
+5. $\therefore$ It is impossible for you to have intentionally brought
+   it about that you are as you are now
+
+** Defending Premise 4
+#+ATTR_REVEAL: :frag (appear)
+1. IA (assumption for reductio)
+2. I\phi \leftrightarrow R\phi (premise)
+3. \therefore RA (1, 2, substitution, MP)
+4. I\phi \rightarrow N_i (premise)
+5. IA \rightarrow N_1 (4, substitution)
+6. \therefore N_1 (1, 5, substitution, MP)
+7. RA \rightarrow RN_{1} (premise)
+8. \therefore RN_{1} (3, 7, MP)
+9. \therefore IN_{1} (2, 8, substitution, MP)
+10. IN_{1} \rightarrow N_{2} (4, 9, substitution)
+11. Infinite regress ensues (repeat steps 6-8) ...
+12. \therefore \neg IA
+
+* The Libet Experiments
+  :PROPERTIES:
+  :CUSTOM_ID: the-libet-experiments
+  :END:
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing
+   :END:
+
+#+BEGIN_QUOTE
+  Libet asked his subjects to flex their wrists at any time they wanted
+  and then report the location of a dot moving quickly around a clock
+  face when they first felt the urge or intention to flex their wrists.
+  Throughout this process, he recorded their neural activity (with EEG)
+  as well as their wrist movements (with EMG)...That activity [called a
+  ‘Readiness Potential' or RP] ramped up slowly, reaching its pinnacle
+  at the time when bodily movement began, and then fell quickly after
+  movement...(Sinnott-Armstrong, 238)
+#+END_QUOTE
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-1
+   :END:
+
+#+BEGIN_QUOTE
+  What was surprising was the order: The readiness potential with
+  unplanned actions (type II RP) began around 550 ms before the hand
+  movement (M) began, and the reported time of conscious will (W) was
+  around 150--200 ms before the hand movement (M) began, so the
+  readiness potential...began around 350--400 ms before the reported
+  time of conscious will (W). This order suggests that conscious will
+  does not initiate the readiness potential...This implication is
+  surprising, because most people think that their conscious choice is
+  what begins the process that makes their body move in such cases.
+  (Sinnott-Armstrong, 238-9)
+#+END_QUOTE
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-2
+   :END:
+
+-  On one interpretation of the experiment, conscious willing is not
+   casually efficacious in the generation of behavior
+-  Are there other potential functions for conscious willing with
+   respect to action?
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-3
+   :END:
+
+#+BEGIN_QUOTE
+  Potentially available to the conscious function is the possibility of
+  stopping or vetoing the final progress of the volitional process, so
+  that no actual muscle action ensues. /Conscious-will could thus affect
+  the outcome/ of the volitional process even though the latter was
+  initiated by unconscious cerebral processes. Conscious-will might
+  block or veto the process, so that no act occurs. (Libet, 5)
+#+END_QUOTE
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-4
+   :END:
+
+-  According to Libet, the role of conscious willing is to /control/ not
+   /initiate/ action
+
+#+BEGIN_QUOTE
+  The role of conscious free will would be, then, not to initiate a
+  voluntary act, but rather to control whether the act takes place.
+  (Libet, 7)
+#+END_QUOTE
+
+** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-5
+   :END:
+
+-  Conscious willing may not play a causal role in the initiation of
+   action
+-  Conscious willing may play a role in the ‘veto' of an intention to
+   act
+
+   -  No free will, but free "won't"
 
 
 
@@ -3092,7 +3547,147 @@ D. Computer programs are more than just semantics \\
 A. True \\
 B. False 
 
+** Week 8 - Moral responsibility
+*** Question 1
 
+Determinism says that there is no free will.
+
+#+BEGIN_QUOTE
+  A. True\\
+  B. False\\
+#+END_QUOTE
+
+*** Determinism
+
+-  Determinism: :: For any state of the subject, that subject's states
+   are necessitated by the condition of its previous states plus the
+   laws of nature.
+
+
+#+BEGIN_NOTES
+1. Is the truth of determinism compatible with free will?
+2. Is determinism true?
+#+END_NOTES
+
+*** Determinism & Free Will
+
+1. Is the truth of determinism compatible with free will?
+
+   -  Yes: Compatibilism
+   -  No: Incompatibilism
+
+
+*** Is There Free Will?
+2. Is determinism true?
+  -  Yes: Libertarianism
+  -  No: Hard Incompatibilism
+
+
+#+BEGIN_NOTES
+-  Libertarianism: :: determinism is false and there is free will
+-  Hard Incompatibilism: :: There is no free will of the kind necessary
+   for moral responsibility
+#+END_NOTES
+
+*** Alternative Possibilities & Incompatibilism
+
+-  Why might determinism & freedom be incompatible?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Determinism is like /coercion/ or /manipulation/
+   -  Coercion/manipulation deprives us of the /power or ability to do
+      or choose otherwise/.
+
+*** Question 2
+
+The Principle of Alternate Possibilities says:
+
+#+BEGIN_QUOTE
+  A. Moral responsibility requires being able to do otherwise\\
+  B. Moral responsibility requires being able to act on reasons\\
+  C. We could never do otherwise than what we have done\\
+  D. We could at least sometimes do otherwise that what we do\\
+#+END_QUOTE
+
+*** Alternative Possibilities & Incompatibilism
+
+#+ATTR_REVEAL: :frag (appear)
+-  The Principle of Alternate Possibilities (PAP): :: a person is
+   morally responsible for what s/he has done only if s/he could have
+   done otherwise (or chosen otherwise)
+-  Leeway Incompatibilism: :: The truth of determinism is incompatible
+   with an agent's having the capacity to do otherwise than as she did
+
+*** Question 3
+
+According to Frankfurt, determinism and free will are compatible
+because:
+
+#+BEGIN_QUOTE
+  A. We couldn't have chosen otherwise\\
+  B. Responsibility is based on the reasons for which we act\\
+  C. Determinism is false\\
+  D. We can always choose to do otherwise\\
+#+END_QUOTE
+
+** Week 9 - Control
+*** Question 1
+
+The source requirement says that
+
+#+BEGIN_QUOTE
+  A. we have free will\\
+  B. moral responsibility depends on being able to do otherwise\\
+  C. control is irrelevant to moral responsibility\\
+  D. responsibility for a choice requires that one be the appropriate
+  source of the choice
+#+END_QUOTE
+
+*** Agency & Control
+
+-  The Source Requirement: :: If an agent is morally responsible for her
+   deciding to perform an action, then the production of this decision
+   must be something over which the agent has /control/, and an agent is
+   not morally responsible for the decision if it is produced by a
+   source over which she has no control
+
+*** Question 2
+
+Determinism says that:
+
+#+BEGIN_QUOTE
+  A. we cannot make any choices\\
+  B. our choices are not causally effective\\
+  C. our current states are necessitated by our past states in
+  conjunction with physical laws\\
+  D. we are free
+#+END_QUOTE
+
+*** Determinism
+
+-  Determinism: :: For any state of the subject, that subject's states
+   are necessitated by the condition of its previous states plus the
+   laws of nature.
+
+*** Question 3
+
+If determinism is false then we have free will
+
+#+BEGIN_QUOTE
+  A. True\\
+  B. False
+#+END_QUOTE
+
+*** Question 4
+
+You cannot be truly responsible for the way you are because
+
+#+BEGIN_QUOTE
+  A. you cannot do otherwise than you do\\
+  B. determinism is true\\
+  C. determinism is false\\
+  D. in certain crucial respects you cannot have intentionally brought
+  it about that you are as you are now
+#+END_QUOTE
 
 * Clicker Questions
 ** Logic & Argument
