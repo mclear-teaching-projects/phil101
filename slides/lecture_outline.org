@@ -2602,20 +2602,21 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 
 -  Freedom of Will: :: (1) a capacity of an agent to (2) choose
    according to her preferences (3) from amongst a set of relevant
-   alternatives such that (4) she is responsible for that choice or
+   alternatives such that (4) the agent is responsible for that choice or
    action
 
 ** Why is Freedom of the Will Important?
 
+#+ATTR_REVEAL: :frag (appear)
 -  Desert & Moral responsibility
    #+ATTR_REVEAL: :frag (appear)
    -  praise & blame
-   -  distribution of resources
-#+ATTR_REVEAL: :frag (appear)
+   -  distribution of resources  
 -  Punishment
 
 ** How to Talk about Freedom
 
+#+ATTR_REVEAL: :frag (appear)
 -  Analysis of cases (casuistry)
    #+ATTR_REVEAL: :frag (appear)
    -  Testing philosophical 'intuitions'
@@ -2633,14 +2634,20 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 #+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
   Jane didn't want to share her chocolate bar with John, but the teacher
-  threatened her with detention (or worse) if she didn't
+  threatened her with detention (or worse) if she didn't, so she gave
+  John half.
 #+END_QUOTE
 
 #+ATTR_REVEAL: :frag (appear)
 -  Did Jane act freely?
 -  Is she to be (morally) praised for sharing the chocolate?
    #+ATTR_REVEAL: :frag (appear)
-   -  deserving praise vs. praising to shape her future behavior
+   -  Deserving praise vs. praising to shape an agent's future behavior
+
+#+BEGIN_NOTES
+- Discuss praise and blame as linked not to desert & responsibility but
+  rather to behavioral conditioning
+#+END_NOTES
 
 #+REVEAL: split
 #+BEGIN_QUOTE
@@ -2665,6 +2672,12 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 #+ATTR_REVEAL: :frag (appear)
 -  Is John acting freely in his assassination attempt?
 -  Is John morally blameworthy?
+  
+#+BEGIN_NOTES
+- Other kinds of manipulation
+  - Advertising
+  - Subway's "baking bread" smell
+#+END_NOTES
 
 ** Incompatibilism
 #+ATTR_REVEAL: :frag (appear)
@@ -2674,28 +2687,31 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 
 ** What Generates the Incompatibility?
 
--  Alternate Possibilities: moral responsibility is incompatible with
-   the fact that the agent could not have done otherwise
+#+ATTR_REVEAL: :frag (appear)
+- Control?
+- Self-initiation?
+- Options?
+- Something else?
 
-** Alternate Possibilities
+** Nagel on Alternate Possibilities
 
 #+BEGIN_QUOTE
-  If you believed that [you couldn't have acted any other way] about
-  yourself and other people, it would probably change the way you felt
-  about things. For instance, could you blame yourself for giving in to
-  temptation and having the cake? Would it make sense to say, “I really
-  should have had a peach instead,” if you /couldn't/ have chosen a
-  peach instead? It certainly wouldn't make sense to say it if there
-  /was no/ fruit. So how can it make sense if there /was/ fruit, but you
-  couldn't have chosen it because it was determined in advance that you
-  would choose cake? (Nagel, 53)
+  If you believed that about yourself and other people [i.e. that you
+  couldn't have acted any other way] , it would probably change the way
+  you felt about things. For instance, could you blame yourself for
+  giving in to temptation and having the cake? Would it make sense to
+  say, “I really should have had a peach instead,” if you /couldn't/ have
+  chosen a peach instead? It certainly wouldn't make sense to say it if
+  there /was no/ fruit. So how can it make sense if there /was/ fruit, but
+  you couldn't have chosen it because it was determined in advance that
+  you would choose cake? (Nagel, 53)
 #+END_QUOTE
 
 #+REVEAL: split
 
 -  The Principle of Alternate Possibilities (PAP): :: a person is
-   morally responsible for what s/he has done only if s/he could have
-   done otherwise (or chosen otherwise)
+   morally responsible for what they have done only if they could have
+   done (or chosen) otherwise
 
 #+REVEAL: split
 -  What explains why an agent is not morally responsible in cases of
@@ -2703,6 +2719,13 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
    #+ATTR_REVEAL: :frag (appear)
    -  Proposal: PAP is violated -- The agent could not have done
       otherwise
+     
+#+BEGIN_NOTES
+- Discuss Nagel's notion of something's being "determined in advance"
+  - It *seems* like one's future is "open"
+  - Might things be different from how they seem?
+- Is *prediction* a problem here?
+#+END_NOTES
 
 * Frankfurt on Alternate Possibilities
 ** Coercion & PAP
