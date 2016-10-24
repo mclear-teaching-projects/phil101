@@ -2728,6 +2728,59 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 #+END_NOTES
 
 * Frankfurt on Alternate Possibilities
+** Alternate Possibilities & Determinism
+#+ATTR_REVEAL: :frag (appear)
+-  What explains why an agent is not morally responsible in cases of
+   coercion/manipulation?
+-  The Principle of Alternate Possibilities (PAP): :: a person is
+   morally responsible for what they have done only if they could have
+   done (or chosen) otherwise
+
+#+BEGIN_NOTES
+- Proposal: PAP is violated -- The agent could not have done
+  otherwise
+#+END_NOTES
+     
+#+REVEAL: split
+-  Determinism: :: For any state of the subject, that subject's states
+   are necessitated by the condition of its previous states plus the
+   laws of nature.
+
+#+REVEAL: split
+-  The following are all compatible with determinism
+   #+ATTR_REVEAL: :frag (appear)
+   -  choice
+   -  the causal efficacy of choice & effort
+   -  deliberation
+   -  unpredictability
+
+#+REVEAL: split
+-  Is determinism compatible with free will?
+  #+ATTR_REVEAL: :frag (appear)
+   -  Yes: ‘Compatibilism'
+   -  No: ‘Incompatibilism'
+      #+ATTR_REVEAL: :frag (appear)
+      -  Incompatibilism says /why/ determinism & freedom are
+        incompatible, but not /whether we are in fact/ free or determined
+        
+#+BEGIN_NOTES
+- The question we're interested in is whether freedom & determinism are
+  compatible and why/why not.
+- There is a further question as to whether determinism is true
+#+END_NOTES
+
+** Alternative Possibilities & Incompatibilism
+#+ATTR_REVEAL: :frag (appear)
+-  Why might determinism & freedom be incompatible?
+-  Determinism deprives us of the /power or ability to do or choose
+   otherwise/.
+ 
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+-  Leeway Incompatibilism: :: The truth of determinism is incompatible
+   with an agent's having the capacity to do otherwise than as she did
+
 ** Coercion & PAP
 
 #+BEGIN_QUOTE
@@ -2792,15 +2845,23 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
    #+ATTR_REVEAL: :frag (appear)
    -  Only the case of Jones_{2} is a case of genuine coercion
      
-** Objection
+#+BEGIN_NOTES
+- Emphasize the difference between action in the *presence* of a threat
+  and action *on the basis* of a threat.
+  - Only the latter counts as coercion
+#+END_NOTES
+     
+** Objection 
 
 -  Is the case of Jones_{3} a clear counterexample to the claim that
    coercion/manipulation excuses?
    #+ATTR_REVEAL: :frag (appear)
    -  The presence of the threat in the Jones_{3} case does not meant
       that he /could not/ have done otherwise
+     
+#+BEGIN_NOTES
+- Is this case relevantly like the "your money or your life" (or the jewelry) situation?
 
-#+REVEAL: split
 #+BEGIN_QUOTE
   His knowledge that he stands to suffer an intolerably harsh penalty
   does not mean that Jones_{3}, strictly speaking, /cannot/ perform any
@@ -2814,9 +2875,15 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
   instance contrary to the principle. (Frankfurt, 834)
 #+END_QUOTE
 
+#+END_NOTES
+
 ** Response -- Jones_{4}
 
-#+BEGIN_QUOTE
+- Jones_4: acts for his own reasons, but if there was any sign of his
+  acting differently, would have been forced to carry out the act anyway
+
+#+BEGIN_NOTES
+
   Suppose someone--Black, let us say--wants Jones_{4} to perform a
   certain action. Black is prepared to go to considerable lengths to get
   his way, but he prefers to avoid showing his hand unnecessarily. So he
@@ -2828,17 +2895,15 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
   to ensure that Jones_{4} decides to do, and that he does do, what he
   wants him to do. Whatever Jones_{4}'s initial preferences and
   inclinations, then, Black will have his way. (Frankfurt, 835)
-#+END_QUOTE
 
-#+REVEAL: split
-#+BEGIN_QUOTE
   suppose that Black never has to show his hand because Jones_{4}, for
   reasons of his own, decides to perform and does perform the very
   action Black wants him to perform. In that case, it seems clear,
   Jones_{4} will bear precisely the same moral responsibility for what
   he does as he would have borne if Black had not been ready to take
   steps to ensure that he do it. (Frankfurt, 836)
-#+END_QUOTE
+
+#+END_NOTES
 
 ** Frankfurt's Conclusion
 
@@ -2849,6 +2914,11 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
    -  In cases of coercion or manipulation, one is not responsible
       because of the relationship one has to the reasons for which one
       acts
+
+** Leeway Incompatibilism
+#+ATTR_REVEAL: :frag (appear)
+- If Frankfurt is correct then Leeway Incompatibilism is false
+- Might there be other ways in which determinism & freedom are incompatible?
 
 * Free Will & Determinism
 ** Determinism
