@@ -3197,7 +3197,7 @@ then it *isn't* because:
 1. Nothing can be the cause of itself
 2. In order to be truly morally responsible for one's actions one would
    have to be the cause of oneself in some crucial respects
-3. $\therefore$ No one can be truly morally responsible
+3. \therefore No one can be truly morally responsible
 
 ** What is 'True moral responsibility'?
 
@@ -3233,13 +3233,13 @@ then it *isn't* because:
 4. It is impossible to have intentionally brought about how one is
 5. \therefore You cannot be truly morally responsible for what you do,
    because you cannot be truly responsible for the way you are
-
+   
+\\
+#+ATTR_REVEAL: :frag (appear)
 -  Is the argument valid? Sound?
-
-** Strawson's Argument (Validity)
-
+  
+#+BEGIN_NOTES
 #+BEGIN_QUOTE
-
   1. D \rightarrow A
   2. MD \rightarrow MA
   3. MA \rightarrow IA
@@ -3247,6 +3247,30 @@ then it *isn't* because:
   5. \therefore \neg MA (3, 4, Modus Tollens)
   6. \therefore \neg MD (2, 5, Modus Tollens)
 #+END_QUOTE
+#+END_NOTES
+
+** Strawson's Argument (Validity)
+
+#+BEGIN_QUOTE
+  1. D \rightarrow A
+  2. MD \rightarrow MA
+  3. MA \rightarrow IA
+  4. \neg IA
+  5. \therefore \neg MA (3, 4, Modus Tollens)
+  6. \therefore \neg MD (2, 5, Modus Tollens)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+1. You do what you do because of the way you are.
+2. To be morally responsible for what you do you must be truly morally
+   responsible for the way you are -- at least in certain crucial mental
+   respects.
+3. To be truly responsible for the way you are, you must have
+   intentionally brought it about that you are the way you are
+4. It is impossible to have intentionally brought about how one is
+5. \therefore You cannot be truly morally responsible for what you do,
+   because you cannot be truly responsible for the way you are
+#+END_NOTES
 
 ** Questions about Strawson's Argument (Soundness)
 #+ATTR_REVEAL: :frag (appear)
@@ -3287,18 +3311,22 @@ then it *isn't* because:
 #+ATTR_REVEAL: :frag (appear)
 -  Intentionally bringing about how one is entails an absurdity
 
+#+BEGIN_NOTES
+- Explain what a reductio ad absurdam argument is
+#+END_NOTES
+
 #+REVEAL: split
+#+ATTR_REVEAL: :frag (none appear appear appear appear appear) 
 1. Suppose that you have somehow intentionally brought it about that you
    are the way you now are, and that you have brought this about in such
    a way that you can now be said to be truly responsible for being the
    way you now are
-#+ATTR_REVEAL: :frag (appear)
 2. Your intentional act, for which you are responsible, is due to some
    nature N
 3. If you are truly responsible for this act you must be truly
    responsible for having the nature N in virtue of which you
    intentionally brought it about that you are the way you now are
-4. $\therefore$ You must have intentionally brought about N, which
+4. \therefore You must have intentionally brought about N, which
    requires that you have some further nature N1, in virtue of which you
    brought about your nature N... (absurd infinite regress ensues)
 5. \therefore It is impossible for you to have intentionally brought
