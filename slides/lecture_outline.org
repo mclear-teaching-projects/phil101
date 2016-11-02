@@ -115,7 +115,7 @@ propositions---i.e. sentences that can be true or false
    premises
 -  Abductive Argument: :: the conclusion is the /best explanation/ of
    the truth of the premises
-
+     
 *** A Simple Deductive Argument
 
 #+ATTR_REVEAL: :frag (appear)
@@ -1840,7 +1840,7 @@ Vincent Van Gogh, 1889
 #    portrait to resemble Van Gogh?
 
 #+REVEAL: split
-#+ATTR_HTML: :style min-width:50%; margin:auto; display:block; text-align:center
+#+ATTR_HTML: :style min-width:110%; margin:auto; display:block; text-align:center
 [[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/Santa.jpg]]
 #+ATTR_HTML: :style text-align:center
 Who do I resemble?
@@ -3462,8 +3462,15 @@ then it *isn't* because:
   :PROPERTIES:
   :CUSTOM_ID: the-libet-experiments
   :END:
+  
+#+BEGIN_NOTES
+- Died in 2007
+- Libet was a researcher in the physiology department of UC-San Francisco
+- Best known for experiments in early 80s
+- Inaugurates the significance of neuroscience for free will debate
+#+END_NOTES
 
-** The Efficacy of Conscious Willing
+** The Experiment
    :PROPERTIES:
    :CUSTOM_ID: the-efficacy-of-conscious-willing
    :END:
@@ -3479,7 +3486,13 @@ then it *isn't* because:
   movement...(Sinnott-Armstrong, 238)
 #+END_QUOTE
 
-** The Efficacy of Conscious Willing
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:105%; margin:auto; display:block; text-align:center
+[[/Users/Roambot/projects/phil101/content/slides/libet_experiment.jpg]]
+#+ATTR_HTML: :style text-align:center
+The Libet experiment
+
+** A Surprising Outcome
    :PROPERTIES:
    :CUSTOM_ID: the-efficacy-of-conscious-willing-1
    :END:
@@ -3497,17 +3510,28 @@ then it *isn't* because:
   (Sinnott-Armstrong, 238-9)
 #+END_QUOTE
 
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:105%; margin:auto; display:block; text-align:center
+[[/Users/Roambot/projects/phil101/content/slides/libet_rp.png]]
+#+ATTR_HTML: :style text-align:center
+The readiness potential graph
+
 ** The Efficacy of Conscious Willing
    :PROPERTIES:
    :CUSTOM_ID: the-efficacy-of-conscious-willing-2
    :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  On one interpretation of the experiment, conscious willing is not
    casually efficacious in the generation of behavior
 -  Are there other potential functions for conscious willing with
    respect to action?
+  
+#+BEGIN_NOTES
+- Talk about difference between conscious willing and unconscious processes
+  - epiphenomenalism of consciousness
+#+END_NOTES
 
-** The Efficacy of Conscious Willing
+** Veto Power
    :PROPERTIES:
    :CUSTOM_ID: the-efficacy-of-conscious-willing-3
    :END:
@@ -3521,23 +3545,60 @@ then it *isn't* because:
   block or veto the process, so that no act occurs. (Libet, 5)
 #+END_QUOTE
 
-** The Efficacy of Conscious Willing
-   :PROPERTIES:
-   :CUSTOM_ID: the-efficacy-of-conscious-willing-4
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  According to Libet, the role of conscious willing is to /control/ not
    /initiate/ action
 
+#+REVEAL: split
 #+BEGIN_QUOTE
   The role of conscious free will would be, then, not to initiate a
   voluntary act, but rather to control whether the act takes place.
   (Libet, 7)
 #+END_QUOTE
 
-** The Efficacy of Conscious Willing
+#+ATTR_REVEAL: :frag (appear)
+-  Conscious willing may not play a causal role in the initiation of
+   action
+-  Conscious willing may play a role in the ‘veto' of an intention to
+   act
+   #+ATTR_REVEAL: :frag (appear)
+   -  No free will, but free "won't"
+
+* Sinnott-Armstrong on Libet
+  :PROPERTIES:
+  :CUSTOM_ID: sinnott-armstrong-on-libet
+  :END:
+
+** Review of Libet
+  :PROPERTIES:
+  :CUSTOM_ID: review-of-libet
+  :END:
+
+*** The Experiment
    :PROPERTIES:
-   :CUSTOM_ID: the-efficacy-of-conscious-willing-5
+   :CUSTOM_ID: the-experiment
+   :END:
+
+-  The temporal order of an spontaneous voluntary choice and the neural
+   activity (readiness potential) leading to the action is the reverse
+   of what was expected
+
+   -  Expected: choice, readiness potential, action
+   -  Actual result: readiness potential, choice, action
+
+*** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing
+   :END:
+
+-  On one interpretation of the experiment, conscious willing is not
+   casually efficacious in the generation of behavior
+-  According to Libet, the role of conscious willing is to /control/ not
+   /initiate/ action
+
+*** The Efficacy of Conscious Willing
+   :PROPERTIES:
+   :CUSTOM_ID: the-efficacy-of-conscious-willing-1
    :END:
 
 -  Conscious willing may not play a causal role in the initiation of
@@ -3545,8 +3606,225 @@ then it *isn't* because:
 -  Conscious willing may play a role in the ‘veto' of an intention to
    act
 
-   -  No free will, but free "won't"
+   -  We have 'free won't' instead of free will
 
+** What Libet's Experiment Does Not Show
+   :PROPERTIES:
+   :CUSTOM_ID: what-libets-experiment-does-not-show
+   :END:
+
+-  All actions are determined
+
+   -  Libet's experiments examine whether conscious willings are
+      causally efficacious, not whether willings in general are
+      free/determined
+
+** What Libet's Experiment Does Not Show
+   :PROPERTIES:
+   :CUSTOM_ID: what-libets-experiment-does-not-show-1
+   :END:
+
+-  There are no such things as intentions or willings
+
+   -  The experiments only concern conscious willings or consciousness
+      of will, not intentions or willings generally
+
+** What Libet's Experiment Does Not Show
+   :PROPERTIES:
+   :CUSTOM_ID: what-libets-experiment-does-not-show-2
+   :END:
+
+-  Conscious states (or conscious willings) in general are epiphenomenal
+
+   -  Appeal to conscious intentions seems necessary to explain why the
+      subjects of the experiments were there in the first place and
+      followed Libet's directions
+
+** What Libet's Experiment Does Not Show
+   :PROPERTIES:
+   :CUSTOM_ID: what-libets-experiment-does-not-show-3
+   :END:
+
+-  There are no casually efficacious ‘proximal' willings or intentions
+
+   -  There are in action generally (e.g. willings may have ‘veto'
+      power)
+   -  Conscious willing may well play a role in the initiation of other
+      kinds of actions
+
+** What Libet's Experiment Does Show
+   :PROPERTIES:
+   :CUSTOM_ID: what-libets-experiment-does-show
+   :END:
+
+#+BEGIN_QUOTE
+  What do Libet's results show? He showed that, in /some/ cases, a
+  /conscious proximal/ will to move now does /not initiate/ the brain
+  activity (or RP) that begins the process that produces the bodily
+  movement or action. (Sinnott-Armstrong, 239)
+#+END_QUOTE
+
+** Conscious Willing & Legal Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-legal-responsibility
+   :END:
+
+-  Our legal practices (e.g. the Model Penal Code) presuppose the causal
+   efficacy of conscious willing for attribution of legal responsibility
+
+** Conscious Willing & Legal Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-legal-responsibility-1
+   :END:
+
+#+BEGIN_QUOTE
+  /The Model Penal Code (MPC) Section 2.01:/ (1) A person is not guilty
+  of an offense unless his liability is based on conduct that includes a
+  voluntary act or the omission to perform an act of which he is
+  physically capable. (2) The following are not voluntary acts within
+  the meaning of this Section: (a) a reflex or convulsion; (b) a bodily
+  movement during unconsciousness or sleep; (c) conduct during hypnosis
+  or resulting from hypnotic suggestion; (d) a bodily movement that
+  otherwise is not a product of the effort or determination of the
+  actor, either conscious or habitual.
+#+END_QUOTE
+
+** Conscious Willing & Legal Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-legal-responsibility-2
+   :END:
+
+-  Libet's results suggest that quick, unplanned actions may be the
+   result of automatic processes over which the subject has little to no
+   control or ‘veto' power
+-  Legal attribution of responsibility may need to take into account
+   Libet's results
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility
+   :END:
+
+-  Is the causal efficacy of conscious willing necessary for /moral/
+   responsibility?
+
+   -  legal evidence suggests that it is
+   -  examination of cases also provides support
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-1
+   :END:
+
+#+BEGIN_QUOTE
+  Consider someone who is asleep but grabs a knife, walks into an
+  adjoining bedroom, stabs her daughter, walks back to her own bedroom,
+  and is completely surprised in the morning to find her daughter
+  dead...many people would view it as morally unfair to hold real
+  sleepwalkers responsible. Why? The answer seems to be that they are
+  seen as lacking consciousness and, hence, control. (Sinnott-Armstrong,
+  237)
+#+END_QUOTE
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-2
+   :END:
+
+Is the sleepwalker (morally) responsible for killing her daughter?
+
+#+BEGIN_QUOTE
+  A. Yes\\
+  B. No\\
+  C. Don't know\\
+#+END_QUOTE
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-3
+   :END:
+
+-  Presumption that consciousness is necessary for control, and that
+   control is necessary for moral responsibility
+
+   -  presumes something like the Source Requirement
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-4
+   :END:
+
+-  General consciousness is not enough
+
+   -  disorders such as Tourette's Syndrome and ‘Alien Hand' Syndrome
+      are examples in which consciousness is present but not causally
+      efficacious, so there is no attribution of responsibility
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-5
+   :END:
+
+#+BEGIN_QUOTE
+  Imagine that someone plans to kill a rival by running him over at 9:00
+  as the rival jogs by his house. It is 9:00 now, but the driver thinks
+  it is 8:00, since he forgot daylight saving time, so the driver
+  decides to go buy breakfast. As he drives carefully out of his
+  driveway, the jogger appears unexpectedly and is run over and killed
+  by accident. The driver did will to kill the jogger, had that will at
+  the time when he killed the jogger, and killed him in the intended way
+  at the intended place and time. (Sinnott-Armstrong, 237)
+#+END_QUOTE
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-6
+   :END:
+
+Is the driver morally responsible for his rival's death?
+
+#+BEGIN_QUOTE
+  A. Yes\\
+  B. No\\
+  C. Don't know\\
+#+END_QUOTE
+
+** Conscious Willing & Moral Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: conscious-willing-moral-responsibility-7
+   :END:
+
+-  Is the driver morally responsible for his rival's death?
+
+   -  No: the relevant intention was the driver's desire for breakfast,
+      which accidentally resulted in the death of his rival
+
+-  For an intention to morally culpable it must be causally relevant
+
+** The Significance of Libet's Results for Morality
+   :PROPERTIES:
+   :CUSTOM_ID: the-significance-of-libets-results-for-morality
+   :END:
+
+-  Libet's experiments show that /some/ acts of /proximal willing/ are
+   not obviously casually efficacious in the production of /certain
+   kinds/ of behavior
+
+** The Significance of Libet's Results
+   :PROPERTIES:
+   :CUSTOM_ID: the-significance-of-libets-results
+   :END:
+
+#+BEGIN_QUOTE
+  Various moves are available if an act does not seem to result from
+  conscious will: Either (a) we cannot hold the person responsible at
+  all or (b) we need to remove consciousness from the requirements for
+  responsibility or (c) we need to specify that only general
+  consciousness is required or (d) we need to stretch the “action” to
+  include a prior voluntary act or (e) we need to reduce the legal
+  effects of minimal or automatic acts (e.g., by mitigation).
+  (Sinnott-Armstrong, 245)
+#+END_QUOTE
 
 
 * Quizzes
@@ -3758,39 +4036,34 @@ Answers: B, F, F, T
 ** Week 11 - Control
 1. Determinism says that:
 
-#+BEGIN_QUOTE
-    A. we cannot make any choices    B. our choices are not causally
-  effective    C. the state of subject, plus the laws of nature,
-  necessitate the future states of the subject    D. we are free
-#+END_QUOTE
+A. we cannot make any choices   
+B. our choices are not causally effective   
+C. the state of subject, plus the laws of nature, necessitate the future
+states of the subject   
+D. we are free
 
 2. Showing that determinism is false is sufficient for showing that we
    have free will  
 
-#+BEGIN_QUOTE
-     A. True     B. False
-#+END_QUOTE
+A. True    
+B. False
 
 3. Strawson argues that you cannot be truly responsible for the way you
    are because
 
-#+BEGIN_QUOTE
-     A. you cannot do otherwise than you do     B. indeterminism is
-  true     C. determinism is false     D. you cannot have intentionally
-  brought it about that you are as you are now in certain crucial
-  respects
-#+END_QUOTE
+A. you cannot do otherwise than you do    
+B. indeterminism is true    
+C. determinism is false   
+D. you cannot have intentionally brought it about that you are as you are now in certain crucial respects
 
 4. Leeway incompatibilism says that
 
-#+BEGIN_QUOTE
-   A. determinism is false  B. determinism is true  C. if determinism is
-  true then one could not do otherwise than one does  D. if determinism
-  is true then one cannot be the proper source of one's actions
-#+END_QUOTE
+A. determinism is false  
+B. determinism is true  
+C. if determinism is true then one could not do otherwise than one does  
+D. if determinism is true then one cannot be the proper source of one's actions
 
 Answers: C, B, D, C
-
 
 * Clicker Questions
 ** Logic & Argument
@@ -3982,13 +4255,11 @@ because:
 
 The source requirement says that
 
-#+BEGIN_QUOTE
-  A. we have free will\\
-  B. moral responsibility depends on being able to do otherwise\\
-  C. control is irrelevant to moral responsibility\\
-  D. responsibility for a choice requires that one be the appropriate
-  source of the choice
-#+END_QUOTE
+A. we have free will\\
+B. moral responsibility depends on being able to do otherwise\\
+C. control is irrelevant to moral responsibility\\
+D. responsibility for a choice requires that one be the appropriate source of
+the choice
 
 *** Agency & Control
 
@@ -4002,13 +4273,11 @@ The source requirement says that
 
 Determinism says that:
 
-#+BEGIN_QUOTE
-  A. we cannot make any choices\\
-  B. our choices are not causally effective\\
-  C. our current states are necessitated by our past states in
-  conjunction with physical laws\\
-  D. we are free
-#+END_QUOTE
+A. we cannot make any choices\\
+B. our choices are not causally effective\\
+C. our current states are necessitated by our past states in
+conjunction with physical laws\\
+D. we are free
 
 *** Determinism
 
@@ -4020,21 +4289,59 @@ Determinism says that:
 
 If determinism is false then we have free will
 
-#+BEGIN_QUOTE
-  A. True\\
-  B. False
-#+END_QUOTE
+A. True\\
+B. False
 
 *** Question 4
 
 You cannot be truly responsible for the way you are because
 
-#+BEGIN_QUOTE
-  A. you cannot do otherwise than you do\\
-  B. determinism is true\\
-  C. determinism is false\\
-  D. in certain crucial respects you cannot have intentionally brought
-  it about that you are as you are now
-#+END_QUOTE
+A. you cannot do otherwise than you do\\
+B. determinism is true\\
+C. determinism is false\\
+D. in certain crucial respects you cannot have intentionally brought
+it about that you are as you are now
 
+*** Strawson's Argument
+1. You do what you do because of the way you are.
+2. To be morally responsible for what you do you must be truly morally
+   responsible for the way you are -- at least in certain crucial mental
+   respects.
+3. To be truly responsible for the way you are, you must have
+   intentionally brought it about that you are the way you are
+4. It is impossible to have intentionally brought about how one is
+5. \therefore You cannot be truly morally responsible for what you do,
+   because you cannot be truly responsible for the way you are
 
+*** Question 5
+
+Why does Strawson think that it is absurd to believe that you could have
+intentionally brought it about that you are the way you are now?
+
+A. Determinism is true\\
+B. We cannot do otherwise than we do\\
+C. No one is truly morally responsible\\
+D. We would need to appeal to an infinite number of different characters or
+natures to explain any intentional action
+
+#+REVEAL: split
+1. Suppose that you have somehow intentionally brought it about that you
+   are the way you now are, and that you have brought this about in such
+   a way that you can now be said to be truly responsible for being the
+   way you now are
+2. Your intentional act, for which you are responsible, is due to some
+   nature N
+3. If you are truly responsible for this act you must be truly
+   responsible for having the nature N in virtue of which you
+   intentionally brought it about that you are the way you now are
+4. \therefore You must have intentionally brought about N, which
+   requires that you have some further nature N1, in virtue of which you
+   brought about your nature N... (absurd infinite regress ensues)
+5. \therefore It is impossible for you to have intentionally brought
+   it about that you are as you are now
+
+#+REVEAL: split
+Are we truly morally responsible for our actions?
+
+A. Yes\\
+B. No
