@@ -3582,80 +3582,54 @@ The readiness potential graph
 -  The temporal order of an spontaneous voluntary choice and the neural
    activity (readiness potential) leading to the action is the reverse
    of what was expected
-
+   #+ATTR_REVEAL: :frag (appear)
    -  Expected: choice, readiness potential, action
    -  Actual result: readiness potential, choice, action
 
 *** The Efficacy of Conscious Willing
-   :PROPERTIES:
-   :CUSTOM_ID: the-efficacy-of-conscious-willing
-   :END:
 
+#+ATTR_REVEAL: :frag (appear)
 -  On one interpretation of the experiment, conscious willing is not
    casually efficacious in the generation of behavior
 -  According to Libet, the role of conscious willing is to /control/ not
    /initiate/ action
-
-*** The Efficacy of Conscious Willing
-   :PROPERTIES:
-   :CUSTOM_ID: the-efficacy-of-conscious-willing-1
-   :END:
-
 -  Conscious willing may not play a causal role in the initiation of
    action
 -  Conscious willing may play a role in the ‘veto' of an intention to
    act
-
+   #+ATTR_REVEAL: :frag (appear)
    -  We have 'free won't' instead of free will
 
 ** What Libet's Experiment Does Not Show
-   :PROPERTIES:
-   :CUSTOM_ID: what-libets-experiment-does-not-show
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  All actions are determined
-
+   #+ATTR_REVEAL: :frag (appear)                                                   
    -  Libet's experiments examine whether conscious willings are
       causally efficacious, not whether willings in general are
       free/determined
 
-** What Libet's Experiment Does Not Show
-   :PROPERTIES:
-   :CUSTOM_ID: what-libets-experiment-does-not-show-1
-   :END:
-
+#+REVEAL: split
 -  There are no such things as intentions or willings
-
+   #+ATTR_REVEAL: :frag (appear)
    -  The experiments only concern conscious willings or consciousness
       of will, not intentions or willings generally
 
-** What Libet's Experiment Does Not Show
-   :PROPERTIES:
-   :CUSTOM_ID: what-libets-experiment-does-not-show-2
-   :END:
-
+#+REVEAL: split
 -  Conscious states (or conscious willings) in general are epiphenomenal
-
+   #+ATTR_REVEAL: :frag (appear)
    -  Appeal to conscious intentions seems necessary to explain why the
       subjects of the experiments were there in the first place and
       followed Libet's directions
 
-** What Libet's Experiment Does Not Show
-   :PROPERTIES:
-   :CUSTOM_ID: what-libets-experiment-does-not-show-3
-   :END:
-
+#+REVEAL: split
 -  There are no casually efficacious ‘proximal' willings or intentions
-
+   #+ATTR_REVEAL: :frag (appear)
    -  There are in action generally (e.g. willings may have ‘veto'
       power)
    -  Conscious willing may well play a role in the initiation of other
       kinds of actions
 
 ** What Libet's Experiment Does Show
-   :PROPERTIES:
-   :CUSTOM_ID: what-libets-experiment-does-show
-   :END:
 
 #+BEGIN_QUOTE
   What do Libet's results show? He showed that, in /some/ cases, a
@@ -3665,18 +3639,11 @@ The readiness potential graph
 #+END_QUOTE
 
 ** Conscious Willing & Legal Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-legal-responsibility
-   :END:
 
 -  Our legal practices (e.g. the Model Penal Code) presuppose the causal
    efficacy of conscious willing for attribution of legal responsibility
 
-** Conscious Willing & Legal Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-legal-responsibility-1
-   :END:
-
+#+REVEAL: split
 #+BEGIN_QUOTE
   /The Model Penal Code (MPC) Section 2.01:/ (1) A person is not guilty
   of an offense unless his liability is based on conduct that includes a
@@ -3689,81 +3656,56 @@ The readiness potential graph
   actor, either conscious or habitual.
 #+END_QUOTE
 
-** Conscious Willing & Legal Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-legal-responsibility-2
-   :END:
-
+#+REVEAL: split
 -  Libet's results suggest that quick, unplanned actions may be the
    result of automatic processes over which the subject has little to no
    control or ‘veto' power
+#+ATTR_REVEAL: :frag (appear)
 -  Legal attribution of responsibility may need to take into account
    Libet's results
 
 ** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility
-   :END:
 
 -  Is the causal efficacy of conscious willing necessary for /moral/
    responsibility?
-
+   #+ATTR_REVEAL: :frag (appear)
    -  legal evidence suggests that it is
    -  examination of cases also provides support
 
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-1
-   :END:
-
+#+REVEAL: split
 #+BEGIN_QUOTE
   Consider someone who is asleep but grabs a knife, walks into an
   adjoining bedroom, stabs her daughter, walks back to her own bedroom,
   and is completely surprised in the morning to find her daughter
   dead...many people would view it as morally unfair to hold real
   sleepwalkers responsible. Why? The answer seems to be that they are
-  seen as lacking consciousness and, hence, control. (Sinnott-Armstrong,
-  237)
+  seen as lacking consciousness and, hence, control. (Sinnott-Armstrong, 237)
 #+END_QUOTE
 
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-2
-   :END:
-
+#+REVEAL: split
 Is the sleepwalker (morally) responsible for killing her daughter?
 
 #+BEGIN_QUOTE
   A. Yes\\
   B. No\\
-  C. Don't know\\
+  C. Not sure\\
 #+END_QUOTE
 
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-3
-   :END:
+** Conscious Willing & Control
 
+#+ATTR_REVEAL: :frag (appear)
 -  Presumption that consciousness is necessary for control, and that
    control is necessary for moral responsibility
-
+   #+ATTR_REVEAL: :frag (appear)
    -  presumes something like the Source Requirement
-
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-4
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  General consciousness is not enough
-
+   #+ATTR_REVEAL: :frag (appear)
    -  disorders such as Tourette's Syndrome and ‘Alien Hand' Syndrome
       are examples in which consciousness is present but not causally
       efficacious, so there is no attribution of responsibility
 
 ** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-5
-   :END:
 
 #+BEGIN_QUOTE
   Imagine that someone plans to kill a rival by running him over at 9:00
@@ -3776,45 +3718,30 @@ Is the sleepwalker (morally) responsible for killing her daughter?
   at the intended place and time. (Sinnott-Armstrong, 237)
 #+END_QUOTE
 
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-6
-   :END:
-
+#+REVEAL: split
 Is the driver morally responsible for his rival's death?
 
 #+BEGIN_QUOTE
   A. Yes\\
   B. No\\
-  C. Don't know\\
+  C. Not sure\\
 #+END_QUOTE
 
-** Conscious Willing & Moral Responsibility
-   :PROPERTIES:
-   :CUSTOM_ID: conscious-willing-moral-responsibility-7
-   :END:
-
+#+REVEAL: split
 -  Is the driver morally responsible for his rival's death?
-
+   #+ATTR_REVEAL: :frag (appear)
    -  No: the relevant intention was the driver's desire for breakfast,
       which accidentally resulted in the death of his rival
-
+#+ATTR_REVEAL: :frag (appear)
 -  For an intention to morally culpable it must be causally relevant
 
-** The Significance of Libet's Results for Morality
-   :PROPERTIES:
-   :CUSTOM_ID: the-significance-of-libets-results-for-morality
-   :END:
+** The Significance of Libet's Results 
 
 -  Libet's experiments show that /some/ acts of /proximal willing/ are
    not obviously casually efficacious in the production of /certain
    kinds/ of behavior
 
-** The Significance of Libet's Results
-   :PROPERTIES:
-   :CUSTOM_ID: the-significance-of-libets-results
-   :END:
-
+#+REVEAL: split
 #+BEGIN_QUOTE
   Various moves are available if an act does not seem to result from
   conscious will: Either (a) we cannot hold the person responsible at
