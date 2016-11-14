@@ -3459,9 +3459,6 @@ then it *isn't* because:
 12. \therefore \neg IA
 
 * The Libet Experiments
-  :PROPERTIES:
-  :CUSTOM_ID: the-libet-experiments
-  :END:
   
 #+BEGIN_NOTES
 - Died in 2007
@@ -3565,9 +3562,6 @@ The readiness potential graph
    -  No free will, but free "won't"
 
 * Sinnott-Armstrong on Libet
-  :PROPERTIES:
-  :CUSTOM_ID: sinnott-armstrong-on-libet
-  :END:
 
 ** Review of Libet
   :PROPERTIES:
@@ -3753,6 +3747,164 @@ Is the driver morally responsible for his rival's death?
   (Sinnott-Armstrong, 245)
 #+END_QUOTE
 
+* The Ethical and the Metaethical
+
+** Levels of Ethics
+
+#+BEGIN_NOTES
+- Point out that there is no moral/ethical distinction as I use the terms
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear)
+1. First-Order (Ethics)
+2. Second Order (Metaethics)
+
+\\ 
+
+#+ATTR_REVEAL: :frag (appear)
+-  *Ethics* is about what we ought to do
+-  *Metaethics* is about what we're thinking and doing when we think and
+   talk about what we ought to do
+
+** Ethics
+#+ATTR_REVEAL: :frag (appear)
+- Claims/questions concerning what is good/bad, right/wrong:
+  #+ATTR_REVEAL: :frag (appear)
+  - "Should I give money to the poor?"
+  - "Murder is wrong"
+- What is morally required/permissable?
+ #+ATTR_REVEAL: :frag (appear)
+  - One ought to help those in need
+  - It is permissible to eat meat
+
+
+** Metaethics
+#+ATTR_REVEAL: :frag (appear)
+-  Metaethical claims are not about what is right/wrong, good/bad, or of
+   value
+-  Metaethics asks questions about and makes claims concerning ethical
+   values, judgments, and behavior
+
+** Example Metaethical Topics
+#+ATTR_REVEAL: :frag (appear)
+- Metaphysics: what is the nature of a moral fact or property?
+- Epistemology: how does one achieve ethical knowledge?
+- Language: what is the function of moral discourse?
+- Moral Psychology: what kinds of psychological states are characteristic of moral thought and behaviour?
+  
+#+BEGIN_NOTES
+- metaphysics:
+    - what are moral props? Are they compatible with physicalism? Are they objective?
+- language:
+    - descriptive/fact-stating? or prescriptive/action-promoting?
+- epistemology:
+    - how can we know moral facts? how are moral claims justified?
+- psychology:
+    - motivation and moral judgment? are emotions related to moral judgment?
+#+END_NOTES
+
+** Subjectivity and Objectivity in Ethics
+#+ATTR_REVEAL: :frag (appear)
+-  Objective values: :: values that give reasons (or otherwise prescibe
+   how we ought to act) regardless of what we (as individuals or as a
+   culture) say, do, desire, or think
+-  Subjective values: :: values whose reason-giving or prescriptive
+   status depends in some way on what we (as individuals or as a
+   culture) say, do, desire, or think
+
+** Ethical & Metaethical Skepticism
+#+ATTR_REVEAL: :frag (appear)
+-  First-Order (ethical): skepticism concerning prevailing moral views
+   #+ATTR_REVEAL: :frag (appear)
+   -  typically is itself a moral view
+   -  involves a kind of condemnation of prevailing morality
+#+ATTR_REVEAL: :frag (appear)
+-  Second-Order (metaethical): skepticism concerning particular features
+   of morality
+   #+ATTR_REVEAL: :frag (appear)
+   -  is there moral knowledge?
+   -  do moral values/properties/facts exist?
+   -  are any moral judgments true?
+
+** Two Kinds of Metaethical Skepticism
+#+ATTR_REVEAL: :frag (appear)
+-  Noncognitivism
+-  Error Theory
+
+** Noncognitivism
+
+#+BEGIN_QUOTE
+  if I say to someone, ‘You acted wrongly in stealing that money,' I am
+  not stating anything more than if I had simply said, ‘You stole that
+  money.' In adding that this action is wrong I am not making any
+  further statement about it. I am simply evincing my moral disapproval
+  of it. It is as if I had said, ‘You stole that money,' in a peculiar
+  tone of horror, or written it with the addition of some special
+  exclamation marks. The tone, or the exclamation marks, adds nothing to
+  the literal meaning of the sentence. It merely serves to show that the
+  expression of it is attended by certain feelings in the speaker.
+  (Ayers 1936, 107)
+#+END_QUOTE
+
+#+REVEAL: split
+-  moral language is not descriptive/fact-stating --- it is not /about/
+   anything independent of the subject 
+   #+ATTR_REVEAL: :frag (appear)
+   -  moral claims are equivalent in meaning to reports of the judger's
+      own feelings or attitudes
+      #+ATTR_REVEAL: :frag (appear)
+      -  "Murder is wrong" \rightarrow "I don't like murder" or "Boo!
+         Murder!"
+   -  moral claims are equivalent in meaning to prescriptions or
+      commands
+      -  "Murder is wrong" \rightarrow "Don't murder!"
+        
+#+REVEAL: split
+- Semantic claim: :: Moral discuourse is concerned with expressing or
+     describing states of the subject
+     
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- Non-cogntivism isn't a form of moral skepticism, but it could be used to
+  support moral skepticism
+  
+#+BEGIN_NOTES
+- if NC is correct then we have less reason to believe there are objective
+  moral facts. 
+#+END_NOTES
+
+** The Error Theory
+#+ATTR_REVEAL: :frag (appear)
+- Semantic claim: :: Moral discourse makes descriptive claims of the objective
+     world, but is systematically and uniformly /false/
+- Metaphysical claim: :: There are no objective moral facts or
+  properties
+     
+#+BEGIN_NOTES
+- We'll look at two questions to help illustrate the difference between the
+  two views
+#+END_NOTES
+
+#+REVEAL: split
+Is the sentence 'it is morally wrong to cause unnecessary pain' true or
+false?
+
+#+BEGIN_QUOTE
+  A. True\\
+  B. False\\
+  C. Neither True or False
+#+END_QUOTE
+
+#+REVEAL: split
+Is there an objective fact of the matter whether it is morally wrong to
+cause unnecessary pain?
+
+#+BEGIN_QUOTE
+  A. Yes\\
+  B. No\\
+  C. Not sure
+#+END_QUOTE
 
 * Quizzes
 ** Week 1 - Argument
@@ -3991,6 +4143,43 @@ C. if determinism is true then one could not do otherwise than one does  
 D. if determinism is true then one cannot be the proper source of one's actions
 
 Answers: C, B, D, C
+** Week 12 - Libet
+1. If indeterminism is true then we need no further argument to know
+   that we have free will
+
+#+BEGIN_QUOTE
+  A. True  
+  B. False
+#+END_QUOTE
+
+2.  General consciousness is sufficient for moral & legal responsibility
+
+#+BEGIN_QUOTE
+  A. True  
+  B. False
+#+END_QUOTE
+
+3. Libet's experimental results were surprising because they showed
+that:
+
+#+BEGIN_QUOTE
+  A. determinism is true 
+  B. determinism is false   
+  C. conscious willing may not initiate action  
+  D. there are no efficacious conscious willings
+#+END_QUOTE
+
+4. Libet's experiment determined that the order of brain activity
+(readiness potential) and action was
+
+#+BEGIN_QUOTE
+  A. Willing, RP, Action      
+  B. Action, RP, Willing 
+  C. RP, Willing, Action 
+  D. Willing, Action, RP
+#+END_QUOTE
+
+B, B, C, C
 
 * Clicker Questions
 ** Logic & Argument
