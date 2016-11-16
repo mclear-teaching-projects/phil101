@@ -3906,6 +3906,188 @@ cause unnecessary pain?
   C. Not sure
 #+END_QUOTE
 
+* Mackie's Error Theory
+** Two Kinds of Skepticism
+
+- Noncognitivism: :: Moral discourse is concerned with expressing or
+     describing states of the subject (semantic claim)
+     
+- Error Theory: :: (i) Moral discourse makes descriptive claims of the objective
+  world, but is systematically and uniformly /false/ (semantic claim); (ii)
+  There are no objective moral facts or properties (metaphysical claim)
+  
+#+BEGIN_NOTES
+- Note that these are both *metaethical* positions
+#+END_NOTES
+   
+** Objectivity & Ethics
+If it turned out that there were no objective moral values, would that
+matter for our moral practices?
+
+#+BEGIN_QUOTE
+  A. Yes\\
+  B. No\\
+  C. Not sure
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- The class is roughly split concerning whether moral claims are objective 
+- Does it matter?
+#+END_NOTES
+
+** The Claim to Objectivity
+#+BEGIN_NOTES
+- Why is the claim important?
+- Reason to reject Noncogntivism
+#+END_NOTES
+*** Two Signs of Objectivity
+#+ATTR_REVEAL: :frag (appear)
+- The authority of objective ethical values
+- The significance of objective ethical values
+  
+#+BEGIN_NOTES
+- Mackie thinks that authority & significance demonstrate claim to objectivity
+  of ethical judgment
+- Noncognitivism must deny both (so Mackie says)
+#+END_NOTES
+
+***  The authority of ethics
+#+ATTR_REVEAL: :frag (appear)  
+- Ethical judgments purport to be authoritative because of features
+  of the world, not because of features of the judging
+  subject---moral judgments are 'categorical'
+- Noncognitivism cannot explain the categorical authority of ethics
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  Someone in a state of moral perplexity, wondering whether it would be wrong
+  for him [to engage in research related to germ warfare], wants to arrive at
+  some judgment about this concrete case...The question is not, for example,
+  whether he really wants to do this work, whether it will satisfy or
+  dissatisfy him, whether he will in the long run have a pro-attitude towards
+  it, or even whether this is an action of a sort that he can happily and
+  sincerely recommend in all relevantly similar cases. Nor is he even
+  wondering just whether to recommend such action in all relevantly similar
+  cases. He wants to know whether this course of action would be wrong in
+  itself. (Mackie, 72)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- The key point here is that of being "wrong in itself"
+- Mackie emphasizes that objective values have their value intrinsically
+#+END_NOTES
+
+*** The significance of ethics
+#+ATTR_REVEAL: :frag (appear)
+- The possibility that there are no objective values seems to
+  threaten the meaning or purpose of life in a way that it shouldn't
+  if ethical claims didn't purport to be objective
+  
+#+BEGIN_NOTES
+- If moral claims weren't descriptive of objective mores, then why would the
+  suspicion that value is subjective bother us so?
+#+END_NOTES
+
+** Cognitivist Skepticism --- The Error Theory
+
+*** Two Arguments for the Error Theory
+#+ATTR_REVEAL: :frag (appear)
+1. The Argument from Relativity/Disagreement
+2. The Argument from 'Queerness'
+
+#+BEGIN_NOTES
+- Note that I'll be titling the first argument disagreement rather than
+  relativity
+#+END_NOTES   
+
+*** The Argument from Disagreement
+#+ATTR_REVEAL: :frag (appear)
+1. The is an enormous amount of variation in moral views, which leads to
+   disagreement concerning what to do/value
+2. Moral disagreement is intractable in a way that other kinds of
+   disagreement are not
+3. \therefore The best explanation of the intractability of moral
+   disagreement is that there is no objective fact of the matter
+   concerning what to do/value
+
+#+BEGIN_NOTES
+- Arg is IBE not deductive argument
+-  Mackie's Position: Disagreement about moral codes seems to reflect
+   people's adherence to and participation in different ways of life not
+   the other way around
+   -  Monogamy vs. Polygamy
+      -  does one culture have better access to moral facts regarding
+         marriage or do their views on marital facts simply reflect the
+         particular development of that institution in their culture?
+#+END_NOTES
+
+*** Objections --- Less Disagreement?
+#+ATTR_REVEAL: :frag (appear)
+-  Deny premise (1) --- the extent of moral disagreement is exaggerated
+   #+ATTR_REVEAL: :frag (appear)
+   -  Differences in customs do not mean differences about values
+      #+ATTR_REVEAL: :frag (appear)
+      -  Hinduism & veneration of cows vs. Catholicism and veneration of
+         the Virgin Mary
+      -  Both religions are venerating similar values (e.g. the
+         caretaker/maternal figure) but in very different forms leading
+         to superficial behavioral differences (e.g. vegetarianism)
+         
+#+BEGIN_NOTES
+- (1) The is an enormous amount of variation in moral views, which leads to
+  disagreement concerning what to do/value
+#+END_NOTES
+
+*** Objections  --- Intractability
+#+BEGIN_NOTES
+- (2) Moral disagreement is intractable in a way that other kinds of
+   disagreement are not
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear)
+-  Deny premise (2) --- moral disagreement is no more/less intractable
+   than other forms of disagreement
+   #+ATTR_REVEAL: :frag (appear)
+   -  The intractability premise assumes that realism \rightarrow the
+      resolvability of disputes
+   -  But the possibility of unresolvable disputes occurs in supposedly
+      'realist' domains as well
+      #+ATTR_REVEAL: :frag (appear)
+      -  Fundamental disputes in physics may not be resolvable, even in
+         principle (e.g. which string theory is correct)
+
+#+REVEAL: split
+-  One or more of the interlocutors may be systematically and
+   irredeemably mistaken
+   #+ATTR_REVEAL: :frag (appear)
+   -  It is possible to have coherent but nevertheless totally mistaken
+      beliefs
+
+#+ATTR_REVEAL: :frag (appear)
+-  Some moral disputes may have no uniquely correct answers
+   #+ATTR_REVEAL: :frag (appear)
+   -  Moral ties
+   -  Incommensurable values
+   -  It ought to be possible in principle to show interlocutors who are
+      not systematically mistaken that their dispute has no unique
+      resolution
+
+*** Summary: Against Mackie on Disagreement
+#+ATTR_REVEAL: :frag (appear)
+-  Reject premise (1)
+   #+ATTR_REVEAL: :frag (appear)
+   -  The extent of moral disagreement is exaggerated
+-  Reject premise (2)
+   -  Moral disagreement is no more/less intractable than other forms of
+      disagreement
+   -  One or more of the interlocutors may be systematically and
+      irredeemably mistaken
+   -  Some moral disputes may have no uniquely correct answers
+     
+
+
+
+
 * Quizzes
 ** Week 1 - Argument
 1. An argument consists of two parts -- the evidence, and what follows
