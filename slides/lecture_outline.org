@@ -4087,6 +4087,471 @@ matter for our moral practices?
 
 
 
+* Mackie's Error Theory (II)
+** The Argument from Disagreement
+#+ATTR_REVEAL: :frag (appear)
+1. The is an enormous amount of variation in moral views, which leads to
+   disagreement concerning what to do/value
+2. Moral disagreement is intractable in a way that other kinds of
+   disagreement are not
+3. \therefore The best explanation of the intractability of moral
+   disagreement is that there is no objective fact of the matter
+   concerning what to do/value
+
+#+BEGIN_NOTES
+- Arg is IBE not deductive argument
+- Disputing IBE means disputing that putative facts are indeed facts
+- Or offering competing explanations
+#+END_NOTES
+
+** Summary: Against Mackie on Disagreement
+#+ATTR_REVEAL: :frag (appear)
+-  Reject premise (1)
+   -  The extent of moral disagreement is exaggerated
+-  Reject premise (2)
+   -  Moral disagreement is no more/less intractable than other forms of
+     disagreement
+- Reject conclusion (offer an alternative explanation)     
+   #+ATTR_REVEAL: :frag (appear)
+   -  One or more of the interlocutors may be systematically and
+      irredeemably mistaken
+   -  Some moral disputes may have no uniquely correct answers
+     
+** The 'Queerness' Argument
+#+ATTR_REVEAL: :frag (appear)
+1. If there were objective values/ethical facts they would have to be
+   intrinsically prescriptive or action-guiding
+2. Intrinsically action-guiding entities are strange---they are unlike
+   any other entities that we think exist
+3. It is possible to explain ethical behavior without appeal to the
+   existence of such strange entities as objective values/ethical facts
+4. \therefore There are no objectively and intrinsically action-guiding values/ethical
+   facts
+
+** An Example --- Platonic Forms
+
+#+BEGIN_QUOTE
+  In Plato's theory the Forms, and in particular the Form of the Good,
+  are eternal, extra-mental, realities. They are a very central
+  structural element in the fabric of the world. But it is held also
+  that just knowing them or 'seeing' them will not merely tell men what
+  to do but will ensure that they do it, overruling any contrary
+  inclinations (64)
+#+END_QUOTE
+
+** An Example --- Platonic Forms
+-  Objective values as both
+   #+ATTR_REVEAL: :frag (appear)
+   -  /knowable/
+   -  /intrinsically motivating/
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  An objective good would be sought by anyone who was acquainted with
+  it, not because of any contingent fact that this person, or every
+  person, is so constituted that he desires this end, but just because
+  the end has to-be-pursuedness somehow built into it (77)
+#+END_QUOTE
+
+** Mackie's "Internalist" Assumption
+
+-  Internalism: :: objective values must be intrinsically motivating ---
+   knowledge of a moral requirement entails being motivated to follow
+   that requirement
+   
+** Rejecting Internalism
+- Why might we reject Internalism?
+  #+ATTR_REVEAL: :frag (appear) 
+  - Amoralism is a coherent possibility
+    #+ATTR_REVEAL: :frag (appear)
+    - perfect understanding of moral requirements
+    - total lack of motivation to act morally
+    
+** The Alternative to Internalism
+-  Externalism: :: The motivational force of value is a contingent
+   psychological fact, depending on the psychological structure of an
+   agent
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+-  Normal human agents share common psychological features
+   #+ATTR_REVEAL: :frag (appear)
+   -  e.g. capable of sympathy and empathy
+-  Widespread possession of a particular set of psychological features
+   explains uniformity in the motivational structure of different agents
+
+** Replying to the Queerness Argument
+#+ATTR_REVEAL: :frag (appear)
+-  Reject premise (1) of the argument
+   #+ATTR_REVEAL: :frag (appear)
+   -  Opt for an "Externalist" theory of motivation
+
+** Summary
+#+ATTR_REVEAL: :frag (appear)
+-  Should we accept Mackie's error theory?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Neither the argument from disagreement nor the argument from
+      'queerness' shows that moral values/facts do not exist
+   -  Absent further argument we might be justified in accepting moral
+      realism/objectivism as the 'default' position
+
+
+* Camus on the Absurd
+** Existence as a Philosophical Problem
+
+#+BEGIN_QUOTE
+  There is but one truly serious philosophical problem, and that is
+  suicide.
+#+END_QUOTE
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+-  Why is the issue of suicide a /philosophical/ problem?
+   #+ATTR_REVEAL: :frag (appear)
+   -  Fundamental philosophical questions are practical --- they concern
+      what we should /do/
+-  "Is life worth living?" is the most fundamental practical question
+-  Camus's Question: If life is absurd, then is life worth living?
+
+** The Absurd
+#+ATTR_REVEAL: :frag (appear)
+-  Why is life absurd?
+   #+ATTR_REVEAL: :frag (appear)
+   -  human beings are driven to ask questions concerning existence for
+      which there are no answers
+      #+ATTR_REVEAL: :frag (appear)
+      -  Life is finite
+      -  The world is not fundamentally rational or intelligible
+      -  There are no objective values or purposes
+-  Can life be meaningful if there is no objective point or purpose to
+   it?
+
+** Camus's Position
+#+ATTR_REVEAL: :frag (appear)
+- Life is absurd --- we have expectations about the meaning/value of
+  existence that cannot be met
+- We have two options
+  #+ATTR_REVEAL: :frag (appear)
+  1. escape
+     #+ATTR_REVEAL: :frag (appear)
+     - false consciousness
+     - suicide
+  2. defiance
+
+** Defiance
+
+#+BEGIN_QUOTE
+  Sisyphus, proletarian of the gods, powerless and rebellious, knows the
+  whole extent of his wretched condition: it is what he thinks of during
+  his descent. The lucidity that was to constitute his torture at the
+  same time crowns his victory. There is no fate that cannot be
+  surmounted by scorn. (Camus, 8)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+-  Conscious affirmation of /both/ the absurdity and the value of one's
+   life
+   #+ATTR_REVEAL: :frag (appear)
+   -  Is this a psychologically realistic position?
+
+
+
+  
+* Nagel on the Absurd
+  :PROPERTIES:
+  :CUSTOM_ID: nagel-on-the-absurd
+  :END:
+
+** Situational Absurdity
+   :PROPERTIES:
+   :CUSTOM_ID: situational-absurdity
+   :END:
+
+#+BEGIN_QUOTE
+  In ordinary life a situation is absurd when it includes a conspicuous
+  discrepancy between pretension or aspiration and reality (Nagel 1971,
+  718)
+#+END_QUOTE
+
+** Nagel on the Absurd
+   :PROPERTIES:
+   :CUSTOM_ID: nagel-on-the-absurd-1
+   :END:
+
+*** The Absurdity of Life
+    :PROPERTIES:
+    :CUSTOM_ID: the-absurdity-of-life
+    :END:
+
+#+BEGIN_QUOTE
+  The sense that life as a whole is absurd arises when we perceive,
+  perhaps dimly, an inflated pretension or aspiration which is
+  inseparable from the continuation of human life and which makes its
+  absurdity inescapable, short of escape from life itself (718).
+#+END_QUOTE
+
+** Nagel on the Absurd
+   :PROPERTIES:
+   :CUSTOM_ID: nagel-on-the-absurd-2
+   :END:
+
+*** The Absurdity of Life
+    :PROPERTIES:
+    :CUSTOM_ID: the-absurdity-of-life-1
+    :END:
+
+-  Life is absurd when there is a /persistent/ and /inescapable/
+   mismatch between the aspirations of life and the conditions under
+   which it is lived
+
+** Bad Arguments for Absurdity of Life
+   :PROPERTIES:
+   :CUSTOM_ID: bad-arguments-for-absurdity-of-life
+   :END:
+
+1. Scale
+
+   -  Spatial or temporal scales trivialize our activities
+
+2. Death
+
+   -  Death interrupts any justification for our actions
+
+3. Purpose
+
+   -  There is no larger plan of which we are a part
+
+** The Scale Argument
+   :PROPERTIES:
+   :CUSTOM_ID: the-scale-argument
+   :END:
+
+-  Life is absurd because nothing we do now will matter in a million
+   years
+
+** Against the Scale Argument
+   :PROPERTIES:
+   :CUSTOM_ID: against-the-scale-argument
+   :END:
+
+-  If time scale is the issue then it is also true that what happens in
+   a million years doesn't matter to us now
+-  If timescale isn't the issue then it must be because nothing matters
+   /now/, but why think that is true?
+
+** The Death Argument
+   :PROPERTIES:
+   :CUSTOM_ID: the-death-argument
+   :END:
+
+-  Our lives are full of various activities: school, work, family; but
+   none of it matters because we will all die
+
+   -  The fact that our lives are finite entails that we have no
+      justification/reason for our actions
+
+** Against the Death Argument
+   :PROPERTIES:
+   :CUSTOM_ID: against-the-death-argument
+   :END:
+
+-  Not all reasons for action depend on their connection to a later
+   sequence of activities
+
+   -  reason to take medicine for a headache
+   -  reason to avoid pain in others
+
+-  The chain of justification must end somewhere, so why not /within/
+   one's life?
+
+** The Purpose Argument
+   :PROPERTIES:
+   :CUSTOM_ID: the-purpose-argument
+   :END:
+
+-  Meaning within one's life depends on one's life /as a whole/ having
+   purpose
+
+** The Purpose Argument
+   :PROPERTIES:
+   :CUSTOM_ID: the-purpose-argument-1
+   :END:
+
+#+BEGIN_QUOTE
+  The thought that you'll be dead in two hundred years is just a way of
+  seeing your life embedded in a larger context, so that the point of
+  smaller things inside it seems not to be enough-seems to leave a
+  larger question unanswered. But what if your life as a whole did have
+  a point in relation to something larger? Would that mean that it
+  wasn't meaningless after all? (Nagel 1987, 97)
+#+END_QUOTE
+
+** Against the Purpose Argument
+   :PROPERTIES:
+   :CUSTOM_ID: against-the-purpose-argument
+   :END:
+
+-  If one's life has a purpose because it helps bring about /X/ we can
+   still ask whether /X/ has a purpose
+-  The same reasoning that makes our lives problematic makes any purpose
+   into which our lives fit equally problematic
+
+** God and Purpose
+   :PROPERTIES:
+   :CUSTOM_ID: god-and-purpose
+   :END:
+
+-  If God has a purpose in creating the universe (including us) wouldn't
+   that be enough to make life meaningful?
+
+   -  we can still question the point of God's actions
+   -  we may not be able to understand the point of God's actions
+
+** Nagel's Argument for Absurdity
+   :PROPERTIES:
+   :CUSTOM_ID: nagels-argument-for-absurdity
+   :END:
+
+#+BEGIN_QUOTE
+  We cannot live human lives without energy and attention, nor without
+  making choices which show that we take some things more seriously than
+  others. Yet we have always available a point of view outside the
+  particular form of our lives, from which the seriousness appears
+  gratuitous. These two inescapable viewpoints collide in us, and that
+  is what makes life absurd. It is absurd because we ignore the doubts
+  that we know cannot be settled, continuing to live with nearly
+  undiminished seriousness in spite of them (719)
+#+END_QUOTE
+
+** Nagel's Argument for Absurdity
+   :PROPERTIES:
+   :CUSTOM_ID: nagels-argument-for-absurdity-1
+   :END:
+
+1. Subjectively, we must take our lives and the choices we make as
+   'serious' and non-arbitrary
+2. Objectively, we also recognize that our choices are ultimately
+   'non-serious' or arbitrary
+3. The subjective and the objective cannot be reconciled
+4. $\therefore$ Life is absurd
+
+** Absurdity as the Human Condition
+   :PROPERTIES:
+   :CUSTOM_ID: absurdity-as-the-human-condition
+   :END:
+
+#+BEGIN_QUOTE
+  I would argue that absurdity is one of the most human things about us:
+  a manifestation of our most advanced and interesting
+  characteristics...if a sense of the absurd is a way of perceiving our
+  true situation...then what reason can we have to resent or escape it?
+  ... If /sub specie aeternitatis/ there is no reason to believe that
+  anything matters, then that doesn't matter either, and we can approach
+  our absurd lives with irony instead of heroism or despair. (Nagel,
+  726-7)
+#+END_QUOTE
+
+** Absurdity as the Human Condition
+   :PROPERTIES:
+   :CUSTOM_ID: absurdity-as-the-human-condition-1
+   :END:
+
+-  Recognition of the absurdity of life is distinctly human
+
+   -  Absurdity requires the capacity for self-reflection (mice don't
+      have absurd lives)
+
+-  We should deal with absurdity through irony
+
+   -  Taking one's life less seriously will make it less absurd/more
+      livable
+   -  Is this position psychologically plausible?
+
+
+ 
+
+** Existence as a Philosophical Problem
+   :PROPERTIES:
+   :CUSTOM_ID: existence-as-a-philosophical-problem
+   :END:
+
+#+BEGIN_QUOTE
+  There is but one truly serious philosophical problem, and that is
+  suicide.
+#+END_QUOTE
+
+** Existence as a Philosophical Problem
+   :PROPERTIES:
+   :CUSTOM_ID: existence-as-a-philosophical-problem-1
+   :END:
+
+-  Why is the issue of suicide a /philosophical/ problem?
+
+   -  fundamental philosophical questions are practical --- they concern
+      what we should /do/
+
+-  "Is life worth living?" is the most fundamental practical question
+-  Camus's Question: If life is absurd, then is life worth living?
+
+** The Absurd
+   :PROPERTIES:
+   :CUSTOM_ID: the-absurd
+   :END:
+
+-  Why is life absurd?
+
+   -  human beings are driven to ask questions concerning existence for
+      which there are no answers
+
+      -  Life is finite
+      -  The world is not fundamentally rational or intelligible
+      -  There are no objective values or purposes
+
+-  Can life be meaningful if there is no objective point or purpose to
+   it?
+
+** Camus's Position
+   :PROPERTIES:
+   :CUSTOM_ID: camuss-position
+   :END:
+
+-  Life is absurd --- we have expectations about the meaning/value of
+   existence that cannot be met
+-  We have two options
+
+   1. escape
+
+   -  false consciousness
+   -  suicide
+
+   2. defiance
+
+** Camus's Position
+   :PROPERTIES:
+   :CUSTOM_ID: camuss-position-1
+   :END:
+
+#+BEGIN_QUOTE
+  Sisyphus, proletarian of the gods, powerless and rebellious, knows the
+  whole extent of his wretched condition: it is what he thinks of during
+  his descent. The lucidity that was to constitute his torture at the
+  same time crowns his victory. There is no fate that cannot be
+  surmounted by scorn. (Camus, 8)
+#+END_QUOTE
+
+** Camus's Position
+   :PROPERTIES:
+   :CUSTOM_ID: camuss-position-2
+   :END:
+
+-  Conscious affirmation of /both/ the absurdity and the value of one's
+   life
+
+   -  is this a psychologically realistic position?
+
+
 
 * Quizzes
 ** Week 1 - Argument
