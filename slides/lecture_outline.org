@@ -4101,10 +4101,15 @@ matter for our moral practices?
 #+BEGIN_NOTES
 - Arg is IBE not deductive argument
 - Disputing IBE means disputing that putative facts are indeed facts
-- Or offering competing explanations
+- Or disputing requires offering competing explanations
 #+END_NOTES
 
 ** Summary: Against Mackie on Disagreement
+#+BEGIN_NOTES
+- (1) disagreement is superficial not deep
+- (2) even fundamental physics has intractable disagreements
+- alternate conclusion: (i) irredeemably mistaken; (ii) plurality of correct answers
+#+END_NOTES
 #+ATTR_REVEAL: :frag (appear)
 -  Reject premise (1)
    -  The extent of moral disagreement is exaggerated
@@ -4158,6 +4163,10 @@ matter for our moral practices?
 -  Internalism: :: objective values must be intrinsically motivating ---
    knowledge of a moral requirement entails being motivated to follow
    that requirement
+   
+#+BEGIN_NOTES
+- Make clear that just by /knowing/ one is supposed to be motivated
+#+END_NOTES
    
 ** Rejecting Internalism
 - Why might we reject Internalism?
