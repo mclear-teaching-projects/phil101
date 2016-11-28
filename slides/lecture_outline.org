@@ -4086,7 +4086,6 @@ matter for our moral practices?
      
 
 
-
 * Mackie's Error Theory (II)
 ** The Argument from Disagreement
 #+ATTR_REVEAL: :frag (appear)
@@ -4205,7 +4204,6 @@ matter for our moral practices?
    -  Absent further argument we might be justified in accepting moral
       realism/objectivism as the 'default' position
 
-
 * Camus on the Absurd
 ** Existence as a Philosophical Problem
 
@@ -4228,7 +4226,7 @@ matter for our moral practices?
 #+ATTR_REVEAL: :frag (appear)
 -  Why is life absurd?
    #+ATTR_REVEAL: :frag (appear)
-   -  human beings are driven to ask questions concerning existence for
+   -  Human beings are driven to ask questions concerning existence for
       which there are no answers
       #+ATTR_REVEAL: :frag (appear)
       -  Life is finite
@@ -4239,15 +4237,13 @@ matter for our moral practices?
 
 ** Camus's Position
 #+ATTR_REVEAL: :frag (appear)
-- Life is absurd --- we have expectations about the meaning/value of
-  existence that cannot be met
 - We have two options
   #+ATTR_REVEAL: :frag (appear)
-  1. escape
+  1. Escape
      #+ATTR_REVEAL: :frag (appear)
-     - false consciousness
-     - suicide
-  2. defiance
+     - Suicide
+     - False consciousness ("philosophical suicide")
+  2. Defiance
 
 ** Defiance
 
@@ -4256,7 +4252,7 @@ matter for our moral practices?
   whole extent of his wretched condition: it is what he thinks of during
   his descent. The lucidity that was to constitute his torture at the
   same time crowns his victory. There is no fate that cannot be
-  surmounted by scorn. (Camus, 8)
+  surmounted by scorn. 
 #+END_QUOTE
 
 #+ATTR_REVEAL: :frag (appear)
@@ -4267,16 +4263,9 @@ matter for our moral practices?
 
 
 
-  
 * Nagel on the Absurd
-  :PROPERTIES:
-  :CUSTOM_ID: nagel-on-the-absurd
-  :END:
 
 ** Situational Absurdity
-   :PROPERTIES:
-   :CUSTOM_ID: situational-absurdity
-   :END:
 
 #+BEGIN_QUOTE
   In ordinary life a situation is absurd when it includes a conspicuous
@@ -4284,15 +4273,7 @@ matter for our moral practices?
   718)
 #+END_QUOTE
 
-** Nagel on the Absurd
-   :PROPERTIES:
-   :CUSTOM_ID: nagel-on-the-absurd-1
-   :END:
-
-*** The Absurdity of Life
-    :PROPERTIES:
-    :CUSTOM_ID: the-absurdity-of-life
-    :END:
+** The Absurdity of Life
 
 #+BEGIN_QUOTE
   The sense that life as a whole is absurd arises when we perceive,
@@ -4301,92 +4282,58 @@ matter for our moral practices?
   absurdity inescapable, short of escape from life itself (718).
 #+END_QUOTE
 
-** Nagel on the Absurd
-   :PROPERTIES:
-   :CUSTOM_ID: nagel-on-the-absurd-2
-   :END:
-
-*** The Absurdity of Life
-    :PROPERTIES:
-    :CUSTOM_ID: the-absurdity-of-life-1
-    :END:
+#+REVEAL: split
 
 -  Life is absurd when there is a /persistent/ and /inescapable/
    mismatch between the aspirations of life and the conditions under
    which it is lived
 
 ** Bad Arguments for Absurdity of Life
-   :PROPERTIES:
-   :CUSTOM_ID: bad-arguments-for-absurdity-of-life
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 1. Scale
-
+   #+ATTR_REVEAL: :frag (appear)
    -  Spatial or temporal scales trivialize our activities
-
 2. Death
-
    -  Death interrupts any justification for our actions
-
 3. Purpose
-
    -  There is no larger plan of which we are a part
 
 ** The Scale Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-scale-argument
-   :END:
 
 -  Life is absurd because nothing we do now will matter in a million
    years
 
 ** Against the Scale Argument
-   :PROPERTIES:
-   :CUSTOM_ID: against-the-scale-argument
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  If time scale is the issue then it is also true that what happens in
    a million years doesn't matter to us now
 -  If timescale isn't the issue then it must be because nothing matters
    /now/, but why think that is true?
 
 ** The Death Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-death-argument
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  Our lives are full of various activities: school, work, family; but
    none of it matters because we will all die
-
+   #+ATTR_REVEAL: :frag (appear)
    -  The fact that our lives are finite entails that we have no
       justification/reason for our actions
 
 ** Against the Death Argument
-   :PROPERTIES:
-   :CUSTOM_ID: against-the-death-argument
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  Not all reasons for action depend on their connection to a later
    sequence of activities
-
+   #+ATTR_REVEAL: :frag (appear)
    -  reason to take medicine for a headache
    -  reason to avoid pain in others
-
 -  The chain of justification must end somewhere, so why not /within/
    one's life?
 
 ** The Purpose Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-purpose-argument
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  Meaning within one's life depends on one's life /as a whole/ having
    purpose
 
-** The Purpose Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-purpose-argument-1
-   :END:
+\\
 
 #+BEGIN_QUOTE
   The thought that you'll be dead in two hundred years is just a way of
@@ -4398,30 +4345,21 @@ matter for our moral practices?
 #+END_QUOTE
 
 ** Against the Purpose Argument
-   :PROPERTIES:
-   :CUSTOM_ID: against-the-purpose-argument
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  If one's life has a purpose because it helps bring about /X/ we can
    still ask whether /X/ has a purpose
 -  The same reasoning that makes our lives problematic makes any purpose
    into which our lives fit equally problematic
 
 ** God and Purpose
-   :PROPERTIES:
-   :CUSTOM_ID: god-and-purpose
-   :END:
-
+#+ATTR_REVEAL: :frag (appear)
 -  If God has a purpose in creating the universe (including us) wouldn't
    that be enough to make life meaningful?
-
+   #+ATTR_REVEAL: :frag (appear)
    -  we can still question the point of God's actions
    -  we may not be able to understand the point of God's actions
 
 ** Nagel's Argument for Absurdity
-   :PROPERTIES:
-   :CUSTOM_ID: nagels-argument-for-absurdity
-   :END:
 
 #+BEGIN_QUOTE
   We cannot live human lives without energy and attention, nor without
@@ -4434,22 +4372,15 @@ matter for our moral practices?
   undiminished seriousness in spite of them (719)
 #+END_QUOTE
 
-** Nagel's Argument for Absurdity
-   :PROPERTIES:
-   :CUSTOM_ID: nagels-argument-for-absurdity-1
-   :END:
-
+#+REVEAL: split
 1. Subjectively, we must take our lives and the choices we make as
    'serious' and non-arbitrary
 2. Objectively, we also recognize that our choices are ultimately
    'non-serious' or arbitrary
-3. The subjective and the objective cannot be reconciled
-4. $\therefore$ Life is absurd
+3. The subjective and the objective cannot be reconciled & cannot be avoided
+4. \therefore Life is absurd
 
 ** Absurdity as the Human Condition
-   :PROPERTIES:
-   :CUSTOM_ID: absurdity-as-the-human-condition
-   :END:
 
 #+BEGIN_QUOTE
   I would argue that absurdity is one of the most human things about us:
@@ -4462,104 +4393,18 @@ matter for our moral practices?
   726-7)
 #+END_QUOTE
 
-** Absurdity as the Human Condition
-   :PROPERTIES:
-   :CUSTOM_ID: absurdity-as-the-human-condition-1
-   :END:
-
+#+REVEAL: split
 -  Recognition of the absurdity of life is distinctly human
-
+   #+ATTR_REVEAL: :frag (appear)
    -  Absurdity requires the capacity for self-reflection (mice don't
       have absurd lives)
-
+#+ATTR_REVEAL: :frag (appear)
 -  We should deal with absurdity through irony
-
+   #+ATTR_REVEAL: :frag (appear)
    -  Taking one's life less seriously will make it less absurd/more
       livable
    -  Is this position psychologically plausible?
-
-
- 
-
-** Existence as a Philosophical Problem
-   :PROPERTIES:
-   :CUSTOM_ID: existence-as-a-philosophical-problem
-   :END:
-
-#+BEGIN_QUOTE
-  There is but one truly serious philosophical problem, and that is
-  suicide.
-#+END_QUOTE
-
-** Existence as a Philosophical Problem
-   :PROPERTIES:
-   :CUSTOM_ID: existence-as-a-philosophical-problem-1
-   :END:
-
--  Why is the issue of suicide a /philosophical/ problem?
-
-   -  fundamental philosophical questions are practical --- they concern
-      what we should /do/
-
--  "Is life worth living?" is the most fundamental practical question
--  Camus's Question: If life is absurd, then is life worth living?
-
-** The Absurd
-   :PROPERTIES:
-   :CUSTOM_ID: the-absurd
-   :END:
-
--  Why is life absurd?
-
-   -  human beings are driven to ask questions concerning existence for
-      which there are no answers
-
-      -  Life is finite
-      -  The world is not fundamentally rational or intelligible
-      -  There are no objective values or purposes
-
--  Can life be meaningful if there is no objective point or purpose to
-   it?
-
-** Camus's Position
-   :PROPERTIES:
-   :CUSTOM_ID: camuss-position
-   :END:
-
--  Life is absurd --- we have expectations about the meaning/value of
-   existence that cannot be met
--  We have two options
-
-   1. escape
-
-   -  false consciousness
-   -  suicide
-
-   2. defiance
-
-** Camus's Position
-   :PROPERTIES:
-   :CUSTOM_ID: camuss-position-1
-   :END:
-
-#+BEGIN_QUOTE
-  Sisyphus, proletarian of the gods, powerless and rebellious, knows the
-  whole extent of his wretched condition: it is what he thinks of during
-  his descent. The lucidity that was to constitute his torture at the
-  same time crowns his victory. There is no fate that cannot be
-  surmounted by scorn. (Camus, 8)
-#+END_QUOTE
-
-** Camus's Position
-   :PROPERTIES:
-   :CUSTOM_ID: camuss-position-2
-   :END:
-
--  Conscious affirmation of /both/ the absurdity and the value of one's
-   life
-
-   -  is this a psychologically realistic position?
-
+   - Is irony a viable stance to take towards life?
 
 
 * Quizzes
@@ -5117,3 +4962,99 @@ Are we truly morally responsible for our actions?
 
 A. Yes\\
 B. No
+
+** Metaethics & Error Theory
+*** Question 1
+Noncognitivism is an ethical theory
+
+#+BEGIN_QUOTE
+A. True \\
+B. False \\
+#+END_QUOTE
+
+*** Metaethics & Noncognitivism
+#+ATTR_REVEAL: :frag (appear)
+-  *Ethics* is about what we ought to do
+-  *Metaethics* is about what we're thinking and doing when we think and
+   talk about what we ought to do
+  
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- Noncognitivism: :: Moral discourse is concerned with expressing or
+     describing states of the subject (semantic claim)
+     
+
+*** Question 2
+Noncognitivism differs from the error theory because it
+
+#+BEGIN_QUOTE
+A. Denies the existence of objective values \\ 
+B. Asserts the existence of objective values \\  
+C. Argues that all moral judgments are false \\ 
+D. Argues that moral judgments are not descriptive or fact-stating \\
+#+END_QUOTE
+
+*** Error Theory
+- Error Theory: :: (i) Moral discourse makes descriptive claims of the objective
+  world, but is systematically and uniformly /false/ (semantic claim); (ii)
+  There are no objective moral facts or properties (metaphysical claim)
+
+*** Question 3
+One objection to noncognitivism (NC) is that
+
+#+BEGIN_QUOTE
+A. NC fails to explain why moral judgements are true \\
+B. NC fails to explain the 'categorical' nature of moral judgments/demands \\
+C. NC ignores moral psychology \\
+D. NC ignores the importance of motivation for ethical judgment \\
+#+END_QUOTE
+
+***  The authority of ethics
+- Ethical judgments purport to be authoritative because of features
+  of the world, not because of features of the judging
+  subject---moral judgments are 'categorical'
+  
+*** Question 4
+The conclusion of Mackie's argument from disagreement says that 
+
+#+BEGIN_QUOTE
+A. There are no objective values   \\
+B. There is widespread disagreement about what to do/value \\ 
+C. There are objective values \\ 
+D. Moral disagreements are intractable \\
+#+END_QUOTE
+
+*** The Argument from Disagreement
+#+ATTR_REVEAL: :frag (appear)
+1. The is an enormous amount of variation in moral views, which leads to
+   disagreement concerning what to do/value
+2. Moral disagreement is intractable in a way that other kinds of
+   disagreement are not
+3. \therefore The best explanation of the intractability of moral
+   disagreement is that there is no objective fact of the matter
+   concerning what to do/value
+
+   
+*** Question 5
+Mackie's "argument from queerness" assumes that objective values would have to
+be what?
+
+#+BEGIN_QUOTE
+A. Just like other facts \\ 
+B. Unknowable \\ 
+C. Intrinsically action-guiding  \\
+D. Dependent on the character of the knower \\
+#+END_QUOTE
+
+*** Mackie's "Internalist" Assumption
+
+-  Internalism: :: objective values must be intrinsically motivating ---
+   knowledge of a moral requirement entails being motivated to follow
+   that requirement
+
+#+BEGIN_NOTES
+-  Externalism: :: The motivational force of value is a contingent
+psychological fact, depending on the psychological structure of an
+agent
+#+END_NOTES
