@@ -1,21 +1,6 @@
 #+TITLE: Philosophy 101
 #+AUTHOR: Colin McLear
 #+DATE: Fall 2016
-#+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%d</h3><h4>phil101.colinmclear.net</h4>"
-#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: toc:2 reveal_slide_number:c/t 
-#+REVEAL_TRANS: convex
-#+REVEAL_THEME: solarized
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="PHIL 101 Slides">
-#+REVEAL_POSTAMBLE: <p> Created by Colin McLear. </p>
-#+REVEAL_PLUGINS: (markdown notes highlight)
-#+REVEAL_EXTRA_CSS: /Users/Roambot/projects/phil101/content/slides/local.css
-#+EXCLUDE_TAGS: noexport
-
-# #+OPTIONS: toc:1 reveal_slide_number:c/t 
-# #+OPTIONS: reveal_single_file:t
 
 * Class Info
 ** Course Website: http://phil101.colinmclear.net
@@ -4084,8 +4069,6 @@ matter for our moral practices?
       irredeemably mistaken
    -  Some moral disputes may have no uniquely correct answers
      
-
-
 * Mackie's Error Theory (II)
 ** The Argument from Disagreement
 #+ATTR_REVEAL: :frag (appear)
@@ -4261,16 +4244,13 @@ matter for our moral practices?
    #+ATTR_REVEAL: :frag (appear)
    -  Is this a psychologically realistic position?
 
-
-
 * Nagel on the Absurd
 
 ** Situational Absurdity
 
 #+BEGIN_QUOTE
   In ordinary life a situation is absurd when it includes a conspicuous
-  discrepancy between pretension or aspiration and reality (Nagel 1971,
-  718)
+  discrepancy between pretension or aspiration and reality (Nagel 1971, 718)
 #+END_QUOTE
 
 ** The Absurdity of Life
@@ -4282,8 +4262,7 @@ matter for our moral practices?
   absurdity inescapable, short of escape from life itself (718).
 #+END_QUOTE
 
-#+REVEAL: split
-
+#+ATTR_REVEAL: :frag (appear)
 -  Life is absurd when there is a /persistent/ and /inescapable/
    mismatch between the aspirations of life and the conditions under
    which it is lived
@@ -4291,7 +4270,6 @@ matter for our moral practices?
 ** Bad Arguments for Absurdity of Life
 #+ATTR_REVEAL: :frag (appear)
 1. Scale
-   #+ATTR_REVEAL: :frag (appear)
    -  Spatial or temporal scales trivialize our activities
 2. Death
    -  Death interrupts any justification for our actions
@@ -4299,11 +4277,12 @@ matter for our moral practices?
    -  There is no larger plan of which we are a part
 
 ** The Scale Argument
+#+ATTR_REVEAL: :frag (appear)
+1. If life is to have meaning then its meaning/point must be lasting
+2. But nothing we do now will matter in a million years
+3. \therefore Life has no meaning/point
 
--  Life is absurd because nothing we do now will matter in a million
-   years
-
-** Against the Scale Argument
+*** Against the Scale Argument
 #+ATTR_REVEAL: :frag (appear)
 -  If time scale is the issue then it is also true that what happens in
    a million years doesn't matter to us now
@@ -4312,13 +4291,17 @@ matter for our moral practices?
 
 ** The Death Argument
 #+ATTR_REVEAL: :frag (appear)
--  Our lives are full of various activities: school, work, family; but
-   none of it matters because we will all die
-   #+ATTR_REVEAL: :frag (appear)
-   -  The fact that our lives are finite entails that we have no
-      justification/reason for our actions
+1. If life is to have meaning then its meaning/point must be lasting
+2. But all our activities and relationships cease when we die
+3. \therefore Life has no meaning/point
+   
+\\
 
-** Against the Death Argument
+#+ATTR_REVEAL: :frag (appear)
+- The fact that our lives are finite entails that we have no
+  justification/reason for our actions
+
+*** Against the Death Argument
 #+ATTR_REVEAL: :frag (appear)
 -  Not all reasons for action depend on their connection to a later
    sequence of activities
@@ -4329,12 +4312,21 @@ matter for our moral practices?
    one's life?
 
 ** The Purpose Argument
+
 #+ATTR_REVEAL: :frag (appear)
--  Meaning within one's life depends on one's life /as a whole/ having
-   purpose
+1. Meaning /within/ one's life depends on one's life /as a whole/ having purpose
+2. Life as a whole has no purpose
+3. \therefore There is no meaning/point to anything, even /within/ one's life
+   
+#+BEGIN_NOTES
+- Nagel has just given us reason to doubt (1); one can have reasons for \phi-ing
+  even if one's life as a whole lacks a point
+- But how might we approach (2)?
+#+END_NOTES
 
 \\
 
+#+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
   The thought that you'll be dead in two hundred years is just a way of
   seeing your life embedded in a larger context, so that the point of
@@ -4344,14 +4336,14 @@ matter for our moral practices?
   wasn't meaningless after all? (Nagel 1987, 97)
 #+END_QUOTE
 
-** Against the Purpose Argument
+*** Against the Purpose Argument
 #+ATTR_REVEAL: :frag (appear)
 -  If one's life has a purpose because it helps bring about /X/ we can
    still ask whether /X/ has a purpose
 -  The same reasoning that makes our lives problematic makes any purpose
    into which our lives fit equally problematic
 
-** God and Purpose
+*** God and Purpose
 #+ATTR_REVEAL: :frag (appear)
 -  If God has a purpose in creating the universe (including us) wouldn't
    that be enough to make life meaningful?
@@ -4373,12 +4365,15 @@ matter for our moral practices?
 #+END_QUOTE
 
 #+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
 1. Subjectively, we must take our lives and the choices we make as
    'serious' and non-arbitrary
 2. Objectively, we also recognize that our choices are ultimately
    'non-serious' or arbitrary
 3. The subjective and the objective cannot be reconciled & cannot be avoided
-4. \therefore Life is absurd
+4. \therefore There is a persistent and inescapable mismatch between the aspirations of
+   life and the conditions under which it is lived
+5. \therefore Life is absurd
 
 ** Absurdity as the Human Condition
 
@@ -5058,3 +5053,20 @@ D. Dependent on the character of the knower \\
 psychological fact, depending on the psychological structure of an
 agent
 #+END_NOTES
+* Configuration                                            :noexport:archive:
+
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%d</h3><h4>phil101.colinmclear.net</h4>"
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: toc:2 reveal_slide_number:c/t 
+#+REVEAL_TRANS: convex
+#+REVEAL_THEME: solarized
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="PHIL 101 Slides">
+#+REVEAL_POSTAMBLE: <p> Created by Colin McLear. </p>
+#+REVEAL_PLUGINS: (markdown notes highlight)
+#+REVEAL_EXTRA_CSS: /Users/Roambot/projects/phil101/content/slides/local.css
+#+EXCLUDE_TAGS: noexport
+
+# #+OPTIONS: toc:1 reveal_slide_number:c/t 
+# #+OPTIONS: reveal_single_file:t
