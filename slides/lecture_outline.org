@@ -4401,6 +4401,119 @@ matter for our moral practices?
    -  Is this position psychologically plausible?
    - Is irony a viable stance to take towards life?
 
+* Wolf on Meaning in Life
+
+** Meaning in Life vs. Meaning of Life
+
+- Meaningfulness as part of the conditions for living a good life
+
+#+BEGIN_NOTES
+- The notion of a "good" life is not the notion of a moral life, but rather of
+  a life worth living
+#+END_NOTES
+
+#+BEGIN_QUOTE
+Whether or not my idea of meaningfulness captures what others mean when they
+use the term, it is an idea of philosophical interest, for it is an idea of a
+significant way in which a life can be good, a category or dimension of value,
+if you will, which we have a serious reason to want for ourselves and for
+those we care about, and which is neither subsumable under nor reducible to
+either happiness or morality. (Wolf, 8)
+#+END_QUOTE
+
+- What is it that makes life, as such, meaningful? (Meaning of life)
+- What is it that makes one's life meaningful, or one life as compared to
+  another? (Meaning in life)
+  
+#+BEGIN_NOTES
+- Wolff is concerned with the second question
+#+END_NOTES
+
+** Subjective & Objective
+
+1. Do what you love (subjective)
+2. Be part of something larger than yourself (objective)
+   
+#+BEGIN_NOTES
+- These are two common claims made about sources of meaning. Are they
+  convincing on their own?
+#+END_NOTES
+
+
+
+** The Fulfillment View
+
+- Why should I do what I love?
+
+#+BEGIN_QUOTE
+The reason one should find one’s passion and go for it, then, is because doing
+so will give one’s life a particular type of good feeling. (Wolf, 13)
+#+END_QUOTE
+
+** Hedonism & Fulfillment
+
+** What's Wrong With Hedonism?
+
+- Sisyphus fulfilled
+- The experience machine
+
+** The Experience Machine
+
+#+BEGIN_QUOTE
+Suppose there were an experience machine that would give you any experience
+you desired. Superduper neuropsychologists could stimulate your brain so that
+you would think and feel you were writing a great novel, or making a friend,
+or reading an interesting book. All the time you would be floating in a tank,
+with electrodes attached to your brain. Should you plug into this machine for
+life, preprogramming your life's experiences? ... /What else can matter to us,
+other than how our lives feel from the inside/? (Nozick, /Anarchy, State, and
+Utopia/ 43)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Nozick picks out two issues
+  - We want to /do/ certain things, not just have the experience of doing them
+  - We want to /be/ a certain way, not just have the experience of so being
+- Nozick considers plugging into the machine to be "a kind of suicide"
+
+#+END_NOTES
+
+** The Need for Objective Value
+     
+- If what's wrong with Sisyphus & the participant in the experience machine is
+  something objective then what is it?
+
+** The Bipartite View
+
+#+BEGIN_QUOTE
+in order for a life to be meaningful both an objective and a subjective
+condition must be met: A meaningful life is a life that a.) the subject finds
+fulfilling, and b.) contributes to or connects positively with something the
+value of which has its source outside the subject. (Wolf, 20)
+#+END_QUOTE
+
+- What is the relation between (a) and (b) ? 
+  - Accidental?
+    - pot-smoker 
+  - Non-accidental but not "engaged"?
+    - conscripted soldier
+
+** The Source of Meaning in Life
+
+#+BEGIN_QUOTE
+the idea is that a person’s life can be meaningful only if she cares fairly
+deeply about some thing or things, only if she is gripped, excited,
+interested, engaged, or as I earlier put it, if she loves something—as opposed
+to being bored by or alienated from most or all that she does. Even a person
+who is so engaged, however, will not live a meaningful life if the objects or
+activities with which she is so occupied are worthless. (Wolf, 9)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+According to the conception of meaningfulness I wish to propose, meaning
+arises from loving objects worthy of love and engaging with them in a positive
+way (Wolf, 8)
+#+END_QUOTE
 
 * Quizzes
 ** Week 1 - Argument
@@ -4676,6 +4789,35 @@ that:
 #+END_QUOTE
 
 B, B, C, C
+** Week 15 - Mackie & the Absurd
+1. The conclusion of Mackie's argument from disagreement says that
+
+A. There are no objective values
+B. There is widespread disagreement about what to do/value
+C. There are objective values
+D. Moral disagreements are intractable
+
+2. Mackie's "argument from queerness" assumes that objective values would have
+   to be what?
+
+A. Just like other facts
+B. Unknowable
+C. Intrinsically action-guiding
+D. Dependent on the character of the knower
+
+3. Camus thinks that the best way to deal with the absurdity of life is
+
+A. despair
+B. defiance
+C. happiness
+D. irony
+
+4. Nagel thinks that we find life absurd because
+
+A. there are no objective values
+B. God does not exist
+C. we are capable of self-reflection and questioning why we do what we do
+D. life is ironic
 
 * Clicker Questions
 ** Logic & Argument
