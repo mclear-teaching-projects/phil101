@@ -4404,33 +4404,38 @@ matter for our moral practices?
 * Wolf on Meaning in Life
 
 ** Meaning in Life vs. Meaning of Life
-
-- Meaningfulness as part of the conditions for living a good life
-
-#+BEGIN_NOTES
-- The notion of a "good" life is not the notion of a moral life, but rather of
-  a life worth living
-#+END_NOTES
-
-#+BEGIN_QUOTE
-Whether or not my idea of meaningfulness captures what others mean when they
-use the term, it is an idea of philosophical interest, for it is an idea of a
-significant way in which a life can be good, a category or dimension of value,
-if you will, which we have a serious reason to want for ourselves and for
-those we care about, and which is neither subsumable under nor reducible to
-either happiness or morality. (Wolf, 8)
-#+END_QUOTE
-
+#+ATTR_REVEAL: :frag (appear)
 - What is it that makes life, as such, meaningful? (Meaning of life)
 - What is it that makes one's life meaningful, or one life as compared to
   another? (Meaning in life)
   
 #+BEGIN_NOTES
 - Wolff is concerned with the second question
+  - Distinguish "good life" from "moral life" and "happy life"
+#+END_NOTES
+
+** Meaningfulness of a Life
+#+ATTR_REVEAL: :frag (appear)
+- Meaningfulness as part of the conditions for living a good life
+
+\\
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+[the] idea of meaningfulness...is an idea of philosophical interest, for it is
+an idea of a significant way in which a life can be good, a category or
+dimension of value, if you will, which we have a serious reason to want for
+ourselves and for those we care about, and which is neither subsumable under
+nor reducible to either happiness or morality. (Wolf, 8)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- The notion of a "good" life is not the notion of a moral life, but rather of
+  a life worth living
+- Introduce notion of subjective and objective assessments of this
 #+END_NOTES
 
 ** Subjective & Objective
-
+#+ATTR_REVEAL: :frag (appear)
 1. Do what you love (subjective)
 2. Be part of something larger than yourself (objective)
    
@@ -4439,25 +4444,58 @@ either happiness or morality. (Wolf, 8)
   convincing on their own?
 #+END_NOTES
 
-
-
-** The Fulfillment View
-
-- Why should I do what I love?
-
+** Subjectivity & The Fulfillment View
 #+BEGIN_QUOTE
 The reason one should find one’s passion and go for it, then, is because doing
 so will give one’s life a particular type of good feeling. (Wolf, 13)
 #+END_QUOTE
 
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- The Fullfillment View :: Do what you love because it feels good
+
 ** Hedonism & Fulfillment
+#+ATTR_REVEAL: :frag (appear)
+- Hedonism :: the only thing that matters is pleasure (in one form or another)
+     
+\\
+#+ATTR_REVEAL: :frag (appear)
+- Life has meaning insofar as it maximizes feeling fulfilled (a kind of pleasure)
 
-** What's Wrong With Hedonism?
+*** What's Wrong With Hedonism?
+#+ATTR_REVEAL: :frag (appear)
+1. "Sisyphus fulfilled"
+2. The experience machine
+   
+#+BEGIN_NOTES
+- Two examples, the first from Wolf, the second from Nozick
+#+END_NOTES
 
-- Sisyphus fulfilled
-- The experience machine
+*** Sisyphus Fulfilled
+#+ATTR_REVEAL: :frag (appear)
+- Would Sisyphus's life be *more meaningful* if he felt good while rolling the
+  rock?
+  
+\\
 
-** The Experience Machine
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+Sisyphus’s task is no longer boring—no longer boring to Sisyphus, that is.
+But it remains futile. There is no value to his efforts; nothing ever comes of
+them. Even if due to divine intervention, Sisyphus comes to enjoy and even to
+feel fulfilled by his activity, the pointlessness of what he is doing
+doesn’t change. (Wolf, 17)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Ask poll question whether S's life is more meaningful
+- Wouldn't S be more likely *deluded* or *deranged*?
+- If we think there is anything missing in S's life then FV is wrong in some
+  way
+#+END_NOTES
+
+*** The Experience Machine
 
 #+BEGIN_QUOTE
 Suppose there were an experience machine that would give you any experience
@@ -4471,6 +4509,7 @@ Utopia/ 43)
 #+END_QUOTE
 
 #+BEGIN_NOTES
+- Ask poll question whether one would get in the experience machine
 - Nozick picks out two issues
   - We want to /do/ certain things, not just have the experience of doing them
   - We want to /be/ a certain way, not just have the experience of so being
@@ -4479,12 +4518,23 @@ Utopia/ 43)
 #+END_NOTES
 
 ** The Need for Objective Value
-     
+#+ATTR_REVEAL: :frag (appear)     
 - If what's wrong with Sisyphus & the participant in the experience machine is
   something objective then what is it?
+  #+ATTR_REVEAL: :frag (appear)
+  - Pursuit of some end that is worth doing
+  - Pursuit of being a certain kind of person
+  
+#+BEGIN_NOTES
+- Our two cases point to the importance of objective meaning, but hard to say
+  what that is or how it conceits to subjective fulfillment
+- Perhaps it is something "larger than oneself"
+- Is it better to be a human unsatisfied than a pig satisfied? (Mill)
+#+END_NOTES
 
 ** The Bipartite View
 
+#+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
 in order for a life to be meaningful both an objective and a subjective
 condition must be met: A meaningful life is a life that a.) the subject finds
@@ -4492,10 +4542,20 @@ fulfilling, and b.) contributes to or connects positively with something the
 value of which has its source outside the subject. (Wolf, 20)
 #+END_QUOTE
 
+#+BEGIN_NOTES
+- Where "outside the subject" is meant as "something larger than oneself"
+#+END_NOTES
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
 - What is the relation between (a) and (b) ? 
+  #+ATTR_REVEAL: :frag (appear)
   - Accidental?
+    #+ATTR_REVEAL: :frag (appear)
     - pot-smoker 
   - Non-accidental but not "engaged"?
+    #+ATTR_REVEAL: :frag (appear)
     - conscripted soldier
 
 ** The Source of Meaning in Life
@@ -4509,11 +4569,29 @@ who is so engaged, however, will not live a meaningful life if the objects or
 activities with which she is so occupied are worthless. (Wolf, 9)
 #+END_QUOTE
 
+** The Fitting Fulfillment View
+#+ATTR_REVEAL: :frag (appear)
+- A life is meaningful to the degree that it 
+  #+ATTR_REVEAL: :frag (appear)
+  - (a) is led in pursuit of things, or by engaging in activities, that are
+    worthy
+  - (b) it is in virtue of the pursuit of such things, or engagement in worthy
+    activities, that one comes to feel a particular way (i.e. "fulfilled")
+  
+\\ 
+
+#+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
 According to the conception of meaningfulness I wish to propose, meaning
 arises from loving objects worthy of love and engaging with them in a positive
 way (Wolf, 8)
 #+END_QUOTE
+
+#+BEGIN_NOTES
+- Is this view psychologically plausible?
+- Does the view help us find an answer to Camus's fundamental philosophical
+  question? 
+#+END_NOTES
 
 * Quizzes
 ** Week 1 - Argument
