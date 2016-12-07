@@ -4593,6 +4593,106 @@ way (Wolf, 8)
   question? 
 #+END_NOTES
 
+
+* Exam Review
+
+** Time & Place
+- HAH 102
+- 10:00 to 12:00 noon, Friday, December 16^th
+- http://registrar.unl.edu/final-exam-schedule-fall
+
+** Content
+#+ATTR_REVEAL: :frag (appear)
+- Free will and determinism
+  #+ATTR_REVEAL: :frag (appear)
+  - connection between free will and responsibility
+  - compatibilism vs. incompatibilism
+    #+ATTR_REVEAL: :frag (appear)
+    - PAP & Source requirement
+    - Frankfurt cases
+  #+ATTR_REVEAL: :frag (appear)
+  - Strawson's 'basic argument' against free will
+     
+#+REVEAL: split
+- The Libet experiments & free will
+  #+ATTR_REVEAL: :frag (appear)
+  - What are the experiments?
+  - Experiments call into question the efficacy of conscious willing
+#+ATTR_REVEAL: :frag (appear)
+- Sinnot-armstrong on legal significance of Libet's experiments
+
+#+REVEAL: split
+- Meta-ethical skepticism
+   #+ATTR_REVEAL: :frag (appear)
+  - ethics vs. meta-ethics
+  - non-cognitivism
+  - error theory
+    #+ATTR_REVEAL: :frag (appear)
+    - argument from disagreement
+    - argument from 'queerness'
+
+#+REVEAL: split
+- Camus & Nagel on the absurdity of life
+  #+ATTR_REVEAL: :frag (appear)
+  - Camus' answer to absurdity
+  - Nagel's criticisms of standard arguments for absurdity
+  - Nagel's argument for the source of absurdity
+  - Nagel's answer to absurdity
+
+#+REVEAL: split
+- Wolf on meaning in life
+  #+ATTR_REVEAL: :frag (appear)
+  - Fulfillment view & problems with hedonism
+    #+ATTR_REVEAL: :frag (appear)
+    - Sisyphus fulfilled
+    - Experience machine
+  - Bipartite view
+    #+ATTR_REVEAL: :frag (appear)
+    - what is the connection between the two conditions
+  - Fitting fulfillment view
+
+** Format
+#+ATTR_REVEAL: :frag (appear)
+1. Argument extraction (2, 10 pts)
+2. Definitions (4, 3 pts)
+3. Multiple choice (14, 2 pts)
+4. Short essay (2, 20 pts)
+
+** Argument Extraction (Pick 2 of 3)
+1. What's the conclusion of the argument?
+2. What support does the conclusion have?
+3. What material is essential to the argument and what is extraneous?
+4. Is the argument valid?
+   -  if yes, why?
+   -  if no, why?
+5. Is the argument sound?
+   -  if no, which premise (or premises) is false?
+
+** Definitions (Pick 4 of 5)
+#+ATTR_REVEAL: :frag (appear)
+-  Determinism: :: For any state of the subject, that subject's states
+   are necessitated by the condition of its previous states plus the
+   laws of nature.
+-  Internalism: :: objective values must be intrinsically motivating ---
+   knowledge of a moral requirement entails being motivated to follow
+   that requirement
+
+** Multiple Choice (14 questions)
+- Free will and determinism
+- Meta-ethical skepticism
+- Camus & Nagel on absurdity of life
+- Wolf on meaning in life
+
+** Short Essay (Pick 2 of 3)
+#+ATTR_REVEAL: :frag (appear)
+- Mackie's error theory
+  - difference between ethics & meta-ethics
+  - error theory
+  - two arguments for the error theory
+- Strawson's argument against moral responsibility
+  - Explain the argument
+  - Does Strawson's argument depend on the truth or falsity of determinism?
+
 * Quizzes
 ** Week 1 - Argument
 1. An argument consists of two parts -- the evidence, and what follows
@@ -5273,6 +5373,42 @@ D. Dependent on the character of the knower \\
 psychological fact, depending on the psychological structure of an
 agent
 #+END_NOTES
+** Wolf on Meaning 
+*** Question 1 
+One problem with hedonistic conceptions of value is that they 
+
+#+BEGIN_QUOTE
+A. don't tell us what is valuable \\
+B. are unsatisfying  \\
+C. do not account for why we think it is important to do certain kinds of
+thing and not just experience them \\
+D. do not account for why it is important to value pain and avoid pleasure \\
+#+END_QUOTE
+
+*** Question 2
+Wolf thinks that meaning in life can be understood and assessed purely
+subjectively
+
+#+BEGIN_QUOTE
+A. True \\
+B. False \\
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Sisyphus fulfilled
+  - Feels better but isn't more meaningful
+- Experience machine
+#+END_NOTES
+
+*** Question 3
+Wolf's own view doesn't require that there are objective values
+
+#+BEGIN_QUOTE
+A. True \\
+B. False \\
+#+END_QUOTE
+
+
 * Configuration                                            :noexport:archive:
 
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%d</h3><h4>phil101.colinmclear.net</h4>"
