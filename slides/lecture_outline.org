@@ -1,6 +1,7 @@
 #+TITLE: Philosophy 101
 #+AUTHOR: Colin McLear
-#+DATE: Fall 2016
+#+DATE: Fall 2017
+# Original date Fal 2017
 
 * Class Info
 ** Course Website: http://phil101.colinmclear.net
@@ -20,18 +21,16 @@
 #+BEGIN_NOTES
 - There will be prompts for the essay
 - We will review material for both exams (non-cumulative)
-- Note that there will be at least 10 quizzes
-  - Quiz sections on Thursday will have different questions from
-    sections on Friday
+- There will be at least 10 quizzes
   - Drop two lowest quizzes and count highest twice
-- Starting next week there will attendance taken in both lecture and section
+- Starting next week attendance will be taken in both lecture and section
 #+END_NOTES
 
 ** Clickers
 - Always bring to class
 - Available at the bookstore
 - Available on your phone (Reef Polling)
-* What is Philosophy?
+* What is philosophy?
 ** The Origins of Western Philosophy
 #+ATTR_REVEAL: :frag (appear)
 - Originates with ancient Greek study of nature
@@ -53,7 +52,7 @@
   We'll look at how things hang together in a variety of areas. 
   
   - metaphysics: is reality ultimately physical?
-  - mind: consciousness and representation
+  - mind: how should we understand the mind as a physical thing?
   - ethics: what is goodness? is there a meaning to life?
   - epistemology: what can we be certain about?
 #+END_NOTES
@@ -71,12 +70,15 @@
    statement (a truth claim called a ‘conclusion').
    
 #+BEGIN_NOTES
-Contrast argument w/rhetoric: 
-- rhetoric aims to persuade
-- argument aims at truth
+- An 'argument' is not a disagreement
+- Contrast argument w/rhetoric: 
+  - rhetoric aims to persuade
+  - argument aims at truth
 #+END_NOTES
 
 *** Parts of an Argument
+
+An argument has two basic parts:
 
 #+ATTR_REVEAL: :frag (appear)
 -  Evidence ("premises")
@@ -87,10 +89,95 @@ propositions---i.e. sentences that can be true or false
 
 #+ATTR_REVEAL: :frag (appear)
 -  Declarative statements: "This class is boring"
--  Hypothetical statements: "If the class is boring it is probably easy"
+-  Hypothetical statements: "If the class is boring then it is easy"
 -  False statements: "PHIL 101 is an easy A"
 -  +Questions+: "What is the meaning of life?"
 -  +Commands+: "Run away!"
+  
+#+BEGIN_NOTES
+- We're going to talk *a lot* about premises & conclusion in the class
+  so very important that everyone grasps the difference
+#+END_NOTES
+  
+*** Identifying Statements
+
+#+ATTR_REVEAL: :frag (highlight-blue highlight-red highlight-red highlight-blue highlight-blue) 
+a. Japan invaded Korea in 1948.
+b. What is the atomic number of aluminum?
+c. What a lovely baby!
+d. Flattering women amused him.
+e. Everyone who fails to tell the truth is a liar.
+   
+#+BEGIN_NOTES
+- Think/Pair/Share here
+#+END_NOTES
+
+*** Premise & Conclusion
+Premises support the conclusion in two ways:
+
+#+ATTR_REVEAL: :frag (appear)
+1. The truth of the conclusion (in some sense) /depends on or is related
+   to/ the truth of the premises
+2. Premises provide /reasons for believing/ the truth of the conclusion
+   
+#+BEGIN_NOTES
+- Note that the issue of dependence relates directly to the epistemic
+  issue of reasons for belief
+- It is the dependence relation and the notion of a reason that
+  separates argument from rhetoric
+#+END_NOTES
+
+*** Finding the Relation Between Premise & Conclusion
+
+1. 1 + 1 = 2
+2. 2 + 2 = 4
+3. \therefore Donald Trump is President of the United States
+
+#+REVEAL: split
+1. The candidate that receives a majority of electoral college votes
+   is elected President of the United States    
+2. Donald Trump received a majority of electoral college votes
+3. \therefore Donald Trump is (elected) President of the United States
+   
+#+BEGIN_NOTES
+- Think/Pair/Share here
+#+END_NOTES
+
+*** Criticizing Arguments
+#+ATTR_REVEAL: :frag (appear)
+- How does one criticize an argument?
+  #+ATTR_REVEAL: :frag (appear)
+  - /Ask questions/
+    #+ATTR_REVEAL: :frag (appear)
+    - Is there even an argument being made? 
+      #+ATTR_REVEAL: :frag (appear)
+      - Are there recognizable statements being made?
+      - Is there a conclusion? What is it?
+      - Is there evidence for the conclusion?
+      - Does the truth of the conclusion depend or otherwise relate to the
+        truth of the premises/evidence?
+    #+ATTR_REVEAL: :frag (appear)
+    - Do the premises give us reason to believe the truth of the
+      conclusion? 
+    - Are the premises true?
+
+*** A Sample Argument
+#+BEGIN_QUOTE
+  Each of us has our interests, wants, or needs. Moreover, each of us is
+  uniquely placed to pursue those wants and needs effectively. At the
+  same time, we understand the desires and needs of other people only
+  imperfectly. Since we understand them imperfectly, we are not well
+  situated to pursue them. Therefore, each of us should pursue our own
+  interests to the exclusion of others.
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Think/Pair/Share here
+
+1. We ought to do whatever will best promote our own (or everyone’s) interests.
+2. The best way to promote everyone’s interests is for each of us to pursue our own interests exclusively.
+3. \therefore Each of us should pursue our own interests exclusively.
+#+END_NOTES
 
 *** Kinds of Argument
 #+ATTR_REVEAL: :frag (appear)
@@ -115,19 +202,24 @@ propositions---i.e. sentences that can be true or false
   #+ATTR_REVEAL: :frag (appear)
   - Assuming that the premises are true, could the conclusion be false?
   - Does the conclusion follow from the premises?
+    #+ATTR_REVEAL: :frag (appear)
+    - Does the truth of the premises relate to the truth of the conclusion?
+    - Does the truth of the premises give us reason to believe the truth
+      of the conclusion? 
 
 #+BEGIN_NOTES
--  Philosophers understand the notion of "following from" in terms of
-   the /structure/ of the deductive argument
--  Arguments with the right structure are /valid/ deductive arguments
+- The premises must be /relevant/ to the truth/falsity of the conclusion
+  -- the conclusion /follows from/ the premises
+- Philosophers understand the notion of "following from" in terms of
+  the /structure/ of the deductive argument
+- Arguments with the right structure are /valid/ deductive arguments
 #+END_NOTES
   
 *** Structure
-1. All humans are mortal  
+1. All humans are mortal    
 2. John is human
 3. \therefore John is mortal
    
-\\
 
 #+ATTR_REVEAL: :frag (appear)
 1. All A are B
