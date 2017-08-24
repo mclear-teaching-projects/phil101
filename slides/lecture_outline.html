@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Philosophy 101</title>
+<meta name="author" content="(Colin McLear)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///Users/roambot/bin/reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="file:///Users/roambot/bin/reveal.js/css/theme/solarized.css" id="theme"/>
+
+<link rel="stylesheet" href="/Users/Roambot/projects/phil101/content/slides/local.css"/>
+<link rel="stylesheet" href="file:///Users/roambot/bin/reveal.js/lib/css/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///Users/roambot/bin/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<meta name="description" content="PHIL 101 Slides">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1>Philosophy 101</h1><h3>Fall 2017</h3><h4>phil101.colinmclear.net</h4>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgca6efeb">The Logic of Argument</a>
+<ul>
+<li><a href="#/slide-orgfc98515">Arguments</a></li>
+<li><a href="#/slide-org87b3828">Parts of an Argument</a></li>
+<li><a href="#/slide-orga941335">Kinds of Argument</a></li>
+<li><a href="#/slide-org8e24a18">Characteristics of Deductive Argument</a></li>
+<li><a href="#/slide-org4071f45">Validity</a></li>
+<li><a href="#/slide-orgde82981">Soundness</a></li>
+<li><a href="#/slide-orgec1f2bf">Two Deductively Valid Argument Forms</a></li>
+<li><a href="#/slide-orgf13943c">Interpreting Arguments</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-orgca6efeb">
+<h2 id="orgca6efeb">The Logic of Argument</h2>
+<div class="outline-text-2" id="text-orgca6efeb">
+</div></section>
+</section>
+<section>
+<section id="slide-orgfc98515">
+<h3 id="orgfc98515">Arguments</h3>
+<dl>
+<dt class="fragment appear">Argument:</dt><dd class="fragment appear">A statement or sequence of statements (truth claims
+called ‘premises') which logically support the truth of some further
+statement (a truth claim called a ‘conclusion').</dd>
+
+</dl>
+
+</section>
+</section>
+<section>
+<section id="slide-org87b3828">
+<h3 id="org87b3828">Parts of an Argument</h3>
+<ul>
+<li class="fragment highlight-current-blue">Premise (evidence)</li>
+<li class="fragment highlight-current-blue">Conclusion (what follows from the evidence)</li>
+
+</ul>
+
+<p>
+<br />
+</p>
+
+<ol>
+<li class="fragment appear">The truth of the conclusion (in some sense) <i>depends on or is related
+to</i> the truth of the premises</li>
+<li class="fragment appear">Premises provide <i>reasons for believing</i> the truth of the conclusion</li>
+
+</ol>
+
+<aside class="notes">
+<ul>
+<li>An argument consists of <b>statements</b>, which can be true or false</li>
+<li>No <b>questions</b> or <b>commands</b> as part of an argument</li>
+<li>Note that the issue of dependence relates directly to the epistemic
+issue of reasons for belief</li>
+<li>It is the dependence relation and the notion of a reason that
+separates argument from rhetoric</li>
+
+</ul>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orga941335">
+<h3 id="orga941335">Kinds of Argument</h3>
+<dl>
+<dt class="fragment highlight-current-blue">Deductive Argument:</dt><dd class="fragment highlight-current-blue">the conclusion follows from the premises
+<i>necessarily</i></dd>
+<dt class="fragment highlight-current-blue">Inductive Argument:</dt><dd class="fragment highlight-current-blue">the conclusion is made <i>probable</i> by the
+premises</dd>
+<dt class="fragment highlight-current-blue">Abductive Argument:</dt><dd class="fragment highlight-current-blue">the conclusion is the best explanation of the
+truth of the premises</dd>
+
+</dl>
+
+<aside class="notes">
+<ul>
+<li>Why do we want to make arguments in the first place? (convince others rationally)</li>
+
+</ul>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-org8e24a18">
+<h3 id="org8e24a18">Characteristics of Deductive Argument</h3>
+<ul>
+<li class="fragment highlight-current-blue">Validity</li>
+<li class="fragment highlight-current-blue">Soundness</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org4071f45">
+<h3 id="org4071f45">Validity</h3>
+<ul>
+<li class="fragment appear">An argument whose form <i>guarantees</i> that, if the premises are true, the
+conclusion must also be true</li>
+
+</ul>
+
+<aside class="notes">
+<ul>
+<li>Can a valid argument have a false conclusion?</li>
+<li>Can a valid argument have a false premise?</li>
+
+</ul>
+
+</aside>
+
+</section>
+<section id="slide-orgccd76b2">
+<h4 id="orgccd76b2">Truth &amp; the Form of Argument</h4>
+<ol>
+<li class="fragment appear">All humans are mortal</li>
+<li class="fragment appear">John is human</li>
+<li class="fragment appear">\(\therefore\) John is mortal</li>
+
+</ol>
+
+<ol>
+<li class="fragment appear">All A is B</li>
+<li class="fragment appear">x is A</li>
+<li class="fragment appear">\(\therefore\) x is B</li>
+
+</ol>
+
+<p class="fragment (appear)">
+Whatever the content of this argument form, it will <i>always</i> be valid
+</p>
+
+</section>
+<section >
+
+
+<div class="figure">
+<p><img src="file:///Users/Roambot/projects/phil101/content/slides/venn.png" alt="venn.png" style="height:auto; max-width:60%; margin:auto; display:block; text-align:center" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>This is a Venn diagram, a way to visualize logical relationships
+<ul>
+<li>There are discussions of Venn diagrams on the website. Follow the
+critical thinking link under resources and look under "learning modules"</li>
+
+</ul></li>
+
+</ul>
+
+</aside>
+
+</section>
+<section id="slide-org0aa147f">
+<h4 id="org0aa147f">Invalid Arguments</h4>
+<p>
+An invalid argument is one where the truth of the premises doesn't
+guarantee the truth of the conclusion
+</p>
+
+<ol class="fragment appear">
+<li>Jane owns a fancy car</li>
+<li>Wealthy people own fancy cars</li>
+<li>\(\therefore\) Jane is wealthy</li>
+
+</ol>
+
+</section>
+<section >
+<ol>
+<li>All good professors come to class on time</li>
+<li>Professor McLear always comes to class on time</li>
+<li>\(\therefore\) Professor McLear is a good professor</li>
+
+</ol>
+
+<ol>
+<li class="fragment appear">All A are B</li>
+<li class="fragment appear">x is B</li>
+<li class="fragment appear">&there4; x is A</li>
+
+</ol>
+
+</section>
+</section>
+<section>
+<section id="slide-orgde82981">
+<h3 id="orgde82981">Soundness</h3>
+<ul>
+<li class="fragment appear">An argument which is (i) valid and (ii) has true premises</li>
+
+</ul>
+
+<p>
+<br />
+</p>
+
+<ul>
+<li class="fragment appear">Whether an argument is sound concerns both its <i>form</i> and its
+<i>content</i>
+<ul>
+<li class="fragment appear">Not all valid arguments are sound arguments</li>
+<li class="fragment appear">Not all arguments with true premises and a true conclusion are sound</li>
+
+</ul></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-orgec1f2bf">
+<h3 id="orgec1f2bf">Two Deductively Valid Argument Forms</h3>
+<div class="outline-text-3" id="text-orgec1f2bf">
+</div></section>
+<section id="slide-org80e8d61">
+<h4 id="org80e8d61">Modus ponens: "the affirming mode"</h4>
+<ol>
+<li class="fragment appear">If there is beer in the fridge then today will not be dull</li>
+<li class="fragment appear">There is beer in the fridge</li>
+<li class="fragment appear">\(\therefore\) Today will not be dull</li>
+
+</ol>
+
+<p>
+<br />
+</p>
+
+<ol>
+<li class="fragment appear">If P, then Q</li>
+<li class="fragment appear">P</li>
+<li class="fragment appear">\(\therefore\) Q</li>
+
+</ol>
+
+<aside class="notes">
+<ul>
+<li>The most basic inferential form</li>
+<li>The most used inferential form</li>
+
+</ul>
+
+</aside>
+
+</section>
+<section id="slide-orgb3d959c">
+<h4 id="orgb3d959c">Modus tollens: "the denying mode"</h4>
+<ol>
+<li class="fragment appear">If there is beer in the fridge then today will not be dull</li>
+<li class="fragment appear">Today will be dull</li>
+<li class="fragment appear">\(\therefore\) There is no beer in the fridge</li>
+
+</ol>
+
+<p>
+<br />
+</p>
+
+<ol>
+<li class="fragment appear">If P, then Q</li>
+<li class="fragment appear">~ Q</li>
+<li class="fragment appear">\(\therefore\) ~ P</li>
+
+</ol>
+
+
+<aside class="notes">
+<ul>
+<li>important argument form for denying certain premises in an opponent's argument</li>
+
+</ul>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orgf13943c">
+<h3 id="orgf13943c">Interpreting Arguments</h3>
+<div class="outline-text-3" id="text-orgf13943c">
+</div></section>
+<section id="slide-orge567740">
+<h4 id="orge567740">Argument Markers</h4>
+<ul>
+<li class="fragment appear">Arguments are <i>constructed</i> from statements but they typically don't
+appear as lists of statements</li>
+<li class="fragment appear">(Good) Arguments often contain "marker" words, which indicate what is
+evidence or conclusion</li>
+
+</ul>
+
+</section>
+<section id="slide-org389791b">
+<h4 id="org389791b">Sample Evidence Markers</h4>
+<ul>
+<li class="fragment appear">as</li>
+<li class="fragment appear">because</li>
+<li class="fragment appear">for</li>
+<li class="fragment appear">from</li>
+<li class="fragment appear">since</li>
+
+</ul>
+
+<aside class="notes">
+<p>
+Example: The streets are wet <i>because</i> it is raining
+</p>
+
+</aside>
+
+</section>
+<section id="slide-org5b89dbf">
+<h4 id="org5b89dbf">Sample Conclusion Markers</h4>
+<ul>
+<li class="fragment appear">hence</li>
+<li class="fragment appear">so</li>
+<li class="fragment appear">then</li>
+<li class="fragment appear">therefore</li>
+<li class="fragment appear">thus</li>
+
+</ul>
+
+<aside class="notes">
+<p>
+Example: It is raining, <i>therefore</i> the streets are wet
+</p>
+
+</aside>
+
+</section>
+<section id="slide-orgbd7bf13">
+<h4 id="orgbd7bf13">Argument Extraction</h4>
+<ul>
+<li class="fragment appear">Is there an argument being made?</li>
+<li class="fragment appear">What's the conclusion of the argument?</li>
+<li class="fragment appear">What support does the conclusion have?</li>
+<li class="fragment appear">What material is essential to the argument and what is extraneous?</li>
+<li class="fragment appear">Is the argument valid?</li>
+<li class="fragment appear">Is the argument sound?</li>
+
+</ul>
+
+</section>
+<section >
+<blockquote nil>
+<p>
+There is no reason to think that there are any absolute moral truths.
+We can see this when we consider different cultural outlooks
+concerning what is morally required. For example, indigenous Inuit
+culture considered infanticide to be morally permissible in some
+situations. But modern American culture clearly thinks infanticide is
+always morally wrong. So what's morally right or wrong is just a
+matter of opinion, which can vary from culture to culture. (James
+Rachels, <i>The Elements of Moral Theory</i>)
+</p>
+</blockquote>
+
+<aside class="notes">
+<ul>
+<li>Conclusion?
+<ul>
+<li>There are no absolute moral truths</li>
+
+</ul></li>
+<li>Support?
+<ul>
+<li>If moral truths were absolute then they would not vary from
+culture to culture</li>
+<li>What's considered morally right or wrong does vary from culture to
+culture</li>
+
+</ul></li>
+
+</ul>
+
+</aside>
+
+</section>
+<section id="slide-org9173728">
+<h4 id="org9173728">A Sample Extraction</h4>
+<ol>
+<li class="fragment appear">If moral truths were absolute then they would not vary from culture
+to culture</li>
+<li class="fragment appear">What's considered morally right or wrong does vary from culture to
+culture</li>
+<li class="fragment appear">\(\therefore\) There are no absolute moral truths</li>
+
+</ol>
+
+<aside class="notes">
+<ul>
+<li>What form does this argument look to have (modus tollens)</li>
+<li>Is the argument really MT? (No)</li>
+<li>There is an equivocation with respect to (2). So the argument as
+actually stated is invalid. There is a difference between:
+<ol>
+<li>What is considered morally right/wrong varies with culture</li>
+<li>What <b>is</b> morally right/wrong varies with culture</li>
+
+</ol></li>
+<li>For the argument to be valid we need the latter version of (2)</li>
+
+</ul>
+
+</aside>
+
+</section>
+<section id="slide-org93e9e73">
+<h4 id="org93e9e73">Argument Extraction II</h4>
+<blockquote nil>
+<p>
+There are, moreover, seemingly unanswerable arguments that, if they
+are correct, demonstrate that the existence of moral responsibility
+entails the existence of free will, and, therefore, if free will does
+not exist, moral responsibility does not exist either. It is, however,
+evident that moral responsibility does exist: if there were no such
+thing as moral responsibility nothing would be anyone's fault, and it
+is evident that there are states of affairs to which one can point and
+say, correctly, to certain people: That's your fault. (van Inwagen
+“How to Think”)
+</p>
+</blockquote>
+
+<aside class="notes">
+<ol>
+<li>If there were no such thing as moral responsibility, then no one
+would be at fault for anything</li>
+<li>But people do correctly fault others for performing certain kinds of
+actions</li>
+<li>\(\therefore\) There must be moral responsibility</li>
+<li>If there were no free will, then there would be no moral
+responsibility</li>
+<li>There is moral responsibility (from 3)</li>
+<li>\(\therefore\) There is free will</li>
+
+</ol>
+
+</aside>
+
+</section>
+<section id="slide-org275c998">
+<h4 id="org275c998">Sample Extraction II</h4>
+<ol>
+<li class="fragment appear">If there were no such thing as moral responsibility, then no one
+would be at fault for anything</li>
+<li class="fragment appear">But people do correctly fault others for performing certain kinds of
+actions</li>
+<li class="fragment appear">\(\therefore\) There must be moral responsibility</li>
+<li class="fragment appear">If there were no free will, then there would be no moral
+responsibility</li>
+<li class="fragment appear">There is moral responsibility</li>
+<li class="fragment appear">\(\therefore\) There is free will</li>
+
+</ol>
+
+<p>
+<br />
+</p>
+
+<ol>
+<li class="fragment appear">If A, then B</li>
+<li class="fragment appear">~B</li>
+<li class="fragment appear">\(\therefore\) ~A (by 1, 2, modus tollens)</li>
+
+</ol>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Colin McLear. </p>
+<script src="file:///Users/roambot/bin/reveal.js/lib/js/head.min.js"></script>
+<script src="file:///Users/roambot/bin/reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c/t',
+rollingLinks: true,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'file:///Users/roambot/bin/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/roambot/bin/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///Users/roambot/bin/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'file:///Users/roambot/bin/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }]
+});
+</script>
+</body>
+</html>

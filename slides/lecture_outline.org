@@ -271,15 +271,31 @@ Premises support the conclusion in two ways:
 3. $\therefore$ There are no absolute moral truths
 
 * The Logic of Argument
+** Arguments
+#+ATTR_REVEAL: :frag (appear)
+-  Argument: :: A statement or sequence of statements (truth claims
+   called ‘premises') which logically support the truth of some further
+   statement (a truth claim called a ‘conclusion').
 
 ** Parts of an Argument
 #+ATTR_REVEAL: :frag (highlight-current-blue)
 - Premise (evidence) 
 - Conclusion (what follows from the evidence) 
   
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+1. The truth of the conclusion (in some sense) /depends on or is related
+   to/ the truth of the premises
+2. Premises provide /reasons for believing/ the truth of the conclusion
+   
 #+BEGIN_NOTES
 - An argument consists of *statements*, which can be true or false
 - No *questions* or *commands* as part of an argument
+- Note that the issue of dependence relates directly to the epistemic
+  issue of reasons for belief
+- It is the dependence relation and the notion of a reason that
+  separates argument from rhetoric
 #+END_NOTES
 
 ** Kinds of Argument
@@ -311,7 +327,7 @@ Premises support the conclusion in two ways:
 - Can a valid argument have a false premise?
 #+END_NOTES
 
-*** Form vs. Content
+*** Truth & the Form of Argument 
 
 #+ATTR_REVEAL: :frag (appear)
 1. All humans are mortal
@@ -337,6 +353,25 @@ Whatever the content of this argument form, it will /always/ be valid
     critical thinking link under resources and look under "learning modules"
 #+END_NOTES
 
+*** Invalid Arguments
+An invalid argument is one where the truth of the premises doesn't
+guarantee the truth of the conclusion
+
+#+ATTR_REVEAL: :frag appear
+1. Jane owns a fancy car
+2. Wealthy people own fancy cars
+3. $\therefore$ Jane is wealthy
+   
+#+REVEAL: split
+1. All good professors come to class on time
+2. Professor McLear always comes to class on time
+3. $\therefore$ Professor McLear is a good professor
+   
+#+ATTR_REVEAL: :frag (appear)
+1. All A are B
+2. x is B
+3. \therefore x is A
+
 ** Soundness
 
 #+ATTR_REVEAL: :frag (appear)
@@ -351,19 +386,19 @@ Whatever the content of this argument form, it will /always/ be valid
   - Not all valid arguments are sound arguments
   - Not all arguments with true premises and a true conclusion are sound
 
-** Two Basic Deductive Argument Forms
+** Two Deductively Valid Argument Forms
 ***  Modus ponens: "the affirming mode"
-#+ATTR_REVEAL: :frag (appear)
-1. If P, then Q
-2. P
-3. $\therefore$ Q
-
-\\
-
 #+ATTR_REVEAL: :frag (appear)
 1. If there is beer in the fridge then today will not be dull
 2. There is beer in the fridge 
 3. $\therefore$ Today will not be dull
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+1. If P, then Q
+2. P
+3. $\therefore$ Q
    
 #+BEGIN_NOTES
 - The most basic inferential form
@@ -372,23 +407,23 @@ Whatever the content of this argument form, it will /always/ be valid
 
 ***  Modus tollens: "the denying mode"
 #+ATTR_REVEAL: :frag (appear)
+1. If there is beer in the fridge then today will not be dull
+2. Today will be dull
+3. $\therefore$ There is no beer in the fridge
+   
+\\
+   
+#+ATTR_REVEAL: :frag (appear)
 1. If P, then Q
 2. ~ Q
 3. $\therefore$ ~ P
 
-\\
-   
-#+ATTR_REVEAL: :frag (appear)
-1. If there is beer in the fridge then today will not be dull
-2. Today will be dull
-3. $\therefore$ There is no beer in the fridge
    
 #+BEGIN_NOTES
 - important argument form for denying certain premises in an opponent's argument
 #+END_NOTES
 
 ** Interpreting Arguments
-
 *** Argument Markers
 #+ATTR_REVEAL: :frag (appear)
 -  Arguments are /constructed/ from statements but they typically don't
@@ -516,6 +551,7 @@ Example: It is raining, /therefore/ the streets are wet
 2. ~B
 3. $\therefore$ ~A (by 1, 2, modus tollens)
 
+* When Reason Fails
 ** Logical Fallacies
 #+ATTR_REVEAL: :frag (appear)
 -  Logical fallacy: :: A defect in the logical form or content of an
