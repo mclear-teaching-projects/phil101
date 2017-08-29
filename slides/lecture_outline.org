@@ -456,8 +456,8 @@ Example: The streets are wet /because/ it is raining
 Example: It is raining, /therefore/ the streets are wet
 #+END_NOTES
 
-*** Argument Extraction
-
+* Argument Extraction
+** Asking Questions
 #+ATTR_REVEAL: :frag (appear)
 -  Is there an argument being made?
 -  What's the conclusion of the argument?
@@ -466,7 +466,7 @@ Example: It is raining, /therefore/ the streets are wet
 -  Is the argument valid?
 -  Is the argument sound?
 
-#+REVEAL: split
+** A Sample Text
 #+BEGIN_QUOTE
   There is no reason to think that there are any absolute moral truths.
   We can see this when we consider different cultural outlooks
@@ -488,7 +488,7 @@ Example: It is raining, /therefore/ the streets are wet
       culture
 #+END_NOTES
 
-*** A Sample Extraction
+** A Sample Extraction
 #+ATTR_REVEAL: :frag (appear)
 1. If moral truths were absolute then they would not vary from culture
    to culture
@@ -506,7 +506,7 @@ Example: It is raining, /therefore/ the streets are wet
 - For the argument to be valid we need the latter version of (2) 
 #+END_NOTES
  
-*** Argument Extraction II
+** Argument Extraction II
 
 #+BEGIN_QUOTE
   There are, moreover, seemingly unanswerable arguments that, if they
@@ -532,7 +532,7 @@ Example: It is raining, /therefore/ the streets are wet
 6. $\therefore$ There is free will
 #+END_NOTES
 
-*** Sample Extraction II
+** Sample Extraction II
 #+ATTR_REVEAL: :frag (appear)
 1. If there were no such thing as moral responsibility, then no one
    would be at fault for anything
@@ -544,12 +544,15 @@ Example: It is raining, /therefore/ the streets are wet
 5. There is moral responsibility 
 6. $\therefore$ There is free will
 
-\\ 
+#+REVEAL: split
+1. If ~A, then ~B
+2. B
+3. $\therefore$ A (by 1, 2, modus tollens)
+4. If ~C then ~A
+5. A (from (3))
+6. $\therefore$ C (by 4,5, modus tollens)
 
-#+ATTR_REVEAL: :frag (appear)
-1. If A, then B
-2. ~B
-3. $\therefore$ ~A (by 1, 2, modus tollens)
+ 
 
 * When Reason Fails
 ** Logical Fallacies
@@ -728,16 +731,16 @@ Example: It is raining, /therefore/ the streets are wet
 
 *** The Argument from Explanation
 #+ATTR_REVEAL: :frag (appear)
-1. Our physical theories are highly successful at predicting and
-   controlling our experience of the world
-2. If our physical theories are highly successful then they correctly
+1. If our physical theories are highly successful then they correctly
    describe the nature of reality
+2. Our physical theories are highly successful at predicting and
+   controlling our experience of the world
 3. \therefore Our physical theories correctly describe the nature of
    reality (by 1, 2, MP)
 4. If our physical theories correctly describe the nature of reality
    then physicalism is true
-5. \therefore Physicalism is true (by 3, 4, MP)
-
+5. $\therefore$ Physicalism is true (by 3, 4, MP)
+   
 #+BEGIN_NOTES
 - Questionable Assumptions? 
   - Premise (2) 
@@ -776,7 +779,7 @@ Example: It is raining, /therefore/ the streets are wet
 #+REVEAL: split
 
 -  The "Hard Problem" of Consciousness: :: Why do the physical processes
-   that characterize life result in conscious experience?
+   that characterize (e.g. human) life result in conscious experience?
      
 #+BEGIN_NOTES
 + "easy" vs. "hard" problems
