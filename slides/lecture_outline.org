@@ -755,13 +755,60 @@ Example: It is raining, /therefore/ the streets are wet
 #+ATTR_REVEAL: :frag (appear)
 -  Show that our physical theories are not merely /coincidentally/ true
 -  Show that our physical theories are /exhaustivly/ true
+  
+* Nagel on the Problem of Consciousness
+** Physicalism
+Everything that is or could exist is ultimately physical in nature
+     
+#+BEGIN_NOTES
+  Ask clicker question surveying confidence in truth of physicalism. "A" for its
+  truth, "B" for its falsity, "C" for agnosticism
+#+END_NOTES
+
+** Why be a Physicalist?
+#+ATTR_REVEAL: :frag (appear)
+1. Against supernaturalism
+2. Explanation
+
+*** Against Supernaturalism
+
+-  Supernatural explanations are lazy explanations -- they don't really
+   tell us anything
+  
+#+BEGIN_NOTES
+ - We appeal to things we don't understand (like God) to "explain"
+   things we don't understand
+ - All things considered, the better explanation is one which doesn't
+   appeal to supernatural entities or forces
+#+END_NOTES
+
+*** The Argument from Explanation
+#+ATTR_REVEAL: :frag (appear)
+1. If our physical theories are highly successful then they correctly
+   describe the nature of reality
+2. Our physical theories are highly successful at predicting and
+   controlling our experience of the world
+3. \therefore Our physical theories correctly describe the nature of
+   reality (by 1, 2, MP)
+4. If our physical theories correctly describe the nature of reality
+   then physicalism is true
+5. $\therefore$ Physicalism is true (by 3, 4, MP)
+   
+#+BEGIN_NOTES
+- Questionable Assumptions? 
+  - Premise (2) 
+     -  Assumes that the correctness of our theories is required for/best
+      explains their success
+        -  What if the success of physics is a mere coincidence?
+  - Premise (4)
+     -  Assumes that our physical theories are /exhaustive/
+#+END_NOTES
 
 ** Reductionism
 
   Deducing, explaining, or otherwise showing a dependence relation to
   exist between one set of properties, facts, or concepts, and another
   priviliged set of properties, facts, or concepts.
-  
 ** Reducing Consciousness
 #+ATTR_REVEAL: :frag (appear)
 -  Reduce features of conscious experience to matter/energy organized
@@ -776,26 +823,7 @@ Example: It is raining, /therefore/ the streets are wet
 #+BEGIN_NOTES
   - Reduction of heat to molecular motion (quantity of kinetic energy transferred between systems of molecules)
 #+END_NOTES
-#+REVEAL: split
-
--  The "Hard Problem" of Consciousness: :: Why do the physical processes
-   that characterize (e.g. human) life result in conscious experience?
      
-#+BEGIN_NOTES
-+ "easy" vs. "hard" problems
-  - how does the brain process information from its environment?
-  - How does it integrate information? 
-  - How do we produce reports on internal states?
-#+END_NOTES
-* Nagel on the Problem of Consciousness
-** Physicalism
-Everything that is or could exist is ultimately physical in nature
-     
-#+BEGIN_NOTES
-  Ask clicker question surveying confidence in truth of physicalism. "A" for its
-  truth, "B" for its falsity, "C" for agnosticism
-#+END_NOTES
-
 ** The Mind-Body Problem
 
 #+BEGIN_NOTES
@@ -814,6 +842,13 @@ Everything that is or could exist is ultimately physical in nature
 #+ATTR_REVEAL: :frag (appear)
 -  The "Hard Problem" of Consciousness: :: Why do the physical processes
    that characterize life result in conscious experience?
+
+#+BEGIN_NOTES 
+  - "easy" vs. "hard" problems
+  - how does the brain process information from its environment?
+  - How does it integrate information? 
+  - How do we produce reports on internal states?
+#+END_NOTES
 
 ** What is Consciousness?
 #+ATTR_REVEAL: :frag (appear)
@@ -838,7 +873,7 @@ Everything that is or could exist is ultimately physical in nature
 
 #+ATTR_REVEAL: :frag (appear)
 -  Nagel means to indicate consciousness in the sense of (6) ---
-   phenomenal experience
+   phenomenal consciousness
   
 #+BEGIN_NOTES
   - What does the consciousness of a bat have to do with physicalism?
@@ -983,26 +1018,26 @@ point of view
   more objective but concerns the same thing? (444)
 #+END_QUOTE
 
-** Facts & Points of View
-#+ATTR_REVEAL: :frag (appear)
-1. All (possible) facts are physical facts (assume for /reductio/)
-2. Physical facts are objective facts
-3. Objective facts are independent of any particular point of view
-4. Facts about consciousness depend on particular points of view
-5. \therefore Facts about consciousness are not objective
-6. \therefore Facts about consciousness are not physical
-7. \therefore There are non-physical facts (i.e. (1) is false)
+# ** Facts & Points of View
+# #+ATTR_REVEAL: :frag (appear)
+# 1. All (possible) facts are physical facts (assume for /reductio/)
+# 2. Physical facts are objective facts
+# 3. Objective facts are independent of any particular point of view
+# 4. Facts about consciousness depend on particular points of view
+# 5. \therefore Facts about consciousness are not objective
+# 6. \therefore Facts about consciousness are not physical
+# 7. \therefore There are non-physical facts (i.e. (1) is false)
    
-#+BEGIN_NOTES
-1. P \rightarrow F_p
-2. F_P \rightarrow F_O
-3. F_O \rightarrow I
-4. F_C \rightarrow ~I
-5. F_C \neq F_O (since F_C → ~I & ~I → ~F_O)
-6. F_C \neq F_P (since ~F_O → ~F_P)
+# #+BEGIN_NOTES
+# 1. P \rightarrow F_p
+# 2. F_P \rightarrow F_O
+# 3. F_O \rightarrow I
+# 4. F_C \rightarrow ~I
+# 5. F_C \neq F_O (since F_C → ~I & ~I → ~F_O)
+# 6. F_C \neq F_P (since ~F_O → ~F_P)
    
-- See if people understand why (5) and (6) hold
-#+END_NOTES
+# - See if people understand why (5) and (6) hold
+# #+END_NOTES
 
 ** Physicalism & Objectivity
 #+ATTR_REVEAL: :frag (appear)
@@ -5143,6 +5178,14 @@ B. No
 A. True  \\
 B. False  
 ** Physicalism & Consciousness
+*** Physicalism is true
+A. Yes \\
+B. No \\
+C. Not sure
+
+
+
+   
 ** The knowledge argument
 *** A phenomenal zombie is really good at being a zombie
 A. True  \\
