@@ -1132,171 +1132,171 @@ point of view
   false (Jackson, 130).
 #+END_QUOTE
 
-** What Does Mary Know?
-#+ATTR_REVEAL: :frag (appear)
--  Mary knows all the relevant physical information concerning human
-   color vision
-   #+ATTR_REVEAL: :frag (appear)
-   -  spectral reflectance profiles
-   -  human physiology
-   -  neurological basis of visual perception
+# ** What Does Mary Know?
+# #+ATTR_REVEAL: :frag (appear)
+# -  Mary knows all the relevant physical information concerning human
+#    color vision
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  spectral reflectance profiles
+#    -  human physiology
+#    -  neurological basis of visual perception
 
-** The Basic Argument
-#+ATTR_REVEAL: :frag (appear)
-1. Before her release from the B&W room Mary has all the physical
-   information concerning human color vision
-2. Mary learns something new about color when she leaves the room
-3. \therefore There is some information about human color vision which
-   Mary doesn't know
-4. \therefore Not all information is physical information
-   (i.e. physicalism is false)
+# ** The Basic Argument
+# #+ATTR_REVEAL: :frag (appear)
+# 1. Before her release from the B&W room Mary has all the physical
+#    information concerning human color vision
+# 2. Mary learns something new about color when she leaves the room
+# 3. \therefore There is some information about human color vision which
+#    Mary doesn't know
+# 4. \therefore Not all information is physical information
+#    (i.e. physicalism is false)
 
-** Qualia & Color
-#+ATTR_HTML: :style margin:auto; display:block; text-align:center
-[[/Users/Roambot/projects/phil101/content/slides/RothkoRed.jpg]]
+# ** Qualia & Color
+# #+ATTR_HTML: :style margin:auto; display:block; text-align:center
+# [[/Users/Roambot/projects/phil101/content/slides/RothkoRed.jpg]]
 
-#+ATTR_HTML: :style text-align:center
-Mark Rothko: 'Orange, Red & Red' (1962)
+# #+ATTR_HTML: :style text-align:center
+# Mark Rothko: 'Orange, Red & Red' (1962)
 
-** An Ambiguity in the Argument
+# ** An Ambiguity in the Argument
 
-#+BEGIN_QUOTE
-(2) Mary learns something new about color when she leaves the room
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# (2) Mary learns something new about color when she leaves the room
+# #+END_QUOTE
 
-#+ATTR_REVEAL: :frag (appear)
--  talk of ‘physical information' is ambiguous between:
-   #+ATTR_REVEAL: :frag (appear)
-   -  epistemic sense of ‘information': the kinds of concepts used to
-      think about the world
-   -  metaphysical sense of ‘information': the kinds of facts which
-      constitute reality
+# #+ATTR_REVEAL: :frag (appear)
+# -  talk of ‘physical information' is ambiguous between:
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  epistemic sense of ‘information': the kinds of concepts used to
+#       think about the world
+#    -  metaphysical sense of ‘information': the kinds of facts which
+#       constitute reality
 
-#+BEGIN_QUOTE
-(4) \therefore Not all information is physical information (i.e. physicalism is false)
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# (4) \therefore Not all information is physical information (i.e. physicalism is false)
+# #+END_QUOTE
 
-** Two Versions of the Knowledge Argument
+# ** Two Versions of the Knowledge Argument
 
-*** The Weaker (Epistemological) Version
-#+ATTR_REVEAL: :frag (appear)
-1. Mary has complete physical knowledge of the facts about human color
-   vision before her release from the room
-2. But there is some kind of knowledge she lacks before leaving the room
-3. $\therefore$ There is some kind of knowledge concerning human color
-   vision that is non-physical knowledge
+# *** The Weaker (Epistemological) Version
+# #+ATTR_REVEAL: :frag (appear)
+# 1. Mary has complete physical knowledge of the facts about human color
+#    vision before her release from the room
+# 2. But there is some kind of knowledge she lacks before leaving the room
+# 3. $\therefore$ There is some kind of knowledge concerning human color
+#    vision that is non-physical knowledge
 
-*** The Stronger (Metaphysical) Version
-#+ATTR_REVEAL: :frag (appear)
-1. Mary knows all the physical facts regarding color/color vision
-2. But there are some facts about color/color vision which Mary doesn't
-   know prior to her release
-3. \therefore There are non-physical facts concerning color/color
-   vision
+# *** The Stronger (Metaphysical) Version
+# #+ATTR_REVEAL: :frag (appear)
+# 1. Mary knows all the physical facts regarding color/color vision
+# 2. But there are some facts about color/color vision which Mary doesn't
+#    know prior to her release
+# 3. \therefore There are non-physical facts concerning color/color
+#    vision
 
-*** Which Argument?
-#+ATTR_REVEAL: :frag (appear)
--  Physicalism is compatible with there being ways of knowing physical
-   facts that don't use physical concepts---“old facts in new guises”
--  Only the stronger metaphysical version of the argument is a threat to
-   physicalism
-   #+ATTR_REVEAL: :frag (appear)
-   -  Physicalism must deny the existence of any non-physical facts
+# *** Which Argument?
+# #+ATTR_REVEAL: :frag (appear)
+# -  Physicalism is compatible with there being ways of knowing physical
+#    facts that don't use physical concepts---“old facts in new guises”
+# -  Only the stronger metaphysical version of the argument is a threat to
+#    physicalism
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  Physicalism must deny the existence of any non-physical facts
 
-** Advantages of the Knowledge Argument
-#+ATTR_REVEAL: :frag (appear)
--  Does not make controversial assumptions about points of view or the
-   connection between objectivity and scientific inquiry (Nagel's
-   argument)
--  Does not make controversial assumptions about conceivability and
-   possibility (the Modal argument)
+# ** Advantages of the Knowledge Argument
+# #+ATTR_REVEAL: :frag (appear)
+# -  Does not make controversial assumptions about points of view or the
+#    connection between objectivity and scientific inquiry (Nagel's
+#    argument)
+# -  Does not make controversial assumptions about conceivability and
+#    possibility (the Modal argument)
 
-** Which Argument is Best?
+# ** Which Argument is Best?
 
-1.) Has Jackson succeeded in formulating a non-controversial argument
-   against physicalism?
+# 1.) Has Jackson succeeded in formulating a non-controversial argument
+#    against physicalism?
 
-#+BEGIN_QUOTE
-  A. Yes\\
-  B. No
-#+END_QUOTE
+# #+BEGIN_QUOTE
+#   A. Yes\\
+#   B. No
+# #+END_QUOTE
 
-#+REVEAL: split
-2.) Which argument against physicalism do you find most convincing?
+# #+REVEAL: split
+# 2.) Which argument against physicalism do you find most convincing?
 
-#+BEGIN_QUOTE
-  A. Nagel's 'what it is like' argument\\
-  B. The modal argument concerning 'phenomenal zombies'\\
-  C. Jackson's 'Mary' argument\\
-  D. None of the above
-#+END_QUOTE
+# #+BEGIN_QUOTE
+#   A. Nagel's 'what it is like' argument\\
+#   B. The modal argument concerning 'phenomenal zombies'\\
+#   C. Jackson's 'Mary' argument\\
+#   D. None of the above
+# #+END_QUOTE
 
-** Are Qualia Epiphenomenal?
-#+ATTR_REVEAL: :frag (appear)
-- Epiphenomenalism: :: Mental events/properties are caused by physical
-  events/properties in the brain but have no causal effect on physical
-  events/properties
+# ** Are Qualia Epiphenomenal?
+# #+ATTR_REVEAL: :frag (appear)
+# - Epiphenomenalism: :: Mental events/properties are caused by physical
+#   events/properties in the brain but have no causal effect on physical
+#   events/properties
 
-#+BEGIN_NOTES
-- analogous to the movements of one's shadow being epiphenomena of the
-  movements of one's body
-  - movements of the shadow are determined by movements of the body
-    not vice versa
-#+END_NOTES
+# #+BEGIN_NOTES
+# - analogous to the movements of one's shadow being epiphenomena of the
+#   movements of one's body
+#   - movements of the shadow are determined by movements of the body
+#     not vice versa
+# #+END_NOTES
 
-** The Objection to Epiphenomenalism
+# ** The Objection to Epiphenomenalism
 
-#+BEGIN_QUOTE
-  [qualia] serve merely to soothe the intuitions of dualists, and it is left
-  a total mystery how they fit into the world view of science In short
-  we do not and cannot understand the how and why of them. (Jackson, 135)
-#+END_QUOTE
+# #+BEGIN_QUOTE
+#   [qualia] serve merely to soothe the intuitions of dualists, and it is left
+#   a total mystery how they fit into the world view of science In short
+#   we do not and cannot understand the how and why of them. (Jackson, 135)
+# #+END_QUOTE
 
-#+REVEAL: split
+# #+REVEAL: split
 
--  Why think that we are in a position to understand the causal basis
-   and nature of everything that exists?
-   #+ATTR_REVEAL: :frag (appear)
-   -  Physicalism assumes that we are in a position to know the basic
-      nature of everything that does or could exist
-   -  But perhaps there is reason to be humble about what we could
-      possibly know of the natural world
+# -  Why think that we are in a position to understand the causal basis
+#    and nature of everything that exists?
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  Physicalism assumes that we are in a position to know the basic
+#       nature of everything that does or could exist
+#    -  But perhaps there is reason to be humble about what we could
+#       possibly know of the natural world
 
-** The Humility Argument
-#+BEGIN_QUOTE
-  consider the antecedent probability that everything in the Universe be
-  of a kind that is relevant in some way or other to the survival of
-  homosapiens. It is very low surely. But then one must admit that it is
-  very likely that there is a part of the whole scheme of things, maybe
-  a big part, which no amount of evolution will ever bring us near to
-  knowledge about or understanding. For the simple reason that such
-  knowledge and understanding is irrelevant to survival (Jackson, 135)
-#+END_QUOTE
+# ** The Humility Argument
+# #+BEGIN_QUOTE
+#   consider the antecedent probability that everything in the Universe be
+#   of a kind that is relevant in some way or other to the survival of
+#   homosapiens. It is very low surely. But then one must admit that it is
+#   very likely that there is a part of the whole scheme of things, maybe
+#   a big part, which no amount of evolution will ever bring us near to
+#   knowledge about or understanding. For the simple reason that such
+#   knowledge and understanding is irrelevant to survival (Jackson, 135)
+# #+END_QUOTE
 
-#+REVEAL: split
+# #+REVEAL: split
 
-#+ATTR_REVEAL: :frag (none appear appear appear)
-1. Our capacity to understand the natural world depends on our evolved
-   acquisition of various cognitive capacities
-2. The acquisition of cognitive capacities via evolution depends on
-   their conduciveness to human survival
-3. At least some cognitive capacities conducive to knowing the natural
-   world are not conducive to survival
-4. $\therefore$ At least some knowledge of the world is unavailable to
-   us because it is not conducive to our survival
+# #+ATTR_REVEAL: :frag (none appear appear appear)
+# 1. Our capacity to understand the natural world depends on our evolved
+#    acquisition of various cognitive capacities
+# 2. The acquisition of cognitive capacities via evolution depends on
+#    their conduciveness to human survival
+# 3. At least some cognitive capacities conducive to knowing the natural
+#    world are not conducive to survival
+# 4. $\therefore$ At least some knowledge of the world is unavailable to
+#    us because it is not conducive to our survival
 
-** Physicalist Optimism
+# ** Physicalist Optimism
 
--  Are we being overly optimistic in thinking that our physical science
-   is broadly complete and correct?
+# -  Are we being overly optimistic in thinking that our physical science
+#    is broadly complete and correct?
 
-#+ATTR_REVEAL: :frag (appear)
-#+BEGIN_QUOTE
-  The wonder is that we understand as much as we do, and there is no
-  wonder that there should be matters which fall quite outside our
-  comprehension. Perhaps exactly how epiphenomenal qualia fit into the
-  scheme of things is one such. (Jackson, 135)
-#+END_QUOTE
+# #+ATTR_REVEAL: :frag (appear)
+# #+BEGIN_QUOTE
+#   The wonder is that we understand as much as we do, and there is no
+#   wonder that there should be matters which fall quite outside our
+#   comprehension. Perhaps exactly how epiphenomenal qualia fit into the
+#   scheme of things is one such. (Jackson, 135)
+# #+END_QUOTE
 
 * Lewis's Defense of Physicalism
 ** What the Physicalist Needs
@@ -5185,7 +5185,21 @@ C. Not sure
 
 
 
+** Nagel's Argument
+# Come up with three questions!
+*** Nagel thinks that being a bat is a problem for physicalism 
+A. True \\
+B. False
    
+*** Nagel thinks that the problem with consciousness is describing being awake
+A. True \\
+B. False
+   
+*** Nagel thinks that physical facts are available from multiple points of view.
+A. True \\ 
+B. False
+
+
 ** The knowledge argument
 *** A phenomenal zombie is really good at being a zombie
 A. True  \\
