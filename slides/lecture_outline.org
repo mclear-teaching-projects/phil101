@@ -553,7 +553,6 @@ Example: It is raining, /therefore/ the streets are wet
 6. $\therefore$ C (by 4,5, modus tollens)
 
  
-
 * When Reason Fails
 ** Logical Fallacies
 #+ATTR_REVEAL: :frag (appear)
@@ -5376,9 +5375,9 @@ B. False
 *** Jackson thinks that qualia are epiphenomenal
 A. True \\
 B. False \\
-*** Lewis defends physicalism by arguing for the hypothesis of phenomenal information
-A. True \\
-B. False \\
+# *** Lewis defends physicalism by arguing for the hypothesis of phenomenal information
+# A. True \\
+# B. False \\
 ** Confusion about consciousness
 *** According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
 A. True \\
