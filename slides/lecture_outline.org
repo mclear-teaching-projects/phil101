@@ -1748,17 +1748,18 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 
 * Confusion about the Function of Consciousness
 ** Consciousness --- What, Why, & How
-#+BEGIN_NOTES
-- We've focused mainly on what and how. Now we'll look a bit at why.
-- But note that answering why depends on knowing what we're talking
-  about -- which brings us back to asking what is consciousness anyway!
-#+END_NOTES 
 -  Distinguish three questions:
    #+ATTR_REVEAL: :frag (appear)
    1. What is consciousness (what is its nature)?
    2. Why is there consciousness (what is its function)?
    3. How could there be beings with consciousness (given assumptions
       about what kinds of things there could be)?
+
+#+BEGIN_NOTES
+- We've focused mainly on what and how. Now we'll look a bit at why.
+- But note that answering why depends on knowing what we're talking
+  about -- which brings us back to asking what is consciousness anyway!
+#+END_NOTES 
 
 ** The "Target Reasoning" Concerning Functions of Consciousness
 #+ATTR_REVEAL: :frag (appear)
@@ -1790,7 +1791,7 @@ Mark Rothko: 'Orange, Red & Red' (1962)
 
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/blindsight.jpg]]
+[[/Users/roambot/Dropbox/Work/projects/phil101/content/slides/blindsight.jpg]]
 #+ATTR_HTML: :style text-align:center
 The Blindsighted Patient
 
@@ -1837,6 +1838,7 @@ The Blindsighted Patient
    cognitive psychology of patients with specific cognitive impairments
    or abnormalities
 #+END_NOTES
+* Confusion (part II)
 ** Confusion about Consciousness
 *** The Concept of Consciousness is a 'Mongrel' Concept
 -  The concept =<consciousness>= is a 'mongrel' in the sense that it is
@@ -1891,14 +1893,14 @@ The Blindsighted Patient
 *** Access Consciousness
 
 #+ATTR_HTML: :style height:auto; max-width:40%; margin:auto; display:block; text-align:center; 
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/YoungOldWoman.jpg]]
+[[/Users/Roambot/Dropbox/Work/projects/Phil101/content/slides/YoungOldWoman.jpg]]
 #+ATTR_HTML: :style text-align:center
 Old Woman
 
 #+REVEAL: split
 
 #+ATTR_HTML: :style height:auto; max-width:40%; margin:auto; display:block; text-align:center
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/YoungOldWoman.jpg]]
+[[/Users/Roambot/Dropbox/Work/projects/Phil101/content/slides/YoungOldWoman.jpg]]
 #+ATTR_HTML: :style text-align:center
 Young Woman
 
@@ -5127,6 +5129,23 @@ d. no new information
    information when she leaves the B&W room
 
 4. True or False: Jackson does not think that qualia are epiphenomenal
+
+** Lewis on Qualia
+
+1. True or False: The Ability Hypothesis says that knowing what it is like
+   is just a kind of know how
+2. True or False: The Ability Hypothesis is compatible with the truth of physicalism
+3. True or False: The Hypothesis of Phenomenal Information is compatible
+   with the truth of physicalism
+4. According to Jackson, after Mary leaves the B&W room she learns
+   a. all the physical information about color 
+   b. new physical information about color 
+   c. new phenomenal information (or new phenomenal facts) about color 
+   d. no new information
+5. True or False: Lewis construes knowing what it is like in terms of
+   remembering, understanding, and considering
+   
+answers: T, T, F, c, F
 
 ** Week 5 - P vs. A Consciousness
 1. According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
