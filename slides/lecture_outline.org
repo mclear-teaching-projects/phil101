@@ -1839,6 +1839,38 @@ The Blindsighted Patient
    or abnormalities
 #+END_NOTES
 * Confusion (part II)
+** The "Target Reasoning" Concerning Functions of Consciousness
+#+ATTR_REVEAL: :frag (appear)
+-  Consciousness has a function
+-  We can find out what the function of consciousness is by studying the
+   cognitive psychology of patients with specific cognitive impairments
+   or abnormalities
+
+*** The Function of Consciousness
+#+ATTR_REVEAL: :frag (appear)
+1. Abnormal psychological conditions, such as blindsight and "absent"
+   seizures, may indicate the function of consciousness
+2. When consciousness is missing under such conditions, subjects
+   cannot\\
+   #+ATTR_REVEAL: :frag (appear)
+   * report or reason about the relevant nonconscious representations,
+     nor use them in guiding action (blindsight)\\
+   * exhibit flexibility and creativity in their thought and action
+     (absence seizures)\\
+3. $\therefore$ Consciousness enables information represented in the
+   brain to be used in reasoning, reporting, and rationally guiding
+   action
+4. $\therefore$ Consciousness promotes flexibility and creativity in
+   thought and action
+
+#+BEGIN_NOTES
+- Note that this is either an inductive or an abductive argument
+*Target reasoning*: Is it correct?
+-  Consciousness has a function
+-  We can find out what the function of consciousness is by studying the
+   cognitive psychology of patients with specific cognitive impairments
+   or abnormalities
+#+END_NOTES
 ** Confusion about Consciousness
 *** The Concept of Consciousness is a 'Mongrel' Concept
 -  The concept =<consciousness>= is a 'mongrel' in the sense that it is
@@ -1860,6 +1892,8 @@ The Blindsighted Patient
 #+ATTR_REVEAL: :frag (appear)
 -  Phenomenal Consciousness: :: A mental state with "experiential
    properties" that constitute "what it is like" to experience something
+   
+\\
 
 #+ATTR_REVEAL: :frag (appear)
 -  A state is P-conscious if it has experiential properties
@@ -1874,6 +1908,8 @@ The Blindsighted Patient
 -  Access Consciousness: :: A mental state that is poised for free use
    in reasoning and for direct ‘‘rational'' control of action and
    speech.
+
+ \\
 
 #+ATTR_REVEAL: :frag (appear)
 -  Construes mental states in terms of information and its transfer, not
@@ -2019,6 +2055,7 @@ Young Woman
    -  state has 'experiential properties'
 -  P-conscious state is not, for some stretch of time,
    accessed/accessible
+* Confusion (part III)
 ** Criticizing the "Target Reasoning"
 #+BEGIN_NOTES
 - Remind students of how we criticize a definition
@@ -2101,6 +2138,7 @@ Young Woman
 -  We need to distinguish the cognitive/information processing aspects
    of our mental life from the less obviously cognitive, and more
    explicitly phenomenal aspects
+
 
 * The Puzzle of Representation
 ** What is a Representation?
