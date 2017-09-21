@@ -2056,6 +2056,14 @@ Young Woman
 -  P-conscious state is not, for some stretch of time,
    accessed/accessible
 * Confusion (part III)
+** The Distinctness of Phenomenal & Access Consciousness
+#+ATTR_REVEAL: :frag (appear)
+- Phenomenal & Access consciousness are at least /conceptually/ distinct
+  #+ATTR_REVEAL: :frag (appear)
+  - We can conceive of cases of access with phenomenal consciousness (super-blindsight)
+  - We can conceive of cases of phenomenal without access consciousness (attention)
+- P & A consciousness might be conceptually distinct even if not
+  /biologically/ or /evolutionarily/ distinct
 ** Criticizing the "Target Reasoning"
 #+BEGIN_NOTES
 - Remind students of how we criticize a definition
@@ -2076,7 +2084,7 @@ Young Woman
 #+ATTR_REVEAL: :frag (appear)
 #+BEGIN_QUOTE
   For example, Searle, quoting Penfield, describes the epileptic walker
-  as ‘‘thread[ing] his way'' through the crowd. Doesn't he see the
+  as ''thread[ing] his way'' through the crowd. Doesn't he see the
   obstacles he avoids? Suppose he gets home by turning right at a red
   wall. Isn't there something it is like for him to see the red
   wall---and isn't it different from what it is like for him to see a
@@ -2085,12 +2093,12 @@ Young Woman
 
 #+REVEAL: split
 #+ATTR_REVEAL: :frag (none appear)
-1. In Penfield's seizure cases it is the subject's thought processes
+1. In the absence seizure cases it is the subject's thought processes
    that are most obviously deficient, including a clear lack of
    A-consciousness
 2. P-consciousness is a feature of mental /states/ not /subjects/
 3. There is no reason to think that the states which occur in the
-   subjects of Penfield cases lack P-consciousness
+   subjects of absence seizure cases lack P-consciousness
 4. $\therefore$ There is no reason to think that a function of
    P-consciousness is to make possible flexible and creative complex
    behavior
