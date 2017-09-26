@@ -2183,8 +2183,8 @@ Young Woman
 
 ** Test Case 1 -- Representation as Resemblance 
 
-#+ATTR_HTML: :style max-width:45%; height:auto; margin:auto; display:block; text-align:center; 
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/SelfPortrait.jpg]]
+#+ATTR_HTML: :style max-width:35%; height:auto; margin:auto; display:block; text-align:center; 
+[[/Users/roambot/Dropbox/Work/projects/phil101/content/slides/selfportrait.jpg]]
 #+ATTR_HTML: :style text-align:center
 Vincent Van Gogh, 1889
 
@@ -2204,8 +2204,8 @@ Vincent Van Gogh, 1889
 #    portrait to resemble Van Gogh?
 
 #+REVEAL: split
-#+ATTR_HTML: :style min-width:110%; margin:auto; display:block; text-align:center
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/Santa.jpg]]
+#+ATTR_HTML: :style min-width:50%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil101/content/slides/Santa.jpg]]
 #+ATTR_HTML: :style text-align:center
 Who do I resemble?
 
@@ -2220,7 +2220,7 @@ Who do I resemble?
 ** Test Case 2 -- Are Pictures Fundamental?
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/OldMan.jpg]]
+[[/Users/roambot/Dropbox/Work/projects/phil101/content/slides/OldMan.jpg]]
 #+ATTR_HTML: :style text-align:center
 Walking Uphill or Sliding Down?
 
@@ -5194,7 +5194,8 @@ d. no new information
 answers: T, T, F, c, F
 
 ** Week 5 - P vs. A Consciousness
-1. According to the "target reasoning" the function of consciousness is to tell about what it like to experience something
+1. According to the "target reasoning" the function of consciousness is to
+   inform us about what it like to experience something
 A. True \\
 B. False \\
 
