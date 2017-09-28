@@ -2461,14 +2461,14 @@ Could a sufficiently advanced computer qualify as a thinking being?
 #+REVEAL: split
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center; min-width: 90%; height: auto;
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/rulebook.jpg]]
+[[/Users/roambot/Dropbox/Work/projects/phil101/archive/MarkdownSlides/rulebook.jpg]]
 #+ATTR_HTML: :style text-align:center
 The rulebook 
 
 #+REVEAL: split
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center; min-width: 100%; height: auto
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/CRoom.jpg]]
+[[/Users/roambot/Dropbox/Work/projects/phil101/archive/MarkdownSlides/CRoom.jpg]]
 #+ATTR_HTML: :style text-align:center
 The Chinese room
 
@@ -2492,10 +2492,11 @@ The Chinese room
 #+REVEAL: split
 
 #+ATTR_HTML: :style margin:auto; display:block; text-align:center; min-width: 100%; height: auto
-[[/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/CRoom2.jpg]]
+[[/Users/roambot/Dropbox/Work/projects/phil101/archive/MarkdownSlides/CRoom2.jpg]]
 #+ATTR_HTML: :style text-align:center
-The Chinese room 
+Interacting with the Chinese room 
 
+* Evaluating the Chinese Room Argument
 ** Syntax & Semantics
 #+ATTR_REVEAL: :frag (appear)
 -  Syntax: :: the formal or structural features of a symbol system which
