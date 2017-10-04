@@ -5481,8 +5481,7 @@ B. False \\
 *** Strong AI says that
 A. Robots can lift more than humans \\
 B. Robots live are tougher than humans \\
-C. A computer program of sufficient complexity can model the function of
-human thought \\
+C. A computer program of sufficient complexity can model the function of human thought \\
 D. A computer program of sufficient complexity can think
 
 #+BEGIN_NOTES
@@ -5495,7 +5494,7 @@ D. A computer program of sufficient complexity can think
 *** The imitation game assumes  human linguistic behaviour is...
 A. The result of emotion \\
 B. The easiest way to see if a computer can think \\
-C. The cause of complex linguistic behaviour  \\
+C. Caused by complex mental states (thoughts)  \\
 D. The most difficult thing for a computer program to emulate 
 
 *** According to Turing we know other people's minds via their behaviour
