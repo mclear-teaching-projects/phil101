@@ -2944,7 +2944,7 @@ Nagel's argument concerning consciousness aims to show what?
 #+BEGIN_QUOTE
   A. What it is like to be a bat\\
   B. That physicalism is false\\
-  C. That we cannot understand how physicalism could be true\\
+  C. That we cannot conceive of how physicalism could be false\\
   D. That physicalism is true
 #+END_QUOTE
 
