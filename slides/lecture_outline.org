@@ -5286,6 +5286,13 @@ D. Computer programs are more than just semantics \\
 A. True \\
 B. False 
 
+5. An invalid argument is an argument where
+A. The premises are always false\\
+B. The conclusion is always false\\
+C. The conclusion is always true\\
+D. The truth of the premises does not guarantee the truth of the
+conclusion\\
+
 ** Week 10 - Moral responsibility
 1. Determinism says that
      A. There are no choices
