@@ -2964,7 +2964,7 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 
 * Free Will
 ** What is Freedom of the Will?
-
+#+ATTR_REVEAL: :frag (appear)
 -  Freedom of Will: :: (1) a capacity of an agent to (2) choose
    according to her preferences (3) from amongst a set of relevant
    alternatives such that (4) the agent is responsible for that choice or
@@ -2975,8 +2975,8 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 #+ATTR_REVEAL: :frag (appear)
 -  Desert & Moral responsibility
    #+ATTR_REVEAL: :frag (appear)
-   -  praise & blame
-   -  distribution of resources  
+   -  Praise & blame
+   -  Distribution of resources  
 -  Punishment
 
 ** How to Talk about Freedom
@@ -2988,7 +2988,7 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
       #+ATTR_REVEAL: :frag (appear)
       -  How do we respond to different cases?
       -  Why do we respond the way that we do?
-
+        
 ** Kinds of Freedom
 #+ATTR_REVEAL: :frag (appear)
 -  Freedom from coercion (mental or physical)
@@ -3053,10 +3053,14 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 ** What Generates the Incompatibility?
 
 #+ATTR_REVEAL: :frag (appear)
-- Control?
-- Self-initiation?
-- Options?
-- Something else?
+- (Lack of) Control?
+- (Lack of) Self-initiation?
+- (Lack of) Options?
+- (Lack of) Something else?
+  
+#+BEGIN_NOTES
+- What is it that is the locus of incompatibility? 
+#+END_NOTES
 
 ** Nagel on Alternate Possibilities
 
