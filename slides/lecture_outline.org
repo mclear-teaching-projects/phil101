@@ -3127,6 +3127,9 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 -  Is determinism compatible with free will?
   #+ATTR_REVEAL: :frag (appear)
    -  Yes: ‘Compatibilism'
+      #+ATTR_REVEAL: :frag (appear)
+      -  Compatibilism explain /why/ freedom & determinism are compatible, not
+        whether or not determinism is true
    -  No: ‘Incompatibilism'
       #+ATTR_REVEAL: :frag (appear)
       -  Incompatibilism says /why/ determinism & freedom are
@@ -3249,7 +3252,7 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 ** Response -- Jones_{4}
 
 - Jones_4: acts for his own reasons, but if there was any sign of his
-  acting differently, would have been forced to carry out the act anyway
+  acting differently, he would have been forced to carry out the act anyway
 
 #+BEGIN_NOTES
 
