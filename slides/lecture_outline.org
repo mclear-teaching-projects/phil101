@@ -3360,8 +3360,7 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 -  Is moral responsibility compatible with determinism?
 
 * Control & Moral Responsibility
-** Review
-*** Free Will
+** Free Will
 
 -  Freedom of Will: :: (1) a capacity of an agent to (2) choose
    according to her preferences (3) from amongst a set of relevant
@@ -3370,14 +3369,14 @@ Write a /short/ essay---two to three paragraphs. Pick /two/ of three:
 
 *** Question 1
 
-Determinism says that there is no free will.
+If Determinism is true then there is no free will.
 
 #+BEGIN_QUOTE
   A. True\\
   B. False\\
 #+END_QUOTE
 
-*** Determinism
+** Determinism
 
 -  Determinism: :: For any state of the subject, that subject's states
    are necessitated by the condition of its previous states plus the
@@ -3393,8 +3392,7 @@ Determinism says that there is no free will.
 1. Is the truth of determinism compatible with free will?
 2. Is determinism true?
 #+END_NOTES
-
-*** Alternative Possibilities & Incompatibilism
+** Alternative Possibilities & Incompatibilism
 
 -  Why might determinism & freedom be incompatible?
    #+ATTR_REVEAL: :frag (appear)
@@ -3413,19 +3411,20 @@ The Principle of Alternate Possibilities says:
   D. We could at least sometimes do otherwise that what we do\\
 #+END_QUOTE
 
-*** Alternative Possibilities & Incompatibilism
+** Alternative Possibilities & Incompatibilism
 
 #+ATTR_REVEAL: :frag (appear)
--  The Principle of Alternate Possibilities (PAP): :: a person is
-   morally responsible for what s/he has done only if s/he could have
-   done otherwise (or chosen otherwise)
--  Leeway Incompatibilism: :: The truth of determinism is incompatible
-   with an agent's having the capacity to do otherwise than as she did
+-  The Principle of Alternate Possibilities (PAP): :: a person is morally
+     responsible for what s/he has done only if s/he could have done otherwise
+     (or chosen otherwise)
+-  Leeway Incompatibilism: :: The truth of determinism is *incompatible* with an
+     agent's having the capacity to do otherwise than as she did, and thus
+     with an agent's acting freely
 
 *** Question 3
 
-According to Frankfurt, if determinism and free will are incompatible
-then it *isn't* because:
+According to Frankfurt, determinism and free will (and responsibility)
+are compatible because:
 
 #+BEGIN_QUOTE
   A. We couldn't have chosen otherwise\\
@@ -3434,11 +3433,13 @@ then it *isn't* because:
   D. We can always choose to do otherwise\\
 #+END_QUOTE
 
-** Alternative Possibilities & Incompatibilism
+** Frankfurt Cases 
 
--  Frankfurt cases suggest that responsibility depends on the source of
-   the agent's decision for acting rather than the ability to do
-   otherwise
+-  Frankfurt cases suggest that responsibility depends on the source of the
+  agent's decision for acting (i.e. their reasons for acting) rather than the
+  ability to do otherwise
+#+ATTR_REVEAL: :frag (appear)
+-  If Determinism is true can we really be considered the sources of our actions?
 
 ** Source of Agency
 #+ATTR_REVEAL: :frag (appear)
@@ -3461,9 +3462,9 @@ then it *isn't* because:
 
 #+REVEAL: split
 #+BEGIN_QUOTE
-  Jane is considering what to eat in the student union. Unbeknownst to
-  her, Subway is filling the air with a chemical that subliminally
-  generates in subjects an intention to eat a sandwich. Jane forms the
+  Jane is considering what to eat in the student union. Unbeknownst to her,
+  Subway is filling the air with a chemical that subliminally generates in
+  people an intention to eat a sandwich. Jane breathes the chemical, forms the
   intention, and decides on Subway accordingly. She enjoys her sandwich.
 #+END_QUOTE
 
@@ -3521,49 +3522,49 @@ then it *isn't* because:
   - No: Indeterminism is equally incompatible with the source requirement
   - Source of intention must issue in the right way from the subject
 
-** Strawson's 'Basic Argument'
-*** First Statement
-#+ATTR_REVEAL: :frag (appear)
-1. Nothing can be the cause of itself
-2. In order to be truly morally responsible for one's actions one would
-   have to be the cause of oneself in some crucial respects
-3. \therefore No one can be truly morally responsible
-
-*** Questions About the Basic Argument
-#+ATTR_REVEAL: :frag (appear)
--  Why does being morally responsible require being self-caused?
--  What 'crucial respects' must be caused?
-   #+ATTR_REVEAL: :frag (appear)
-   -  character
-   -  evaluative dispositions & preferences
-
-*** Strawson's Revision
-#+ATTR_REVEAL: :frag (appear)
-1. You do what you do because of the way you are.
-2. To be morally responsible for what you do you must be truly morally
-   responsible for the way you are -- at least in certain crucial mental
-   respects.
-3. To be truly responsible for the way you are, you must have
-   intentionally brought it about that you are the way you are, and this
-   is impossible.
-4. \therefore You cannot be truly morally responsible for what you do,
-   because you cannot be truly responsible for the way you are.
-   
-\\
-
-#+ATTR_REVEAL: :frag (appear)
--  Is the argument valid? Sound?
-
-*** Questions about Strawson's Revision
-#+ATTR_REVEAL: :frag (appear)
--  /Premise 2/: Why does moral responsibility require that one be
-   responsible for how one is 'in certain crucial mental respects'?
--  /Premise 3/: Why is it impossible to have intentionally brought about
-   how one is?
--  /Conclusion/: Why think that if one cannot be morally responsible for
-   the way one is, one cannot be morally responsible for what one does?
 
 * The Basic Argument (Continued)
+# ** Strawson's 'Basic Argument'
+# *** First Statement
+# #+ATTR_REVEAL: :frag (appear)
+# 1. Nothing can be the cause of itself
+# 2. In order to be truly morally responsible for one's actions one would
+#    have to be the cause of oneself in some crucial respects
+# 3. \therefore No one can be truly morally responsible
+
+# *** Questions About the Basic Argument
+# #+ATTR_REVEAL: :frag (appear)
+# -  Why does being morally responsible require being self-caused?
+# -  What 'crucial respects' must be caused?
+#    #+ATTR_REVEAL: :frag (appear)
+#    -  character
+#    -  evaluative dispositions & preferences
+
+# *** Strawson's Revision
+# #+ATTR_REVEAL: :frag (appear)
+# 1. You do what you do because of the way you are.
+# 2. To be morally responsible for what you do you must be truly morally
+#    responsible for the way you are -- at least in certain crucial mental
+#    respects.
+# 3. To be truly responsible for the way you are, you must have
+#    intentionally brought it about that you are the way you are, and this
+#    is impossible.
+# 4. \therefore You cannot be truly morally responsible for what you do,
+#    because you cannot be truly responsible for the way you are.
+   
+# \\
+
+# #+ATTR_REVEAL: :frag (appear)
+# -  Is the argument valid? Sound?
+
+# *** Questions about Strawson's Revision
+# #+ATTR_REVEAL: :frag (appear)
+# -  /Premise 2/: Why does moral responsibility require that one be
+#    responsible for how one is 'in certain crucial mental respects'?
+# -  /Premise 3/: Why is it impossible to have intentionally brought about
+#    how one is?
+# -  /Conclusion/: Why think that if one cannot be morally responsible for
+#    the way one is, one cannot be morally responsible for what one does?
 ** The Argument
 #+ATTR_REVEAL: :frag (appear)
 1. Nothing can be the cause of itself
