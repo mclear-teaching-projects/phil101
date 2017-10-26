@@ -5303,15 +5303,18 @@ conclusion\\
 
 ** Week 10 - Moral responsibility
 1. Determinism says that
+
      A. There are no choices
      B. The current state of the subject is necessitated by its previous states plus the laws of nature
      C. The current state of the subject is necessitated by its previous states alone
      D. We do not have free will
-2. T/F: Incompatibilism says that there is no free will of the kind necessary for moral responsibility
-3. T/F: Determinism is incompatible with the appearance of choice
+2. T/F: Incompatibilism says that if determinism is true then there is no free will of the kind necessary for moral responsibility
+3. T/F: The truth of Determinism settles the question of whether or not we have free will
 4. T/F: According to the principle of alternate possibilities, being morally responsible for an action requires that one could have done otherwise
+5. T/F: If Determinism is true then we never make any choices
 
-Answers: B, F, F, T
+Answers: B, T, F, T, F
+
 ** Week 11 - Control
 1. Determinism says that:
 
