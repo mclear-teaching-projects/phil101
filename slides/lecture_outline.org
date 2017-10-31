@@ -3523,7 +3523,7 @@ are compatible because:
   - Source of intention must issue in the right way from the subject
 
 
-* The Basic Argument (Continued)
+* The Basic Argument 
 # ** Strawson's 'Basic Argument'
 # *** First Statement
 # #+ATTR_REVEAL: :frag (appear)
@@ -3690,9 +3690,8 @@ are compatible because:
 
 #+REVEAL: split
 #+ATTR_REVEAL: :frag (none appear appear appear appear appear) 
-1. Suppose that you have somehow intentionally brought it about that you
-   are the way you now are, and that you have brought this about in such
-   a way that you can now be said to be truly responsible for being the
+1. Suppose that you have intentionally brought it about that you are the way
+   you now are, and in a manner that makes you truly responsible for being the
    way you now are
 2. Your intentional act, for which you are responsible, is due to some
    nature N
@@ -3702,8 +3701,8 @@ are compatible because:
 4. \therefore You must have intentionally brought about N, which
    requires that you have some further nature N1, in virtue of which you
    brought about your nature N... (absurd infinite regress ensues)
-5. \therefore It is impossible for you to have intentionally brought
-   it about that you are as you are now
+5. \therefore (1) is false: It is impossible for you to have intentionally brought it
+   about that you are as you are now
 
 * Review
 ** Strawson's Revised Argument
