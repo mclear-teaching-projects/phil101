@@ -5626,8 +5626,7 @@ The source requirement says that
 A. we have free will\\
 B. moral responsibility depends on being able to do otherwise\\
 C. control is irrelevant to moral responsibility\\
-D. responsibility for a choice requires that one be the appropriate source of
-the choice
+D. responsibility for a choice requires that one be the appropriate source of the choice
 
 *** Agency & Control
 
@@ -5643,8 +5642,7 @@ Determinism says that:
 
 A. we cannot make any choices\\
 B. our choices are not causally effective\\
-C. our current states are necessitated by our past states in
-conjunction with physical laws\\
+C. our current states are necessitated by our past states in conjunction with physical laws\\
 D. we are free
 
 *** Determinism
@@ -5667,19 +5665,14 @@ You cannot be truly responsible for the way you are because
 A. you cannot do otherwise than you do\\
 B. determinism is true\\
 C. determinism is false\\
-D. in certain crucial respects you cannot have intentionally brought
-it about that you are as you are now
+D. in certain crucial respects you cannot have intentionally brought it about that you are as you are now
 
 *** Strawson's Argument
 1. You do what you do because of the way you are.
-2. To be morally responsible for what you do you must be truly morally
-   responsible for the way you are -- at least in certain crucial mental
-   respects.
-3. To be truly responsible for the way you are, you must have
-   intentionally brought it about that you are the way you are
+2. To be morally responsible for what you do you must be truly morally responsible for the way you are -- at least in certain crucial mental respects.
+3. To be truly responsible for the way you are, you must have intentionally brought it about that you are the way you are
 4. It is impossible to have intentionally brought about how one is
-5. \therefore You cannot be truly morally responsible for what you do,
-   because you cannot be truly responsible for the way you are
+5. \therefore You cannot be truly morally responsible for what you do, because you cannot be truly responsible for the way you are
 
 *** Question 5
 
@@ -5689,24 +5682,17 @@ intentionally brought it about that you are the way you are now?
 A. Determinism is true\\
 B. We cannot do otherwise than we do\\
 C. No one is truly morally responsible\\
-D. We would need to appeal to an infinite number of different characters or
-natures to explain any intentional action
+D. We would need to appeal to an infinite number of different characters or natures to explain any intentional action
 
 #+REVEAL: split
 1. Suppose that you have somehow intentionally brought it about that you
    are the way you now are, and that you have brought this about in such
    a way that you can now be said to be truly responsible for being the
    way you now are
-2. Your intentional act, for which you are responsible, is due to some
-   nature N
-3. If you are truly responsible for this act you must be truly
-   responsible for having the nature N in virtue of which you
-   intentionally brought it about that you are the way you now are
-4. \therefore You must have intentionally brought about N, which
-   requires that you have some further nature N1, in virtue of which you
-   brought about your nature N... (absurd infinite regress ensues)
-5. \therefore It is impossible for you to have intentionally brought
-   it about that you are as you are now
+2. Your intentional act, for which you are responsible, is due to some nature N
+3. If you are truly responsible for this act you must be truly responsible for having the nature N in virtue of which you intentionally brought it about that you are the way you now are
+4. \therefore You must have intentionally brought about N, which requires that you have some further nature N1, in virtue of which you brought about your nature N... (absurd infinite regress ensues)
+5. \therefore (1) is false: It is impossible for you to have intentionally brought it about that you are as you are now
 
 #+REVEAL: split
 Are we truly morally responsible for our actions?
