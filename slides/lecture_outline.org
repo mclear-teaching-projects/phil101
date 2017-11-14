@@ -4121,6 +4121,25 @@ Is the driver morally responsible for his rival's death?
 
 * The Ethical and the Metaethical
 
+** Objective Ethics?
+Is the sentence 'it is morally wrong to cause unnecessary pain' true or
+false?
+
+#+BEGIN_QUOTE
+  A. True\\
+  B. False\\
+  C. Neither True or False
+#+END_QUOTE
+
+#+REVEAL: split
+Is there an objective fact of the matter whether it is morally wrong to
+cause unnecessary pain?
+
+#+BEGIN_QUOTE
+  A. Yes\\
+  B. No\\
+  C. Not sure
+#+END_QUOTE
 ** Levels of Ethics
 
 #+BEGIN_NOTES
@@ -4258,28 +4277,9 @@ Is the driver morally responsible for his rival's death?
   two views
 #+END_NOTES
 
-#+REVEAL: split
-Is the sentence 'it is morally wrong to cause unnecessary pain' true or
-false?
-
-#+BEGIN_QUOTE
-  A. True\\
-  B. False\\
-  C. Neither True or False
-#+END_QUOTE
-
-#+REVEAL: split
-Is there an objective fact of the matter whether it is morally wrong to
-cause unnecessary pain?
-
-#+BEGIN_QUOTE
-  A. Yes\\
-  B. No\\
-  C. Not sure
-#+END_QUOTE
 
 * Mackie's Error Theory
-** Two Kinds of Skepticism
+** Two Kinds of Metaethical Skepticism
 
 - Noncognitivism: :: Moral discourse is concerned with expressing or
      describing states of the subject (semantic claim)
@@ -5381,7 +5381,16 @@ that:
   D. Willing, Action, RP
 #+END_QUOTE
 
-B, B, C, C
+5. According to the Model Penal Code, one is not culpable unless one's
+   action or omission to act was voluntary
+
+#+BEGIN_QUOTE
+  A. True B. False
+#+END_QUOTE
+
+
+B, B, C, C, A
+
 ** Week 15 - Mackie & the Absurd
 1. The conclusion of Mackie's argument from disagreement says that
 
