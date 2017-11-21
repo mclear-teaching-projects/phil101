@@ -4457,6 +4457,68 @@ matter for our moral practices?
    -  Some moral disputes may have no uniquely correct answers
      
 * Mackie's Error Theory (II)
+** Clicker questions
+*** Question 1
+Noncognitivism is an ethical theory
+
+#+BEGIN_QUOTE
+A. True \\
+B. False \\
+#+END_QUOTE
+
+*** Metaethics & Noncognitivism
+#+ATTR_REVEAL: :frag (appear)
+-  *Ethics* is about what we ought to do
+-  *Metaethics* is about what we're thinking and doing when we think and
+   talk about what we ought to do
+  
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- Noncognitivism: :: Moral discourse is concerned with expressing or
+     describing states of the subject (semantic claim)
+     
+
+*** Question 2
+Noncognitivism differs from the error theory because it
+
+#+BEGIN_QUOTE
+A. Denies the existence of objective values \\ 
+B. Asserts the existence of objective values \\  
+C. Argues that all moral judgments are false \\ 
+D. Argues that moral judgments are not descriptive or fact-stating \\
+#+END_QUOTE
+
+*** Error Theory
+- Error Theory: :: (i) Moral discourse makes descriptive claims of the objective
+  world, but is systematically and uniformly /false/ (semantic claim); (ii)
+  There are no objective moral facts or properties (metaphysical claim)
+
+*** Question 3
+One objection to noncognitivism (NC) is that
+
+#+BEGIN_QUOTE
+A. NC fails to explain why moral judgements are true \\
+B. NC fails to explain the 'categorical' nature of moral judgments/demands \\
+C. NC ignores moral psychology \\
+D. NC ignores the importance of motivation for ethical judgment \\
+#+END_QUOTE
+
+***  The authority of ethics
+- Ethical judgments purport to be authoritative because of features
+  of the world, not because of features of the judging
+  subject---moral judgments are 'categorical'
+  
+*** Question 4
+The conclusion of Mackie's argument from disagreement says that 
+
+#+BEGIN_QUOTE
+A. There are no objective values   \\
+B. There is widespread disagreement about what to do/value \\ 
+C. There are objective values \\ 
+D. Moral disagreements are intractable \\
+#+END_QUOTE
+
 ** The Argument from Disagreement
 #+ATTR_REVEAL: :frag (appear)
 1. The is an enormous amount of variation in moral views, which leads to
@@ -4573,7 +4635,7 @@ matter for our moral practices?
       'queerness' shows that moral values/facts do not exist
    -  Absent further argument we might be justified in accepting moral
       realism/objectivism as the 'default' position
-
+      
 * Camus on the Absurd
 ** Existence as a Philosophical Problem
 
@@ -5390,7 +5452,41 @@ that:
 
 
 B, B, C, C, A
+** Noncognitivism
+1. Meta-ethics asks questions about what we ought to do or what we should value.
 
+    > A. true
+    > B. false
+
+2. Non-cognitivism about moral thought & talk means that
+
+    > A. there are no objective moral values
+    > B. there are objective moral values
+    > C. moral claims aren't the kind of claim that can be true or false
+    > D. moral claims are all false
+
+3. Non-cognitivism about moral thought & talk is incompatible with moral
+   skepticism
+
+    > A. true
+    > B. false
+
+4. A moral judgment is 'categorical' because
+
+    > A. it is true
+    > B. it is false
+    > C. it's authority depends on what people want or think
+    > D. it's authority is independent of what people otherwise want or think
+
+5. Mackie thinks that supposedly widespread and intractable disagreements
+   about value are best explained by
+
+    > A. the existence of objective moral values
+    > B. the fact that moral claims are neither true nor false
+    > C. the non-existence of objective moral values
+    > D. the irrationality of human beings
+
+Answers: B,C,B,D,C
 ** Week 15 - Mackie & the Absurd
 1. The conclusion of Mackie's argument from disagreement says that
 
