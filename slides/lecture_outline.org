@@ -552,7 +552,6 @@ Example: It is raining, /therefore/ the streets are wet
 5. A (from (3))
 6. $\therefore$ C (by 4,5, modus tollens)
 
- 
 * When Reason Fails
 ** Logical Fallacies
 #+ATTR_REVEAL: :frag (appear)
@@ -2147,7 +2146,6 @@ Young Woman
    of our mental life from the less obviously cognitive, and more
    explicitly phenomenal aspects
 
-
 * The Puzzle of Representation
 ** What is a Representation?
 #+ATTR_REVEAL: :frag (appear)
@@ -3522,7 +3520,6 @@ are compatible because:
   - No: Indeterminism is equally incompatible with the source requirement
   - Source of intention must issue in the right way from the subject
 
-
 * The Basic Argument 
 # ** Strawson's 'Basic Argument'
 # *** First Statement
@@ -4276,7 +4273,6 @@ cause unnecessary pain?
 - We'll look at two questions to help illustrate the difference between the
   two views
 #+END_NOTES
-
 
 * Mackie's Error Theory
 ** Two Kinds of Metaethical Skepticism
@@ -5878,28 +5874,53 @@ D. Moral disagreements are intractable \\
    concerning what to do/value
 
    
-*** Question 5
+** Mackie's 'Queerness' Argument
+*** Question 1
 Mackie's "argument from queerness" assumes that objective values would have to
 be what?
 
-#+BEGIN_QUOTE
 A. Just like other facts \\ 
 B. Unknowable \\ 
 C. Intrinsically action-guiding  \\
 D. Dependent on the character of the knower \\
-#+END_QUOTE
+
+*** Question 2
+According to 'Internalism' 
+
+A. one is always motivated
+B. knowledge of the good motivates one to do what is good
+C. knowledge of the good is subjective
+D. knowledge of the good is objective
 
 *** Mackie's "Internalist" Assumption
 
 -  Internalism: :: objective values must be intrinsically motivating ---
-   knowledge of a moral requirement entails being motivated to follow
-   that requirement
+                   knowledge of a moral requirement entails being motivated to
+                   follow that requirement
 
-#+BEGIN_NOTES
--  Externalism: :: The motivational force of value is a contingent
-psychological fact, depending on the psychological structure of an
-agent
-#+END_NOTES
+
+*** Question 3
+According to 'Externalism'
+
+A. knowledge of the good always motivates one to do the good
+B. one is never motivated to do what is good
+C. one is always motivated one to do good
+D. one's motivation to do good is independent of one's knowledge of the good
+
+
+*** Externalism
+
+-  Externalism: :: The motivational force of value (i.e. something good or
+                   bad) is a contingent psychological fact, depending on the
+                   psychological structure of an agent
+
+*** Question 4
+
+The amoralist is a problem for
+
+A. internalism
+B. externalism
+   
 ** Wolf on Meaning 
 *** Question 1 
 One problem with hedonistic conceptions of value is that they 
