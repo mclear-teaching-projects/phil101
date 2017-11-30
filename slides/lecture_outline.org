@@ -4816,8 +4816,9 @@ D. Moral disagreements are intractable \\
 2. Objectively, we also recognize that our choices are ultimately
    'non-serious' or arbitrary
 3. The subjective and the objective cannot be reconciled & cannot be avoided
-4. \therefore There is a persistent and inescapable mismatch between the aspirations of
-   life and the conditions under which it is lived
+4. \therefore There is a persistent and inescapable mismatch between the conditions of
+   life (the objective) and the conditions under which it is lived (the
+   subjective)
 5. \therefore Life is absurd
 
 ** Absurdity as the Human Condition
