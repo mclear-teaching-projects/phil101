@@ -4997,10 +4997,10 @@ value of which has its source outside the subject. (Wolf, 20)
 #+ATTR_REVEAL: :frag (appear)
 - What is the relation between (a) and (b) ? 
   #+ATTR_REVEAL: :frag (appear)
-  - Accidental?
+  - Cannot be merely accidental
     #+ATTR_REVEAL: :frag (appear)
     - pot-smoker 
-  - Non-accidental but not "engaged"?
+  - Cannot be solely for something positive
     #+ATTR_REVEAL: :frag (appear)
     - conscripted soldier
 
@@ -5513,6 +5513,15 @@ A. there are no objective values
 B. God does not exist
 C. we are capable of self-reflection and questioning why we do what we do
 D. life is ironic
+
+5. Nagel thinks that the death argument fails as a reason for thinking life is meaningless because
+
+A. death isn't relevant to the meaning of life
+B. not everyone dies
+C. some deaths are more meaningful than others
+D. our finite lifespan doesn't affect the fact that we can give reasons for actions within our lives
+
+answers: A, C, B, C, D
 
 * Clicker Questions
 ** Logic & Argument
