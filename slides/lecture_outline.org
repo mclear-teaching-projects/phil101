@@ -5043,8 +5043,8 @@ way (Wolf, 8)
 * Exam Review
 
 ** Time & Place
-- HAH 102
-- 10:00 to 12:00 noon, Friday, December 16^th
+- TEACH 105
+- 10:00 to 12:00 noon, Wednesday, December 13^th
 - http://registrar.unl.edu/final-exam-schedule-fall
 
 ** Content
@@ -5938,9 +5938,8 @@ One problem with hedonistic conceptions of value is that they
 #+BEGIN_QUOTE
 A. don't tell us what is valuable \\
 B. are unsatisfying  \\
-C. do not account for why we think it is important to do certain kinds of
-thing and not just experience them \\
-D. do not account for why it is important to value pain and avoid pleasure \\
+C. do not account for why we think it is important to do certain kinds of thing and not just experience them \\
+D. value pain and avoid pleasure \\
 #+END_QUOTE
 
 *** Question 2
